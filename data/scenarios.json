@@ -164,7 +164,171 @@
       "What does 'walking away' cost you if this is the best offer you'll ever get?"
     ]
   },
-
+  {
+    "id": "saas-016",
+    "industry": "SaaS",
+    "title": "January's Churn Wave Has a Pattern",
+    "setup": "New-fiscal-year housecleaning brings January cancellations 2x the monthly average — and exit surveys show 60% cite 'consolidating tools.' Your product sits in a category CFOs increasingly see as a feature, not a platform.",
+    "questions": [
+      "Is this seasonal churn or the leading edge of category consolidation?",
+      "What would make you the tool others get consolidated into?",
+      "Which at-risk accounts do you fight for, and which do you let go profitably?"
+    ]
+  },
+  {
+    "id": "saas-017",
+    "industry": "SaaS",
+    "title": "The February Board Meeting Number",
+    "setup": "Your first board meeting of the year is in ten days. Q4 bookings beat plan, but net revenue retention slipped below 100% for the first time — and one board member has been vocal that NRR is the only number that matters at your stage.",
+    "questions": [
+      "Do you lead with the beat or the slip?",
+      "What's the honest diagnosis of the NRR decline — pricing, product, or customer mix?",
+      "What would you commit to fixing by the next meeting, and is it actually fixable in a quarter?"
+    ]
+  },
+  {
+    "id": "saas-018",
+    "industry": "SaaS",
+    "title": "Usage-Based Pricing Backfires in Budget Season",
+    "setup": "In March, your largest usage-based customer gets an invoice 3x their monthly norm after a successful product launch drove their traffic. Their procurement team calls it a 'billing incident' and demands a cap — mid-contract.",
+    "questions": [
+      "Do you cap them and set a precedent, or hold terms and risk the renewal?",
+      "Is a bill spike from customer success actually a failure of your pricing model's design?",
+      "What would a pricing structure that scales with customer success — without punishing it — look like?"
+    ]
+  },
+  {
+    "id": "saas-019",
+    "industry": "SaaS",
+    "title": "The April Fools Feature Announcement That Wasn't",
+    "setup": "A joke feature your team announced on April 1st gets an overwhelming 'wait, we'd actually pay for that' response — thousands of signups to a waitlist for a product that doesn't exist.",
+    "questions": [
+      "Is this real demand signal or costless enthusiasm that vanishes at a price point?",
+      "Do you build it, and what gets displaced from the roadmap if so?",
+      "How do you convert the waitlist's energy before it cools, even without a product?"
+    ]
+  },
+  {
+    "id": "saas-020",
+    "industry": "SaaS",
+    "title": "A Partner Becomes a Competitor",
+    "setup": "In May, the platform partner that drives 30% of your new signups announces a native feature that overlaps your core use case, launching at their June conference.",
+    "questions": [
+      "Do you deepen the partnership, diversify channels hard, or start building off-platform?",
+      "What's defensible when the platform owns the customer relationship and the distribution?",
+      "How much runway do you have before the native feature is good enough for most users?"
+    ]
+  },
+  {
+    "id": "saas-021",
+    "industry": "SaaS",
+    "title": "The Mid-Year Price Increase Memo",
+    "setup": "Finance models show a 12% price increase in July would fund the hiring plan without new capital. Support tickets are stable, NPS is fine, but you haven't raised prices in three years and the customer base doesn't know what a price increase from you looks like.",
+    "questions": [
+      "Grandfather existing customers, phase them in, or one clean increase for everyone?",
+      "What value story has to land before the email does?",
+      "What churn rate would make the increase a mistake, and what's your early-warning signal?"
+    ]
+  },
+  {
+    "id": "saas-022",
+    "industry": "SaaS",
+    "title": "August's Quiet Feature Launch Data",
+    "setup": "You shipped your biggest feature of the year into August's low-usage season. Adoption is 8% after three weeks. The team argues it's the vacation dip; the data team notes trial users in the same period adopted at 20%.",
+    "questions": [
+      "What does the trial-versus-existing gap actually tell you?",
+      "Was August the wrong launch month, or is the feature discoverable only to people learning the product fresh?",
+      "Do you relaunch it in September or fix the in-product discovery first?"
+    ]
+  },
+  {
+    "id": "saas-023",
+    "industry": "SaaS",
+    "title": "The September Analyst Report Snub",
+    "setup": "The industry analyst report your enterprise buyers read before every Q4 evaluation just published — and dropped you from the leaders' quadrant, citing 'unclear enterprise roadmap.' Three active deals ask about it within a week.",
+    "questions": [
+      "How do you handle the report in live deals — rebut, reframe, or redirect to references?",
+      "Is the analyst wrong, or is the enterprise roadmap actually unclear?",
+      "What's the year-long analyst-relations motion that prevents this next cycle?"
+    ]
+  },
+  {
+    "id": "saas-024",
+    "industry": "SaaS",
+    "title": "The Q4 Pipeline Is Three Deals",
+    "setup": "It's October and 70% of your Q4 number sits in three enterprise deals. Each has a champion, a budget, and a security review that could slip into January for reasons entirely outside your control.",
+    "questions": [
+      "What de-risking can you actually do — parallel paths, exec sponsorship, contract pre-work?",
+      "Do you build a Q4 plan that survives losing one of the three?",
+      "How did the pipeline get this concentrated, and what changes about next year's coverage model?"
+    ]
+  },
+  {
+    "id": "saas-025",
+    "industry": "SaaS",
+    "title": "The Holiday On-Call Rotation Revolt",
+    "setup": "In November, three senior engineers decline the December holiday on-call rotation, citing burnout from a year of incidents. Your biggest customers are retailers whose peak season is exactly that window.",
+    "questions": [
+      "What makes holiday on-call worth volunteering for — pay, comp days, or fixing why incidents happen?",
+      "Is the real problem the rotation or the incident rate underneath it?",
+      "What do you owe the retail customers whose peak you cover, and does your staffing reflect it?"
+    ]
+  },
+  {
+    "id": "saas-026",
+    "industry": "SaaS",
+    "title": "The Year-End Data Deletion Request",
+    "setup": "In December, a churned enterprise customer invokes their contract's data-deletion clause — and your engineers discover backups aren't architected for single-tenant deletion without a costly manual process nobody scoped.",
+    "questions": [
+      "What do you tell the customer about timeline and method, and how honest is it?",
+      "Is this a one-off engineering project or a compliance debt affecting every future churn?",
+      "What contract language should sales stop agreeing to until the architecture catches up?"
+    ]
+  },
+  {
+    "id": "saas-027",
+    "industry": "SaaS",
+    "title": "Your Champion Just Got Laid Off",
+    "setup": "January layoffs at your biggest account eliminate your executive champion and half the team using your product. The new budget owner inherits your renewal — due in March — with no relationship and a mandate to cut spend 20%.",
+    "questions": [
+      "How do you build a relationship with the new owner in eight weeks, starting from a cost line item?",
+      "What usage evidence survives the team shrinking by half?",
+      "Should your customer success model track champion risk the way sales tracks deal risk?"
+    ]
+  },
+  {
+    "id": "saas-028",
+    "industry": "SaaS",
+    "title": "The Free Tier Is Growing the Wrong Way",
+    "setup": "By spring, your free tier has doubled — but conversion to paid fell from 4% to 1.8%. Infrastructure costs for free users now exceed the marketing budget the tier was meant to replace.",
+    "questions": [
+      "Is the free tier a funnel or a leak, and what evidence decides it?",
+      "What limits would push serious users to convert without gutting the tier's acquisition value?",
+      "If you tightened it, which of today's free users would you actually miss?"
+    ]
+  },
+  {
+    "id": "saas-029",
+    "industry": "SaaS",
+    "title": "The June SOC 2 Audit Finding",
+    "setup": "Your annual SOC 2 audit surfaces a finding: a contractor retained production access for four months after their engagement ended. Nothing was touched, but the finding goes in the report your Q4 enterprise prospects will all read.",
+    "questions": [
+      "Do you flag it proactively in active deals or answer only when asked?",
+      "What's the remediation story that turns the finding into a maturity signal?",
+      "What does the offboarding failure say about what else the audits aren't catching?"
+    ]
+  },
+  {
+    "id": "saas-030",
+    "industry": "SaaS",
+    "title": "The AI Rewrite Question",
+    "setup": "It's mid-year and your board asks the question every SaaS board is asking: could an AI-native startup rebuild your core workflow product in a quarter? Your honest internal assessment is 'most of it, yes.'",
+    "questions": [
+      "What in the product — data, integrations, trust, workflow depth — is actually hard to rebuild?",
+      "Do you disrupt your own interface before someone else does, and what does that break?",
+      "If you were founding a competitor today, what would you build first — and why isn't that your roadmap?"
+    ]
+  },
   {
     "id": "manufacturing-001",
     "industry": "Manufacturing",
@@ -330,7 +494,171 @@
       "What's your message to customers if this creates a supply gap in the coming months?"
     ]
   },
-
+  {
+    "id": "manufacturing-016",
+    "industry": "Manufacturing",
+    "title": "January's Annual Price Letter War",
+    "setup": "Your annual price-increase letters went out January 2nd: 6% across the board. Your largest customer — 20% of revenue — responded with a counter-letter demanding a 3% decrease, citing two competitors' quotes.",
+    "questions": [
+      "Is the quote threat real, and how do you find out before blinking?",
+      "What does the relationship history earn either side in this negotiation?",
+      "If you lose 20% of revenue, what's the actual timeline and cost to backfill it?"
+    ]
+  },
+  {
+    "id": "manufacturing-017",
+    "industry": "Manufacturing",
+    "title": "The February Capex Freeze",
+    "setup": "Corporate freezes capital spending in February after a weak Q4 — including the already-approved replacement for a press that maintenance rates as 'run to failure within 12 months.' Peak production season starts in five months.",
+    "questions": [
+      "Do you fight the freeze with a risk case, or build a failure contingency plan?",
+      "What does an unplanned failure in peak season cost versus the capex being frozen?",
+      "Can maintenance investment buy enough reliability to bridge a year?"
+    ]
+  },
+  {
+    "id": "manufacturing-018",
+    "industry": "Manufacturing",
+    "title": "The March Quality Escape",
+    "setup": "A customer's incoming inspection catches a dimensional defect in a March shipment — the third escape in six months from the same cell. They're now inspecting 100% of your parts and billing you for it, and their annual supplier scorecard locks in April.",
+    "questions": [
+      "What does the scorecard hit cost you in next year's volume allocation?",
+      "Is the cell's problem equipment, method, or a metric that rewards speed over quality?",
+      "Do you go to the customer with a corrective plan before they ask for one?"
+    ]
+  },
+  {
+    "id": "manufacturing-019",
+    "industry": "Manufacturing",
+    "title": "April's Apprenticeship Decision",
+    "setup": "Half your skilled machinists retire within eight years, and this April's trade-school graduating class is your best recruiting window of the year. A real apprenticeship program costs $80k per year and three years per machinist — and your competitor poaches trained people at year two.",
+    "questions": [
+      "How do you build training that survives poaching — contracts, culture, or pay progression?",
+      "What's the true cost of not training, paid in overtime and turned-down orders?",
+      "Could a shared regional program with other manufacturers beat going alone?"
+    ]
+  },
+  {
+    "id": "manufacturing-020",
+    "industry": "Manufacturing",
+    "title": "The May Freight Contract Renewal",
+    "setup": "Your annual freight contract renews in May, and carriers are quoting 15% increases citing fuel and driver costs. Your sales quotes for the next year already assume flat freight.",
+    "questions": [
+      "Do you lock a year at +15%, go spot-market and gamble, or split the difference?",
+      "Whose margin absorbs the gap on quotes already committed?",
+      "Should freight assumptions in quotes carry an escalator the way materials increasingly do?"
+    ]
+  },
+  {
+    "id": "manufacturing-021",
+    "industry": "Manufacturing",
+    "title": "The June Insourcing Pitch",
+    "setup": "A team lead proposes insourcing a machined component you've bought for years, showing a 30% piece-cost saving. The catch: it needs a machine purchase, six months of ramp, and the current supplier also feeds you two other critical parts.",
+    "questions": [
+      "What does the supplier relationship risk add to the insourcing business case?",
+      "Is the 30% saving real once ramp scrap, maintenance, and opportunity cost land?",
+      "What signal does insourcing send your other suppliers about their future?"
+    ]
+  },
+  {
+    "id": "manufacturing-022",
+    "industry": "Manufacturing",
+    "title": "July's Heat Wave Hits the Floor",
+    "setup": "A July heat wave pushes shop-floor temperatures past 95°F. Productivity drops, two workers go home with heat symptoms, and the only quotes for cooling the high-bay space are eye-watering. August is usually hotter.",
+    "questions": [
+      "What's the immediate playbook — shifted hours, rotation, cooling stations — for the next six weeks?",
+      "Where's the line between comfort spending and safety obligation?",
+      "Is climate-driven summer heat now an annual operating condition your budget should assume?"
+    ]
+  },
+  {
+    "id": "manufacturing-023",
+    "industry": "Manufacturing",
+    "title": "The August Cyber Insurance Questionnaire",
+    "setup": "Your cyber insurance renewal questionnaire arrives in August with new requirements: network segmentation between IT and the production floor, and MFA on all systems. Your 20-year-old machine controllers can't do either. Non-compliance triples the premium — or voids coverage.",
+    "questions": [
+      "Do you pay the premium, invest in segmentation, or self-insure the OT risk?",
+      "What would a ransomware stop of the production floor actually cost per week?",
+      "Whose budget does OT security belong to — IT, operations, or risk?"
+    ]
+  },
+  {
+    "id": "manufacturing-024",
+    "industry": "Manufacturing",
+    "title": "September's Double Broker Discovery",
+    "setup": "A late shipment investigation in September reveals your freight broker has been double-brokering your loads to unvetted carriers. One of those carriers just had an uninsured accident with your goods aboard.",
+    "questions": [
+      "What's your recovery path for the lost load, and who actually owes you?",
+      "Do you fire the broker mid-peak-season with holiday shipping ahead?",
+      "What carrier-vetting requirements belong in your freight contracts from now on?"
+    ]
+  },
+  {
+    "id": "manufacturing-025",
+    "industry": "Manufacturing",
+    "title": "The October Inventory Write-Down",
+    "setup": "Pre-audit inventory review in October finds $2M of raw material bought during the shortage panic two years ago, now worth half its book value and physically in the way of holiday production flow.",
+    "questions": [
+      "Do you take the write-down this fiscal year or carry the fiction another year?",
+      "What buying-policy changes stop the next panic-buy — and would you actually follow them in the next shortage?",
+      "Can any of the material be reworked, resold, or traded rather than written off?"
+    ]
+  },
+  {
+    "id": "manufacturing-026",
+    "industry": "Manufacturing",
+    "title": "November's Overtime Fatigue Signal",
+    "setup": "Six weeks into the year-end production push, November's numbers show overtime at 28% — and recordable incidents at double the annual rate, all in overtime hours. Two more heavy weeks are scheduled.",
+    "questions": [
+      "Is the correlation between fatigue and incidents enough to change the schedule this week?",
+      "What's the incident trend worth against the delivery commitments the overtime protects?",
+      "What capacity decision made last spring created this November?"
+    ]
+  },
+  {
+    "id": "manufacturing-027",
+    "industry": "Manufacturing",
+    "title": "The December Vendor Gift Audit",
+    "setup": "Your new compliance officer flags December's tradition: purchasing staff receiving substantial holiday gifts from suppliers — tickets, cases of wine, one weekend trip. Nothing violates a written policy, because there isn't one.",
+    "questions": [
+      "Where's the line between relationship customs and influence, and who draws it?",
+      "Do you write the policy effective now, mid-December, or January 1st?",
+      "Does purchasing's supplier-selection history need a look, and how do you do that without accusing anyone?"
+    ]
+  },
+  {
+    "id": "manufacturing-028",
+    "industry": "Manufacturing",
+    "title": "The New Year Reshoring Inquiry",
+    "setup": "In January, a Fortune 500 company you've never worked with asks if you could take on reshored volume that would double your revenue — with a decision needed by March and production by September. Their last supplier relationship famously ended with a brutal cost-down squeeze.",
+    "questions": [
+      "Can you scale that fast without betting the company on one customer?",
+      "What terms protect you from becoming the next squeezed supplier?",
+      "Do your existing customers suffer during the ramp, and which ones can least afford to?"
+    ]
+  },
+  {
+    "id": "manufacturing-029",
+    "industry": "Manufacturing",
+    "title": "February's Predictive Maintenance Pilot Verdict",
+    "setup": "Your year-long predictive maintenance pilot on Line 2 just closed with February's report: downtime fell 18%, but the sensor platform's annual license across all lines would cost more than last year's total unplanned-downtime losses.",
+    "questions": [
+      "Was Line 2's improvement the sensors, or the attention the pilot brought?",
+      "Is there a cheaper path to the same result — better PM discipline, selective sensors on critical assets?",
+      "What would the vendor's price need to be, and do you negotiate or walk?"
+    ]
+  },
+  {
+    "id": "manufacturing-030",
+    "industry": "Manufacturing",
+    "title": "The Spring Flood Plain Letter",
+    "setup": "In March, your property insurer reclassifies your 40-year-old plant site into a higher flood-risk category, raising premiums 60% and hinting at future non-renewal. Relocation is a $30M, three-year proposition; the river hasn't flooded since 1987.",
+    "questions": [
+      "Do you trust the insurer's climate model or the 40-year track record?",
+      "What flood mitigation investment would change the classification, and is it cheaper than the premium delta?",
+      "At what point does a paid-off plant in the wrong place become the expensive option?"
+    ]
+  },
   {
     "id": "healthcare-001",
     "industry": "Healthcare",
@@ -496,7 +824,171 @@
       "Should future events be sized differently, or is this a good problem to have?"
     ]
   },
-
+  {
+    "id": "healthcare-016",
+    "industry": "Healthcare",
+    "title": "January's Deductible Reset Collections",
+    "setup": "Deductibles reset January 1st, and by month's end patient-responsibility balances are triple the fall average. Front-desk staff are undertrained for financial conversations, and complaints about 'surprise' costs are climbing.",
+    "questions": [
+      "How do you collect effectively without making the front desk feel like a collections agency?",
+      "What pre-visit cost transparency would prevent the surprise in the first place?",
+      "Should January staffing include dedicated financial counselors, given this happens every year?"
+    ]
+  },
+  {
+    "id": "healthcare-017",
+    "industry": "Healthcare",
+    "title": "The February Locum Bill",
+    "setup": "Covering winter vacancies with locum physicians is costing 2.5x employed-physician rates, and February's numbers show locums now covering 20% of shifts. Recruiting says permanent hires are 9-12 months out.",
+    "questions": [
+      "Is the locum spend a bridge or a business model you've backed into?",
+      "What makes permanent roles here attractive enough to close in months, not a year?",
+      "Which service lines could safely reduce coverage instead of buying it at 2.5x?"
+    ]
+  },
+  {
+    "id": "healthcare-018",
+    "industry": "Healthcare",
+    "title": "March Madness in the ED",
+    "setup": "Your emergency department's March data shows 30% of visits were treatable in primary care — but your own primary care practices have three-week waits, and the community's two walk-in clinics closed last year.",
+    "questions": [
+      "Is ED overuse a patient-behavior problem or an access-design problem you own?",
+      "What would same-week primary care access cost versus what avoidable ED visits cost?",
+      "Does an urgent-care tier belong in your system, even if it cannibalizes ED revenue?"
+    ]
+  },
+  {
+    "id": "healthcare-019",
+    "industry": "Healthcare",
+    "title": "The April Prior Authorization Pile-Up",
+    "setup": "A major insurer's new prior-authorization requirements, effective April 1st, add review steps to procedures that were previously automatic. Your surgical schedule is developing holes as authorizations lag, and staff overtime for appeals paperwork is climbing.",
+    "questions": [
+      "Do you staff up for the paperwork war or push back through the payer relationship?",
+      "What do schedule holes cost versus the administrative staffing to prevent them?",
+      "Which procedures should shift to payers with saner authorization rules, where patients allow?"
+    ]
+  },
+  {
+    "id": "healthcare-020",
+    "industry": "Healthcare",
+    "title": "May's Nurse Residency Cohort Decision",
+    "setup": "Nursing school graduation is in May, and your residency program can take 20 new grads. Last year's cohort had 30% leave within 18 months — mostly to a competitor paying $8k more after you paid for their first-year training.",
+    "questions": [
+      "Do retention contracts for trained nurses help or poison the well?",
+      "What did exit interviews say the $8k was actually standing in for?",
+      "Is training the region's nurses a cost to minimize or an identity to leverage?"
+    ]
+  },
+  {
+    "id": "healthcare-021",
+    "industry": "Healthcare",
+    "title": "The June Ransomware Tabletop Goes Badly",
+    "setup": "Your June disaster exercise simulates ransomware taking down the EHR for 72 hours. The result: departments couldn't locate paper forms, two units had no downtime procedures at all, and lab results routing collapsed in the first simulated hour.",
+    "questions": [
+      "What's the minimum viable paper workflow every unit must prove quarterly?",
+      "Does this result change your cyber insurance, your backup architecture, or both?",
+      "How do you keep downtime readiness alive when the EHR works fine 99.9% of the time?"
+    ]
+  },
+  {
+    "id": "healthcare-022",
+    "industry": "Healthcare",
+    "title": "July's New Residents and the Safety Data",
+    "setup": "It's July — new residents start, and your quality team quietly tracks the well-documented seasonal uptick in medication errors and near-misses that follows. This year a board member read about the 'July effect' and wants a formal response.",
+    "questions": [
+      "What supervision structures actually blunt the July effect versus just adding paperwork?",
+      "How transparent should you be with patients about the seasonal reality of teaching hospitals?",
+      "What does the near-miss data from past Julys say you should change this one?"
+    ]
+  },
+  {
+    "id": "healthcare-023",
+    "industry": "Healthcare",
+    "title": "The August Charity Care Headline",
+    "setup": "A local newspaper's August investigation names your hospital among nonprofits whose charity care spending trails their tax exemption's value, with a patient's billing story as the centerpiece. A city council member is now questioning your property tax status.",
+    "questions": [
+      "Is the criticism substantively fair, and does your answer change the response strategy?",
+      "What charity-care and billing changes would you defend making regardless of the pressure?",
+      "Who tells your community-benefit story publicly, and why wasn't it landing before this?"
+    ]
+  },
+  {
+    "id": "healthcare-024",
+    "industry": "Healthcare",
+    "title": "September's Specialist Poaching Offer",
+    "setup": "A private equity-backed specialty group offers to acquire your three-physician cardiology practice in September — the physicians are tempted, and losing them means losing the cath lab volume that subsidizes two unprofitable service lines.",
+    "questions": [
+      "What can you offer that competes with a PE buyout — and should you?",
+      "If they go, what's the real timeline before cath lab volume follows them?",
+      "Which subsidized service lines survive without cardiology's contribution margin?"
+    ]
+  },
+  {
+    "id": "healthcare-025",
+    "industry": "Healthcare",
+    "title": "The October Flu Shot Standoff",
+    "setup": "Your October employee flu vaccination rate is 71% against a system target of 90%, and this year's early flu indicators are bad. The options on the table range from incentives to mask mandates for the unvaccinated to making it a condition of employment.",
+    "questions": [
+      "Which lever gets you to 90% with the least damage to trust and retention?",
+      "What does staff vaccination actually protect — patients, operations, or optics — and does the answer change the policy?",
+      "How did peer hospitals that hit 90% get there?"
+    ]
+  },
+  {
+    "id": "healthcare-026",
+    "industry": "Healthcare",
+    "title": "November's Observation Status Complaints",
+    "setup": "Patient complaints about 'observation status' — hospitalized but technically outpatient, with the different billing that follows — spike in November as Medicare open enrollment gets seniors reading their statements closely. Your observation rates are within norms, but nobody explains status to patients at admission.",
+    "questions": [
+      "Whose job is the observation-status conversation, and when should it happen?",
+      "Are your observation-status decisions clinically driven or billing-driven, and can you prove it?",
+      "What would it cost to just communicate this well, versus what the complaints cost?"
+    ]
+  },
+  {
+    "id": "healthcare-027",
+    "industry": "Healthcare",
+    "title": "The December 31st Surgery Rush",
+    "setup": "The last two weeks of December bring the annual surge of patients who've met their deductibles racing to schedule procedures before the reset. Your ORs are booked past capacity, staff want holiday time, and January's schedule is nearly empty.",
+    "questions": [
+      "How much December demand can you safely absorb before quality risk outweighs revenue?",
+      "Could pricing or scheduling incentives pull some deductible-driven demand into January?",
+      "Is the December-crush-January-crater cycle something to manage or something to redesign around?"
+    ]
+  },
+  {
+    "id": "healthcare-028",
+    "industry": "Healthcare",
+    "title": "The January Weight-Loss Drug Formulary Call",
+    "setup": "New-year demand for GLP-1 weight-loss prescriptions is overwhelming your primary care practices, and your employed-physician group needs a consistent stance: your own employee health plan is also projecting an eight-figure cost if uptake continues.",
+    "questions": [
+      "Can your clinical stance and your benefits-cost stance on the same drugs honestly differ?",
+      "What's the criteria framework that keeps prescribing consistent across 40 physicians?",
+      "How do you handle the patients who'll go to telehealth prescribers if you say no?"
+    ]
+  },
+  {
+    "id": "healthcare-029",
+    "industry": "Healthcare",
+    "title": "February's AI Scribe Pilot Results",
+    "setup": "Your three-month AI documentation scribe pilot ends in February: physicians using it report 45 fewer minutes of after-hours charting daily and love it — but coding review found it occasionally omits billable complexity, costing an estimated 4% of revenue per encounter.",
+    "questions": [
+      "Is 45 minutes of physician time worth 4% of encounter revenue — and whose call is that?",
+      "Can the coding gap be fixed with review workflow, or is it inherent to the tool?",
+      "If you roll it out, do you credit the time savings toward more patients or less burnout?"
+    ]
+  },
+  {
+    "id": "healthcare-030",
+    "industry": "Healthcare",
+    "title": "The Spring Ratings Drop",
+    "setup": "CMS star ratings refresh in spring, and your flagship hospital drops from four stars to three, driven by readmission data from a period two years ago — before improvements you've already made. Competitors' marketing teams notice within a week.",
+    "questions": [
+      "How do you counter a public rating you believe is stale without sounding defensive?",
+      "Which referring physicians and payers actually change behavior on a star rating, and what do they need to hear?",
+      "What's the internal reaction — urgency or injustice — and which one does the culture reward?"
+    ]
+  },
   {
     "id": "retail-banking-001",
     "industry": "Retail Banking",
@@ -662,7 +1154,171 @@
       "How do you communicate this risk internally and to regulators if required?"
     ]
   },
-
+  {
+    "id": "retail-banking-016",
+    "industry": "Retail Banking",
+    "title": "January's Branch Traffic Cliff",
+    "setup": "Post-holiday January branch traffic is down 30% from a year ago, continuing a steady migration to digital — but the customers still coming in skew older and hold your highest deposit balances.",
+    "questions": [
+      "How do you cut branch cost without alienating the customers who fund your balance sheet?",
+      "What does the branch mean to a high-balance customer who rarely uses it — and does closing it break something invisible?",
+      "Is there a branch format between full-service and closed?"
+    ]
+  },
+  {
+    "id": "retail-banking-017",
+    "industry": "Retail Banking",
+    "title": "The February Overdraft Fee Decision",
+    "setup": "Two major national banks eliminated overdraft fees in January, and your February board meeting will discuss following. Overdraft revenue is 4% of your income; the customers who pay it skew toward your most financially fragile.",
+    "questions": [
+      "Is overdraft revenue worth the reputational and regulatory trajectory it sits on?",
+      "What replaces the revenue — and does the replacement just move the burden elsewhere?",
+      "If you keep fees, what's the defensible version — caps, grace periods, real-time alerts?"
+    ]
+  },
+  {
+    "id": "retail-banking-018",
+    "industry": "Retail Banking",
+    "title": "March's Commercial Real Estate Review",
+    "setup": "Your March portfolio review flags that office-building loans — 15% of your commercial book — face a wall of maturities over 18 months, in a market where those buildings appraise 30% below origination values.",
+    "questions": [
+      "Do you extend and pretend, restructure proactively, or take losses early on the worst credits?",
+      "What does the regulator expect to see in your CRE workout playbook before they ask?",
+      "Which borrowers are worth partnering through the trough, and which are already gone?"
+    ]
+  },
+  {
+    "id": "retail-banking-019",
+    "industry": "Retail Banking",
+    "title": "The April Teller Turnover Problem",
+    "setup": "Spring hiring season data shows teller turnover hit 40% annually — every retailer and warehouse in town pays comparable wages for less emotional labor. Each departure costs an estimated $15k in hiring and training.",
+    "questions": [
+      "Is the teller role as currently designed simply obsolete at this wage?",
+      "What would a career-path version of the front line look like, and what does it cost versus 40% turnover?",
+      "Which branch tasks could automation absorb so fewer, better-paid people handle the rest?"
+    ]
+  },
+  {
+    "id": "retail-banking-020",
+    "industry": "Retail Banking",
+    "title": "May's Zelle Scam Wave",
+    "setup": "May brings a wave of customers scammed into authorizing instant transfers — romance scams, fake fraud-department calls. Legally you may owe them nothing, since they authorized the payments. Three cases are now with a local TV consumer reporter.",
+    "questions": [
+      "Where do you land between legal obligation and customer protection — and can you afford your answer at scale?",
+      "What friction in the payment flow would stop scams without killing the product's point?",
+      "How do you get ahead of the TV story rather than respond to it?"
+    ]
+  },
+  {
+    "id": "retail-banking-021",
+    "industry": "Retail Banking",
+    "title": "The June Core Banking Decision",
+    "setup": "Your core banking system contract renews in June for five years. The incumbent is stable, expensive, and slow to ship features; the modern challenger is cheaper and faster but has never converted a bank your size. Every fintech partnership you want is easier on the new core.",
+    "questions": [
+      "What does five more years on the old core cost in products you can't launch?",
+      "What's the honest failure probability of a core conversion, and what does failure look like?",
+      "Is there a middle path — sidecar core for new products, legacy for the base?"
+    ]
+  },
+  {
+    "id": "retail-banking-022",
+    "industry": "Retail Banking",
+    "title": "July's Deposit Concentration Warning",
+    "setup": "A quiet July risk review finds that your ten largest depositors now hold 18% of total deposits, most of it uninsured, most of it rate-shopping money that arrived during last year's CD promotion.",
+    "questions": [
+      "How fast could that money leave, and what's the liquidity plan for the day it does?",
+      "Do you pay up to retain hot money or let it run off and shrink deliberately?",
+      "What did the CD promotion actually buy you, knowing what you know now?"
+    ]
+  },
+  {
+    "id": "retail-banking-023",
+    "industry": "Retail Banking",
+    "title": "The August Small Business Credit Box",
+    "setup": "August lending data shows your small-business approval rate fell to 31% as underwriting tightened — while a fintech lender approves your declined applicants in hours at higher rates, and several of those businesses moved their deposits there too.",
+    "questions": [
+      "Is the tight credit box protecting you or handing your customer base to competitors loan by loan?",
+      "Could you serve the declined tier yourself with risk-adjusted pricing rather than a no?",
+      "What's a small-business deposit relationship worth in your lifetime-value math when the loan gets declined?"
+    ]
+  },
+  {
+    "id": "retail-banking-024",
+    "industry": "Retail Banking",
+    "title": "September's Branch Manager Exodus",
+    "setup": "Three of your twelve branch managers resign in September — all to the same competitor, all citing decision authority: your model routes every exception to regional office, theirs empowers the branch.",
+    "questions": [
+      "Is centralized control saving you more in risk than it's costing you in people?",
+      "What decisions could move to branch level tomorrow without real risk?",
+      "What do the remaining nine managers need to hear this week, and from whom?"
+    ]
+  },
+  {
+    "id": "retail-banking-025",
+    "industry": "Retail Banking",
+    "title": "The October Check Fraud Surge",
+    "setup": "Mailbox check theft and washing has made October's fraud losses triple last year's, concentrated in business accounts still paying vendors by mail. Positive-pay tools exist, but only 12% of your business customers have adopted them.",
+    "questions": [
+      "Do you make positive pay free, default, or mandatory for accounts writing checks?",
+      "Whose loss is a washed check in practice, and does your answer survive a big client dispute?",
+      "Is this the moment to push business customers off checks entirely?"
+    ]
+  },
+  {
+    "id": "retail-banking-026",
+    "industry": "Retail Banking",
+    "title": "November's Card Rewards Math",
+    "setup": "Ahead of holiday spending season, November's program review shows your flagship rewards card loses money on 30% of cardholders — the optimizers who redeem everything and revolve nothing — while the profitable revolvers subsidize them.",
+    "questions": [
+      "Do you re-tier the rewards knowing the optimizers are also your most vocal advocates?",
+      "Is a card that profits only from customers carrying debt the business you want?",
+      "What would the program look like designed around your actual margin, not the competitor's marketing?"
+    ]
+  },
+  {
+    "id": "retail-banking-027",
+    "industry": "Retail Banking",
+    "title": "The December CRA Exam Prep",
+    "setup": "Your Community Reinvestment Act exam is scheduled for Q1, and December's internal review shows lending in two low-income census tracts has quietly fallen near zero since a branch closure there three years ago.",
+    "questions": [
+      "What can credibly change in one quarter, and what needs a multi-year commitment the examiners will test later?",
+      "Was the branch closure's community impact assessed honestly at the time — and who asks that question about the next closure?",
+      "What partnerships could serve those tracts better than the branch did?"
+    ]
+  },
+  {
+    "id": "retail-banking-028",
+    "industry": "Retail Banking",
+    "title": "The New Year Data-Sharing Mandate",
+    "setup": "Open-banking rules taking effect this year require you to share customer data with authorized third parties via API. Compliance work is budgeted — but January strategy discussions keep treating it as pure cost, while two competitors are building products on other banks' data.",
+    "questions": [
+      "Are you building the minimum pipe or a position in the new plumbing?",
+      "What products could you build on data flowing toward you rather than away?",
+      "Which of your customers are most likely to aggregate away, and what keeps them?"
+    ]
+  },
+  {
+    "id": "retail-banking-029",
+    "industry": "Retail Banking",
+    "title": "February's ATM Fleet Verdict",
+    "setup": "Your ATM fleet needs a $4M refresh cycle decision by February. Cash withdrawals are down 40% over five years, but the machines are also your only physical presence in six communities where branches already closed.",
+    "questions": [
+      "Is an ATM a cash dispenser or a brand outpost, and does $4M make sense under either answer?",
+      "What does exiting cash access do to the communities — and to your CRA standing?",
+      "Could shared-fleet or white-label arrangements keep the presence at half the cost?"
+    ]
+  },
+  {
+    "id": "retail-banking-030",
+    "industry": "Retail Banking",
+    "title": "The Spring Deepfake Authorization",
+    "setup": "In March, a business customer's controller authorizes a $240k wire after a video call with someone who looked and sounded exactly like her CEO. It was a deepfake. The customer says your verification procedures should have caught it; your procedures were followed to the letter.",
+    "questions": [
+      "Whose loss is this, legally and relationally — and are those answers different?",
+      "What verification protocol survives deepfakes, and how fast can you deploy it?",
+      "Do you warn all business customers about this now, knowing it invites 'why weren't you protecting us already?'"
+    ]
+  },
   {
     "id": "hospitality-001",
     "industry": "Hospitality",
@@ -828,7 +1484,171 @@
       "What would it take to diversify away from dependence on corporate travel alone?"
     ]
   },
-
+  {
+    "id": "hospitality-016",
+    "industry": "Hospitality",
+    "title": "January's Dry Month Squeeze",
+    "setup": "Dry January has grown every year, and this year your hotel bar and restaurant revenue is down 25% for the month. Your beverage program is your highest-margin operation, and February looks only slightly better.",
+    "questions": [
+      "Do you fight the trend or build a serious non-alcoholic program with real margins?",
+      "What January programming could replace the bar revenue — wellness packages, dining events?",
+      "Is this a January problem or an early signal about your core beverage margins long-term?"
+    ]
+  },
+  {
+    "id": "hospitality-017",
+    "industry": "Hospitality",
+    "title": "The Valentine's Double-Seating Gamble",
+    "setup": "Valentine's Day falls on a Saturday this year. Your restaurant can either sell one leisurely seating at a premium prix fixe or two turns at higher total revenue but rushed service — on the one night guests most remember how it felt.",
+    "questions": [
+      "Which does your brand sell — the evening or the table?",
+      "What does a rushed anniversary dinner cost you in reviews and returns versus the second seating's revenue?",
+      "Could a bar-area tasting experience capture overflow demand without compromising the dining room?"
+    ]
+  },
+  {
+    "id": "hospitality-018",
+    "industry": "Hospitality",
+    "title": "March's OTA Dependence Reckoning",
+    "setup": "Your Q1 channel report lands in March: online travel agencies now deliver 65% of bookings at 18% commission, up from 50% two years ago. Direct booking incentives haven't moved the number, and your best OTA just raised its commission tier.",
+    "questions": [
+      "What would actually shift share to direct — price, perks, or product only bookable with you?",
+      "Is fighting OTA share even right, or should you optimize within their ecosystem?",
+      "What's the lifetime-value difference between an OTA guest and a direct guest, really?"
+    ]
+  },
+  {
+    "id": "hospitality-019",
+    "industry": "Hospitality",
+    "title": "The April Group Block Walk-Back",
+    "setup": "A corporate group holding 60% of your rooms for a late-April conference cuts its block in half three weeks out — inside the contract's reduction window, so no penalty applies. Those dates were turned away to other business months ago.",
+    "questions": [
+      "Can you refill half the house in three weeks, and at what rate desperation?",
+      "Should future group contracts trade lower rates for firmer commitments?",
+      "How do you keep the client relationship warm while eating the consequences of their contract right?"
+    ]
+  },
+  {
+    "id": "hospitality-020",
+    "industry": "Hospitality",
+    "title": "May's Pool Lifeguard Mandate",
+    "setup": "Three weeks before Memorial Day weekend opens pool season, your insurer mandates certified lifeguards during all pool hours — a cost you've never carried — after an industry-wide claims review. Certified guards are scarce in May because every property is hiring them.",
+    "questions": [
+      "Do you staff guards, restrict pool hours, or challenge the mandate with your broker?",
+      "What does a diminished pool experience cost during the season guests book you for?",
+      "Is this a one-insurer quirk or where the whole market is heading — and does that change the response?"
+    ]
+  },
+  {
+    "id": "hospitality-021",
+    "industry": "Hospitality",
+    "title": "The June Wedding Party Damage Bill",
+    "setup": "A June wedding party causes $30k in damage to your presidential suite and two floors. The father of the bride — a repeat corporate client worth six figures annually — says his card on file should not be charged and 'we'll work something out.'",
+    "questions": [
+      "How do you price the damage against the relationship without setting a precedent that big clients break things free?",
+      "What does your event contract actually entitle you to, and does enforcing it end the corporate account?",
+      "What security deposit and monitoring changes do high-risk events need going forward?"
+    ]
+  },
+  {
+    "id": "hospitality-022",
+    "industry": "Hospitality",
+    "title": "July's Housekeeping Opt-Out Economics",
+    "setup": "Your opt-out housekeeping program — pitched as green, adopted during labor shortages — now has July data: 40% of guests skip daily service, saving real labor cost, but deep-clean time between stays is up and guest cleanliness scores slipped two points.",
+    "questions": [
+      "Is opt-out housekeeping a sustainability program or a service cut wearing one's clothes?",
+      "Do the labor savings survive the longer turnovers and the score decline?",
+      "What would you learn from making the incentive symmetrical — pay guests to skip, charge nothing to keep?"
+    ]
+  },
+  {
+    "id": "hospitality-023",
+    "industry": "Hospitality",
+    "title": "The August Extended-Stay Pivot Pitch",
+    "setup": "An August strategy review shows your weakest property sits in a market flooded with new short-stay supply but starving for extended-stay inventory — travel nurses, relocations, project crews. Conversion means kitchenettes, different staffing, and exiting the nightly-rate business you know.",
+    "questions": [
+      "What evidence would make you confident the extended-stay demand is durable, not cyclical?",
+      "Which of your current team and systems transfer, and which have to be rebuilt?",
+      "Is a struggling property the right conversion candidate or just the available one?"
+    ]
+  },
+  {
+    "id": "hospitality-024",
+    "industry": "Hospitality",
+    "title": "September's Conference Season No-Show Data",
+    "setup": "Fall conference season opens and September's banquet data confirms a post-pandemic pattern: guaranteed-count no-show rates at group dinners have doubled, but clients still negotiate guarantees down and attrition clauses out, citing 'industry standard.'",
+    "questions": [
+      "Do you hold the line on guarantees and lose bids, or price the no-show risk into every proposal?",
+      "What does the doubled no-show rate do to food cost, labor scheduling, and waste?",
+      "Could data-sharing with repeat clients turn guarantee-setting collaborative instead of adversarial?"
+    ]
+  },
+  {
+    "id": "hospitality-025",
+    "industry": "Hospitality",
+    "title": "The October Haunted Reputation",
+    "setup": "A ghost-hunting web series films at your historic property in October without permission, and the episode goes viral. Paranormal tourism inquiries flood in — some guests are thrilled, but your bread-and-butter corporate clients are asking careful questions about 'brand fit.'",
+    "questions": [
+      "Do you lean into the haunted angle seasonally, ignore it, or actively counter it?",
+      "Can one property serve ghost tourists in October and risk-averse corporate planners in November?",
+      "What's the legal and practical response to the unauthorized filming — and does fighting it just amplify the story?"
+    ]
+  },
+  {
+    "id": "hospitality-026",
+    "industry": "Hospitality",
+    "title": "November's Dynamic Pricing Backlash",
+    "setup": "Your new revenue-management system tripled room rates for the weekend of a local disaster-relief effort in November — algorithmically correct, humanly terrible. Screenshots are circulating with the word 'gouging' before your team even noticed the rates.",
+    "questions": [
+      "What pricing guardrails does the algorithm need for events where demand spikes for the wrong reasons?",
+      "How do you respond publicly today — apology, refunds, donated rooms?",
+      "Who owns algorithmic decisions between the software, revenue management, and the GM?"
+    ]
+  },
+  {
+    "id": "hospitality-027",
+    "industry": "Hospitality",
+    "title": "The December Party Season Staffing Auction",
+    "setup": "Holiday party season books every event space in town, and December banquet staff have become free agents — three of your best servers just got offered $10/hour more for the exact dates you need them, by the hotel across the street.",
+    "questions": [
+      "Do you match December premiums and normalize seasonal bidding wars, or hold pay scales and risk short crews?",
+      "What non-wage loyalty do you actually offer a banquet server — and would you stay for it?",
+      "Should peak-season pricing to clients rise to fund peak-season pay?"
+    ]
+  },
+  {
+    "id": "hospitality-028",
+    "industry": "Hospitality",
+    "title": "The New Year Resort Fee Reckoning",
+    "setup": "New federal junk-fee rules effective January 1st require your resort fee in the advertised price. Displayed rates jump $45 overnight while competitors who never charged the fee suddenly look cheaper — even though total prices haven't changed at all.",
+    "questions": [
+      "Do you fold the fee into the rate, kill it and raise rates transparently, or keep the newly-visible line item?",
+      "What did the resort fee actually fund, and does anyone believe that story?",
+      "How do you handle the booking-comparison disadvantage during the adjustment months?"
+    ]
+  },
+  {
+    "id": "hospitality-029",
+    "industry": "Hospitality",
+    "title": "February's Loyalty Points Devaluation Decision",
+    "setup": "Your loyalty program's outstanding points liability has grown 35% and finance wants a February devaluation — raising redemption thresholds before spring booking season. The last devaluation, done quietly, generated a week of furious coverage from points bloggers.",
+    "questions": [
+      "Is there a way to reduce liability that members experience as change, not theft?",
+      "What do your most valuable members actually redeem for, and can you protect just that?",
+      "Loudly with notice, or quietly and absorb the blogger storm — which costs less trust?"
+    ]
+  },
+  {
+    "id": "hospitality-030",
+    "industry": "Hospitality",
+    "title": "The Spring Break Age Policy",
+    "setup": "After two years of spring break property damage and noise complaints driving off other guests, your Florida property proposes a 25+ age minimum for March bookings. Legal says it's permissible; revenue says it's 30% of March occupancy; the brand team is split.",
+    "questions": [
+      "What does hosting spring break actually net after damage, comps, staff churn, and displaced guests?",
+      "Is an age minimum the tool, or is it pricing, deposits, and enforcement you've been unwilling to do?",
+      "What fills 30% of March if the spring breakers go — and how long does that transition take?"
+    ]
+  },
   {
     "id": "medical-devices-001",
     "industry": "Medical Devices",
@@ -994,7 +1814,171 @@
       "Does this change how aggressively you should have cleared IP risk before launch?"
     ]
   },
-
+  {
+    "id": "medical-devices-016",
+    "industry": "Medical Devices",
+    "title": "January's Sales Kickoff Comp Plan Revolt",
+    "setup": "At January's national sales kickoff, the new comp plan lands badly: territory changes cut three top reps' account bases, and the hallway conversation is recruiters' InMails. Your Q1 pipeline lives in those reps' relationships.",
+    "questions": [
+      "Do you adjust the plan publicly in week one, or hold firm and manage the fallout rep by rep?",
+      "What was the territory redesign meant to fix, and is there another way to fix it?",
+      "Which accounts survive a rep departure, and which walk out the door with them?"
+    ]
+  },
+  {
+    "id": "medical-devices-017",
+    "industry": "Medical Devices",
+    "title": "The February EU MDR Deadline Math",
+    "setup": "February's regulatory review confirms it: recertifying your full catalog under EU MDR will cost more than several low-volume products earn in Europe. Discontinuing them abandons hospitals that depend on niche devices with no alternative supplier.",
+    "questions": [
+      "Which products justify recertification on strategy rather than spreadsheet math?",
+      "What do you owe the hospitals using the products you sunset, and how much notice is enough?",
+      "Is there a partner or licensee model that keeps niche products alive without your regulatory burden?"
+    ]
+  },
+  {
+    "id": "medical-devices-018",
+    "industry": "Medical Devices",
+    "title": "March's Sterilization Plant Warning",
+    "setup": "In March, the EPA signals tighter emissions rules for ethylene oxide sterilization facilities — and one of the two plants that sterilize your entire surgical line is a likely closure candidate. Industry-wide, capacity is already tight.",
+    "questions": [
+      "How fast can you validate alternate sterilization methods or sites, given validation itself takes months?",
+      "Do you book backup capacity now at premium prices, before everyone else does?",
+      "Which products could redesign toward sterilization methods with a future?"
+    ]
+  },
+  {
+    "id": "medical-devices-019",
+    "industry": "Medical Devices",
+    "title": "The April AI Diagnostic Clearance Race",
+    "setup": "In April, your main competitor receives FDA clearance for an AI-assisted diagnostic feature comparable to one sitting in your R&D backlog, deprioritized twice. Their press release names three of your flagship accounts as pilot sites.",
+    "questions": [
+      "Is fast-following now the right move, or does their clearance change what you should build?",
+      "Why did your version get deprioritized twice, and were those reasons wrong?",
+      "What do you say to the three named accounts this week?"
+    ]
+  },
+  {
+    "id": "medical-devices-020",
+    "industry": "Medical Devices",
+    "title": "May's GPO Contract Cliff",
+    "setup": "Your largest group purchasing organization contract — 30% of revenue — comes up for renewal in May, and the GPO wants an 8% price reduction plus a competitor added as dual source. Walking away means losing member hospitals' automatic access.",
+    "questions": [
+      "What does dual-sourcing actually cost you in share versus what the 8% costs in margin?",
+      "Which member hospitals would stay with you off-contract, and at what price to serve them directly?",
+      "What differentiation would make the GPO need you more than you need them?"
+    ]
+  },
+  {
+    "id": "medical-devices-021",
+    "industry": "Medical Devices",
+    "title": "The June Physician Preference Battle",
+    "setup": "A major hospital system's June value-analysis committee is standardizing your device category to a single vendor. Their surgeons prefer your device; their supply chain prefers your competitor's 15% lower price. The committee vote is in three weeks.",
+    "questions": [
+      "Do you compete on price, or arm the surgeons with outcome data to fight the standardization?",
+      "What evidence actually moves a value-analysis committee versus what just moves surgeons?",
+      "If you lose this system, what's the contagion risk as other systems copy their analysis?"
+    ]
+  },
+  {
+    "id": "medical-devices-022",
+    "industry": "Medical Devices",
+    "title": "July's Field Inventory Audit Shock",
+    "setup": "July's mid-year audit of field inventory — trunk stock and consignment at hospitals — finds 12% unaccounted for: expired, lost, or quietly used without purchase orders. That's seven figures of product and a compliance exposure if any reached patients past expiry.",
+    "questions": [
+      "What's the immediate patient-safety obligation versus the financial cleanup?",
+      "Is consignment inventory a sales necessity or a control failure you've institutionalized?",
+      "What tracking would fix this, and why has the sales team resisted it?"
+    ]
+  },
+  {
+    "id": "medical-devices-023",
+    "industry": "Medical Devices",
+    "title": "The August Conference Data Leak",
+    "setup": "Two weeks before the year's biggest clinical conference, an investigator site posts a slide with your embargoed pivotal trial results — positive ones — to a private physician forum, and it's already circulating. Your investors, competitors, and the journal reviewing your paper have all likely seen it.",
+    "questions": [
+      "Does the leak force disclosure obligations if you're public or fundraising?",
+      "How do you protect the journal publication and the conference moment now?",
+      "What does the site's breach mean for the relationship, mid-trial, when you still need their patients?"
+    ]
+  },
+  {
+    "id": "medical-devices-024",
+    "industry": "Medical Devices",
+    "title": "September's Reprocessing Threat Assessment",
+    "setup": "A third-party reprocessor gains clearance in September to reprocess your single-use device at 40% of your price, and your biggest hospital customers' sustainability offices are championing it internally.",
+    "questions": [
+      "Do you fight reprocessing on safety evidence, compete with it on price, or enter reprocessing yourself?",
+      "Was single-use ever clinically necessary for this device, and can your answer survive scrutiny?",
+      "How does the sustainability argument change who you're really negotiating with inside the hospital?"
+    ]
+  },
+  {
+    "id": "medical-devices-025",
+    "industry": "Medical Devices",
+    "title": "The October Physician Payments Sunshine",
+    "setup": "October's Open Payments database refresh lands, and a health-news outlet builds a story around your consulting payments to the surgeons who also published your device's favorable studies — all disclosed, all legal, all now framed as bought science.",
+    "questions": [
+      "How do you defend legitimate physician collaboration without sounding like every company that said the same?",
+      "Do the named surgeons defend themselves, or does your silence protect or abandon them?",
+      "Should the consulting-and-research relationship structure change, not because it's illegal, but because it's unexplainable?"
+    ]
+  },
+  {
+    "id": "medical-devices-026",
+    "industry": "Medical Devices",
+    "title": "November's Home-Use Pivot Question",
+    "setup": "Care keeps shifting home, and November's strategy review makes it concrete: your hospital-grade monitor could be redesigned for home use, but that means consumer usability standards, a new regulatory pathway, retail-adjacent distribution, and a price point one-tenth of hospital pricing.",
+    "questions": [
+      "Is home health an extension of your business or a different business wearing your technology?",
+      "What dies in the hospital product line while you fund the home version?",
+      "Who wins home health if you don't enter — a rival, or a consumer electronics company?"
+    ]
+  },
+  {
+    "id": "medical-devices-027",
+    "industry": "Medical Devices",
+    "title": "The December Warranty Reserve Surprise",
+    "setup": "Year-end close in December surfaces a problem: warranty claims on your two-year-old flagship are running 60% above the reserve model, driven by a component that degrades faster in high-utilization accounts — your best customers.",
+    "questions": [
+      "Is this a warranty accounting fix, a proactive field action, or a looming recall — and who decides which?",
+      "Do you notify high-utilization accounts before failures, knowing it invites contract renegotiations?",
+      "What did the reliability testing miss about real-world duty cycles, and is it still missing it on the current product?"
+    ]
+  },
+  {
+    "id": "medical-devices-028",
+    "industry": "Medical Devices",
+    "title": "The January Cyber Disclosure Rule",
+    "setup": "New FDA cybersecurity requirements effective this cycle demand a software bill of materials and coordinated disclosure process for your connected devices. January's engineering review reveals nobody can fully enumerate the third-party code inside your oldest connected product, which 400 hospitals still run.",
+    "questions": [
+      "Can the legacy product be made compliant, or does it need a supported migration path off the market?",
+      "What do you tell the 400 hospitals about a device whose software contents you can't fully list?",
+      "How does software governance change so the next product doesn't become this one?"
+    ]
+  },
+  {
+    "id": "medical-devices-029",
+    "industry": "Medical Devices",
+    "title": "February's Clinical Trial Enrollment Stall",
+    "setup": "Your post-market study — a condition of approval — is 40% behind enrollment at February's checkpoint. Sites blame competing trials and narrow criteria; the FDA milestone is in September, and missing it invites consequences ranging from label changes to withdrawal.",
+    "questions": [
+      "Do you add sites, loosen criteria within protocol amendments, or pay sites more per enrollment — and what does each do to data quality?",
+      "When do you talk to the FDA — now with a recovery plan, or later with results?",
+      "What did the enrollment model assume that reality didn't deliver?"
+    ]
+  },
+  {
+    "id": "medical-devices-030",
+    "industry": "Medical Devices",
+    "title": "The Spring Tender Season Trap",
+    "setup": "National tender season opens in several international markets each spring, and this year's largest tender requires local manufacturing within three years as a condition of award. It's 15% of your international revenue — and the local-manufacturing requirement is spreading to other countries' tenders.",
+    "questions": [
+      "Is localized manufacturing an investment in market access or a ransom that every market will soon demand?",
+      "What's the minimum viable local operation that satisfies the requirement — assembly, packaging, full production?",
+      "Which international markets do you concede rather than localize for, and what's the strategic cost of shrinking your map?"
+    ]
+  },
   {
     "id": "high-tech-001",
     "industry": "High Tech",
@@ -1160,7 +2144,171 @@
       "Is chasing this hype cycle the right call, or a distraction from your core roadmap?"
     ]
   },
-
+  {
+    "id": "high-tech-016",
+    "industry": "High Tech",
+    "title": "January's Post-CES Roadmap Panic",
+    "setup": "Your team returns from CES in January with a competitive analysis that reads like an obituary: three rivals showed products your roadmap doesn't answer until next year. Engineering says the dates are the dates; sales is already fielding customer questions.",
+    "questions": [
+      "What's real competitive threat versus trade-show vaporware, and how do you tell?",
+      "Is there a software or partnership answer that bridges the hardware gap?",
+      "How do you keep sales confident selling this year's product against next year's demos?"
+    ]
+  },
+  {
+    "id": "high-tech-017",
+    "industry": "High Tech",
+    "title": "The February Component End-of-Life Notice",
+    "setup": "A February end-of-life notice gives you nine months of last-time-buy availability on a component in your best-selling product. The redesign to a newer part needs twelve months. The gap is a seven-figure last-time-buy gamble on demand forecasts.",
+    "questions": [
+      "How much last-time-buy inventory do you commit to, knowing both over- and under-buying are expensive?",
+      "Can the redesign compress to close the gap, and what does the compression risk?",
+      "Should component lifecycle monitoring have caught this at the design stage?"
+    ]
+  },
+  {
+    "id": "high-tech-018",
+    "industry": "High Tech",
+    "title": "March's Channel Inventory Illusion",
+    "setup": "Q1 sell-in numbers look strong heading into March quarter-close — but channel data shows distributors holding 14 weeks of inventory against a 8-week norm. Sales wants to ship the quarter; ops sees a Q2 cliff being built.",
+    "questions": [
+      "Do you stuff the channel to make the quarter, knowing Q2 pays for it?",
+      "What incentives created 14 weeks of channel inventory, and who benefits from not noticing?",
+      "What does honest sell-through reporting change about how the street and the board read you?"
+    ]
+  },
+  {
+    "id": "high-tech-019",
+    "industry": "High Tech",
+    "title": "The April Open Source License Bomb",
+    "setup": "An April due-diligence scan — triggered by acquisition interest in your company — finds a copyleft-licensed library compiled into your flagship firmware. Full compliance could mean releasing proprietary source; the acquirer's counsel has flagged it as a deal issue.",
+    "questions": [
+      "What's the remediation path — replace the library, negotiate a commercial license, or release the code?",
+      "Does this kill the acquisition timeline, and do you tell them your plan or wait for their ask?",
+      "What does engineering's license-review process look like after this?"
+    ]
+  },
+  {
+    "id": "high-tech-020",
+    "industry": "High Tech",
+    "title": "May's Right-to-Repair Law",
+    "setup": "A major state's right-to-repair law takes effect in May, requiring you to sell parts, tools, and documentation to independent shops. Your service revenue is 20% of margin, and your authorized-repair network — built over a decade — is asking what their exclusivity was worth.",
+    "questions": [
+      "Do you comply minimally, or embrace repairability as brand strategy the way some rivals have?",
+      "What happens to service margin, and what replaces it?",
+      "What do you owe the authorized network that invested in your exclusivity model?"
+    ]
+  },
+  {
+    "id": "high-tech-021",
+    "industry": "High Tech",
+    "title": "The June Datacenter Power Wall",
+    "setup": "Your June infrastructure review lands hard: the AI features you've promised customers will triple your compute needs within 18 months, and your datacenter provider says grid constraints mean no new capacity in your region until two years out.",
+    "questions": [
+      "Do you buy scarce capacity now at premium prices, re-architect for efficiency, or promise less AI?",
+      "Which promised features actually need the compute, and which are riding the AI label?",
+      "Does power availability now belong in product planning the way component supply does?"
+    ]
+  },
+  {
+    "id": "high-tech-022",
+    "industry": "High Tech",
+    "title": "July's Grey Market Discovery",
+    "setup": "July pricing analysis explains a regional sales slump: your own products, sold at distributor pricing into a low-price market, are being re-exported and undercutting your premium markets by 20%. One of your largest distributors appears to be the source.",
+    "questions": [
+      "Do you confront the distributor with evidence, tighten contracts, or restructure regional pricing that created the arbitrage?",
+      "What does the 20% gap say about whether your regional pricing is defensible at all?",
+      "How do you police grey markets without alienating the channel you depend on?"
+    ]
+  },
+  {
+    "id": "high-tech-023",
+    "industry": "High Tech",
+    "title": "The August Prototype Leak",
+    "setup": "Photos of your unannounced flagship — scheduled for a September launch — leak from the supply chain in August, accurate down to the port layout. Preorders of the current model stall within days as customers wait for the new one.",
+    "questions": [
+      "Do you accelerate the announcement, discount the current model, or hold the plan and absorb the Osborne effect?",
+      "Where in the supply chain did this leak, and can you actually find out?",
+      "Should launch timing assume leaks as a planning fact rather than treat them as surprises?"
+    ]
+  },
+  {
+    "id": "high-tech-024",
+    "industry": "High Tech",
+    "title": "September's Subscription Pivot Resistance",
+    "setup": "Your September board meeting approves pivoting flagship software from perpetual licenses to subscription — recurring revenue the street rewards. Early customer advisory feedback is blunt: several largest accounts call it 'paying again for what we own,' and one is scoping alternatives.",
+    "questions": [
+      "What does the subscription actually add for customers, or is the value flowing only one direction?",
+      "How do you grandfather perpetual customers without building a two-class system forever?",
+      "What churn from the pivot is acceptable against the valuation upside — and whose spreadsheet decides?"
+    ]
+  },
+  {
+    "id": "high-tech-025",
+    "industry": "High Tech",
+    "title": "The October Export Control Expansion",
+    "setup": "October brings expanded export controls covering a chip category your products use, with a licensing regime for several markets that make up 18% of your revenue. Legal says some sales can continue under license; the timeline for licenses is 'indeterminate.'",
+    "questions": [
+      "Do you keep serving the affected markets through the license process, or exit and stabilize?",
+      "What's the compliance exposure of getting an edge case wrong versus the revenue of pushing boundaries?",
+      "How does geopolitical exposure change your product architecture and market mix long-term?"
+    ]
+  },
+  {
+    "id": "high-tech-026",
+    "industry": "High Tech",
+    "title": "November's Warranty Extension Play",
+    "setup": "Going into holiday season, your biggest retail partner demands you fund an extended two-year warranty as a differentiator — their competitor's house brand offers one. Your failure-rate data says year two is where field failures concentrate.",
+    "questions": [
+      "Do you know your true year-two failure cost, or has one-year warranty data hidden it from you?",
+      "Is the warranty a marketing cost or a product-quality bill coming due?",
+      "Could reliability investment cost less than warranty exposure within one product cycle?"
+    ]
+  },
+  {
+    "id": "high-tech-027",
+    "industry": "High Tech",
+    "title": "The December Patent Troll Settlement Math",
+    "setup": "A patent assertion entity sues you in December in a friendly jurisdiction, over a patent your counsel calls 'weak but not frivolous.' Settlement is $2M; litigation is $4M+ and two years of distraction, with a small chance of a nine-figure verdict.",
+    "questions": [
+      "Does settling feed the machine that will sue you again, or is it just the rational price of doing business?",
+      "What joint-defense options exist with the other companies being sued on the same patent?",
+      "How does the small-chance-catastrophic-outcome risk actually get weighed, and by whom?"
+    ]
+  },
+  {
+    "id": "high-tech-028",
+    "industry": "High Tech",
+    "title": "The January Return-to-Office Talent Test",
+    "setup": "Your January engineering all-hands announces three days in office, aligning with peers. Within two weeks, four senior engineers — including the architect of your core platform — have offers from fully-remote competitors, and internal survey scores drop 20 points.",
+    "questions": [
+      "Was the mandate solving a real collaboration problem or a visible-leadership problem?",
+      "What's the actual cost of losing the platform architect against whatever the office delivers?",
+      "Is there a policy that gets the collaboration you need without the exodus you're watching start?"
+    ]
+  },
+  {
+    "id": "high-tech-029",
+    "industry": "High Tech",
+    "title": "February's Firmware Update Bricking Incident",
+    "setup": "A February firmware update bricks an estimated 0.3% of devices in the field — thousands of units — due to a flash-memory batch variance your testing didn't cover. Affected customers are loud, and the fix requires physical service or replacement.",
+    "questions": [
+      "Do you replace units no-questions-asked, and what does generosity cost versus what the story costs?",
+      "How did batch variance escape testing, and what does hardware-diversity coverage look like now?",
+      "Do you pause the update program entirely, knowing the update also patched a security flaw?"
+    ]
+  },
+  {
+    "id": "high-tech-030",
+    "industry": "High Tech",
+    "title": "The Spring Benchmark Controversy",
+    "setup": "In March, a respected reviewer discovers your device detects benchmark apps and boosts performance beyond sustainable levels — a legacy optimization from two product generations ago that nobody removed. The story frames it as cheating.",
+    "questions": [
+      "Is the technical explanation — thermal headroom, legacy code — a defense or an excuse, and does the difference matter publicly?",
+      "Do you remove the optimization and accept lower benchmark scores against rivals who may do the same thing quietly?",
+      "What review of 'legacy optimizations' does this trigger before the next reviewer finds the next one?"
+    ]
+  },
   {
     "id": "automotive-001",
     "industry": "Automotive",
@@ -1324,6 +2472,501 @@
       "Do you absorb the cost for this model year, or attempt a pricing adjustment mid-cycle?",
       "How exposed is your parts sourcing to further tariff changes this year?",
       "Should future model year pricing build in more buffer against policy risk like this?"
+    ]
+  },
+  {
+    "id": "automotive-031",
+    "industry": "Automotive",
+    "title": "January's Fleet Order Cliff",
+    "setup": "Rental car companies and commercial fleets — 30% of your volume — signal in January that rising rates have them slashing this year's orders by 40%. Fleet sales carry thin margins but keep two plants at efficient utilization.",
+    "questions": [
+      "Do you chase retail volume to fill the plants, cut shifts, or build inventory betting on recovery?",
+      "What does reduced plant utilization actually cost versus the margin on the fleet units lost?",
+      "Should fleet dependence at these two plants have been flagged as a structural risk earlier?"
+    ]
+  },
+  {
+    "id": "automotive-032",
+    "industry": "Automotive",
+    "title": "The February Dealer Franchise Lawsuit",
+    "setup": "Your February announcement of direct online sales for one EV model triggers a lawsuit from your dealer council citing franchise law, and three state dealer associations join within a week. The EV customer data shows 70% prefer buying online.",
+    "questions": [
+      "Is the direct model worth the franchise war, or is there a dealer-participating hybrid?",
+      "What do dealers actually add for an EV buyer, and what's honest to pay them for it?",
+      "How do the other 49 states' laws shape where this fight is even winnable?"
+    ]
+  },
+  {
+    "id": "automotive-033",
+    "industry": "Automotive",
+    "title": "March's Battery Plant Partner Wobble",
+    "setup": "Your battery joint-venture partner misses a March capital call amid their own financial troubles, putting the plant that supplies your entire EV line at risk of construction delays — with your EV launch calendar built around its output.",
+    "questions": [
+      "Do you fund their share, find a new partner, or slow the EV ramp to match reality?",
+      "What does the JV agreement actually let you do, and what does exercising those rights cost the relationship?",
+      "How exposed is your EV strategy to a partner you don't control?"
+    ]
+  },
+  {
+    "id": "automotive-034",
+    "industry": "Automotive",
+    "title": "The April Certified Pre-Owned Squeeze",
+    "setup": "Three years of low new-car leasing during the supply crunch means April's off-lease return volume — the lifeblood of your certified pre-owned program — is down 50%. Dealers depend on CPO margins, and your used-supply pipeline won't recover for two years.",
+    "questions": [
+      "Do you buy back customer vehicles aggressively to feed CPO, competing with your own auction proceeds?",
+      "What replaces CPO profit for dealers during the two-year gap?",
+      "How should today's leasing strategy change so this cycle doesn't repeat?"
+    ]
+  },
+  {
+    "id": "automotive-035",
+    "industry": "Automotive",
+    "title": "May's Connected Car Subscription Backlash",
+    "setup": "Your May over-the-air update moves heated seats and remote start — hardware already in every vehicle — behind a monthly subscription for new buyers. The public reaction is savage, a consumer group files a complaint, and dealers report customers asking about it by name.",
+    "questions": [
+      "Is feature-subscription revenue worth being the face of a practice customers viscerally hate?",
+      "What's the difference between subscription features customers accept and ones they see as ransom?",
+      "Do you reverse course publicly or ride it out, and what does each cost?"
+    ]
+  },
+  {
+    "id": "automotive-036",
+    "industry": "Automotive",
+    "title": "The June Heat Dome Battery Claims",
+    "setup": "A June heat dome across the Southwest triggers a spike in EV battery degradation warranty claims from three model years, concentrated in vehicles that fast-charge frequently in extreme heat. Engineering says it's within design tolerance; customers watching their range shrink disagree.",
+    "questions": [
+      "Does 'within design tolerance' survive contact with customers who lost 15% of range?",
+      "Do you adjust charging software to protect batteries at the cost of charging speed, and how do you message that?",
+      "What does the Southwest data mean for how you warranty batteries in a hotter future?"
+    ]
+  },
+  {
+    "id": "automotive-037",
+    "industry": "Automotive",
+    "title": "July's Plant Conversion Point of No Return",
+    "setup": "July is the final decision gate for converting your midsize-SUV plant to EV production — an 18-month, $1.5B conversion planned when EV demand curves pointed straight up. Current EV demand is growing slower than the plan assumed, and the gas SUV it builds remains your most profitable vehicle.",
+    "questions": [
+      "Do you convert on schedule, delay a year, or redesign for a flexible line that builds both?",
+      "What does each option cost in 2030 competitiveness versus this decade's cash flow?",
+      "Whose demand forecast do you trust now, after the last one missed?"
+    ]
+  },
+  {
+    "id": "automotive-038",
+    "industry": "Automotive",
+    "title": "The August Software Recall Precedent",
+    "setup": "An August NHTSA inquiry asks why a driver-assist flaw you fixed via over-the-air update in June wasn't filed as a formal recall. Your position: it was a software improvement. Their position: any safety-related fix is a recall, with notification obligations, regardless of delivery method.",
+    "questions": [
+      "Does calling OTA safety fixes 'recalls' change customer perception of updates — and should it?",
+      "What's the retroactive exposure for previous OTA fixes now, and do you self-report them?",
+      "How do software-era safety obligations get decided — by the letter of rules written for hardware, or negotiation?"
+    ]
+  },
+  {
+    "id": "automotive-039",
+    "industry": "Automotive",
+    "title": "September's Model Year Price Positioning",
+    "setup": "New model year pricing locks in September, and the data conflicts: transaction prices are softening industry-wide, inventory days-on-lot are rising, but your input costs are up 4% and the new model year adds content customers demanded.",
+    "questions": [
+      "Do you price for the market that's coming or the costs you're carrying?",
+      "Which added content actually commands price versus checked a survey box?",
+      "What's the incentive budget hiding in the pricing decision — and is a higher MSRP with bigger incentives honest?"
+    ]
+  },
+  {
+    "id": "automotive-040",
+    "industry": "Automotive",
+    "title": "The October Supplier Financial Distress Cascade",
+    "setup": "October brings notice that a Tier 2 supplier — feeding three of your Tier 1s — is entering restructuring. None of your Tier 1 contracts require them to disclose their own suppliers' health, and your visibility ends one tier down.",
+    "questions": [
+      "Do you bail out a supplier you have no contract with, to protect production you depend on?",
+      "What sub-tier visibility should contracts require after this, and will Tier 1s accept it?",
+      "Which of your vehicle lines has the most hidden sub-tier concentration risk right now — can you even answer that?"
+    ]
+  },
+  {
+    "id": "automotive-041",
+    "industry": "Automotive",
+    "title": "November's Insurance Data Partnership Exposure",
+    "setup": "A November news investigation reveals that driving-behavior data from your connected vehicles, shared with a data broker under user agreements nobody reads, has been raising customers' insurance premiums. Attorneys general in two states open inquiries.",
+    "questions": [
+      "Do you end the data-sharing program, and what contractual and revenue unwinding does that take?",
+      "What does informed consent for vehicle data honestly look like, versus what compliance allows?",
+      "How do you rebuild trust in connected services after customers learn their car testified against them?"
+    ]
+  },
+  {
+    "id": "automotive-042",
+    "industry": "Automotive",
+    "title": "The December Year-End Self-Registration Temptation",
+    "setup": "December's sales race with your nearest competitor is within a few thousand units, and regional managers propose the industry's old trick: having dealers self-register inventory as sold to book the units this year. It's legal, it's done, and it borrows January's sales to win December's headline.",
+    "questions": [
+      "What does winning the annual sales crown actually buy, and who inside the company is it really for?",
+      "What does pushed metal do to January's real demand, dealer margins, and residual values?",
+      "If the practice is fine, why does everyone involved prefer it not be explained publicly?"
+    ]
+  },
+  {
+    "id": "automotive-043",
+    "industry": "Automotive",
+    "title": "The January Charging Standard Switch",
+    "setup": "In January, the industry's momentum toward your competitor's charging connector becomes undeniable — two more automakers switch, and major charging networks announce they'll prioritize it. Your vehicles use the other standard, and your customers' adapter experience is poor.",
+    "questions": [
+      "Do you switch connectors mid-product-cycle, and what does the transition do to existing owners?",
+      "What do you owe the customers who bought vehicles on the losing standard?",
+      "How did the standards bet get made, and what does the miss teach about platform decisions ahead — like charging curves and battery formats?"
+    ]
+  },
+  {
+    "id": "automotive-044",
+    "industry": "Automotive",
+    "title": "February's Crash Test Asterisk",
+    "setup": "A February safety-ratings refresh gives your family SUV top marks — except a new test protocol, being phased in, where it scores marginal. Marketing wants to advertise the top rating; the marginal score applies to a rear-seat scenario involving children.",
+    "questions": [
+      "Do you advertise the headline rating while a child-safety scenario scores marginal?",
+      "What's the engineering fix timeline, and does it wait for the next model year or interrupt this one?",
+      "When the new protocol becomes standard and the score becomes public, what will this year's advertising look like in hindsight?"
+    ]
+  },
+  {
+    "id": "automotive-045",
+    "industry": "Automotive",
+    "title": "The March Tariff Retaliation Squeeze",
+    "setup": "March trade escalation puts retaliatory tariffs on vehicles you export to a major market — while your competitor builds locally there and is untouched. Your export volume to that market supports an entire shift at your flagship plant.",
+    "questions": [
+      "Do you eat the tariff to hold market share, raise prices and cede ground, or commit to local production?",
+      "How long do you protect the flagship plant's shift while the trade situation stays unresolved?",
+      "What's the trigger point — time or money — where this stops being a storm to weather and becomes a structure to exit?"
+    ]
+  },
+  {
+    "id": "retail-001",
+    "industry": "Retail",
+    "title": "Post-Holiday Returns Eat January's Margin",
+    "setup": "It's the second week of January and returns are running 22% of December sales — five points above plan. Restocking labor is maxed out, and a third of returned goods can't go back on shelves at full price.",
+    "questions": [
+      "Do you liquidate returned stock fast at a loss, or hold it and tie up working capital?",
+      "Which December promotions drove the worst return behavior, and would you run them again?",
+      "Should return policy tighten next year, and what would that cost in holiday conversion?"
+    ]
+  },
+  {
+    "id": "retail-002",
+    "industry": "Retail",
+    "title": "The Valentine's Buy Was Wrong",
+    "setup": "Ten days before Valentine's Day, sell-through on your gift assortment is half the forecast, but one unadvertised SKU is nearly sold out. There's one reorder window left with your supplier — decisions due in 48 hours.",
+    "questions": [
+      "Do you chase the surprise winner with a rush reorder, or protect margin and let it sell out?",
+      "How do you clear the slow gift stock before it becomes worthless on February 15th?",
+      "What signal did the buying team miss, and how do you catch it next year?"
+    ]
+  },
+  {
+    "id": "retail-003",
+    "industry": "Retail",
+    "title": "Spring Reset vs. a Late Winter",
+    "setup": "Your March floor reset to spring assortment is scheduled, but a cold snap has winter goods still selling at full price. Corporate wants the reset on schedule; store managers want two more weeks.",
+    "questions": [
+      "Who should own this call — merchandising calendar or store-level sell-through data?",
+      "What does an early reset cost in markdowns versus a late reset in spring launch momentum?",
+      "Could reset timing flex by region instead of being one national date?"
+    ]
+  },
+  {
+    "id": "retail-004",
+    "industry": "Retail",
+    "title": "A Tariff Lands Mid-Season",
+    "setup": "In April, a new tariff adds 18% to landed cost on goods already on the water for your summer set. Prices are printed, promotions are booked, and your two largest competitors haven't moved yet.",
+    "questions": [
+      "Do you reprice mid-season, eat the margin, or split the difference on select SKUs?",
+      "Does being first or last to raise prices matter more in your category?",
+      "What sourcing shifts would insulate next year's buy, and when must those decisions be made?"
+    ]
+  },
+  {
+    "id": "retail-005",
+    "industry": "Retail",
+    "title": "Mother's Day Weekend Staffing Collapse",
+    "setup": "The Friday before Mother's Day — your second-biggest gifting weekend — a flu wave takes out 30% of scheduled floor staff. Overtime is available but pushes the week's labor 15% over budget.",
+    "questions": [
+      "Do you protect the customer experience with overtime, or hold the labor line during peak revenue?",
+      "Which service points get cut first when you can't cover everything — fitting rooms, registers, floor help?",
+      "What cross-training would have made this a non-event?"
+    ]
+  },
+  {
+    "id": "retail-006",
+    "industry": "Retail",
+    "title": "The Anchor Store Next Door Closes",
+    "setup": "In June, the anchor tenant that drives half your mall location's foot traffic announces it's closing in 60 days. Your lease runs three more years with no co-tenancy clause.",
+    "questions": [
+      "Do you negotiate rent relief now, plan an exit, or invest to become a destination yourself?",
+      "How fast will traffic actually decay, and what data would tell you early?",
+      "What does this teach you about lease terms for future locations?"
+    ]
+  },
+  {
+    "id": "retail-007",
+    "industry": "Retail",
+    "title": "Prime Day Pulls Your July Forward",
+    "setup": "A major online retailer's July sales event is training your customers to expect deep mid-summer discounts. Last year you matched it and gave back six points of margin; sitting it out cost a competitor 9% of the month's traffic.",
+    "questions": [
+      "Do you compete in someone else's promotional moment or build your own?",
+      "Which categories can win on convenience and service rather than price that week?",
+      "What did last year's match actually buy you — new customers or discounted regulars?"
+    ]
+  },
+  {
+    "id": "retail-008",
+    "industry": "Retail",
+    "title": "Back-to-School Inventory Is Stuck in Port",
+    "setup": "It's late July and 40% of your back-to-school assortment is delayed at port, with best-case arrival two weeks into the season. Air freight would recover ten days but wipe out the category's margin.",
+    "questions": [
+      "Do you air-freight the hero SKUs, all of it, or none of it?",
+      "How do you keep back-to-school shoppers who find empty shelves from defecting for the whole season?",
+      "Should the BTS buy ship earlier next year even at higher warehousing cost?"
+    ]
+  },
+  {
+    "id": "retail-009",
+    "industry": "Retail",
+    "title": "The Labor Day Weekend Systems Outage",
+    "setup": "Your POS system vendor pushes a faulty update Friday night of Labor Day weekend. Stores open Saturday to registers that take 90 seconds per transaction, and lines are out the door by 11 a.m.",
+    "questions": [
+      "What's the in-store playbook right now — line-busting, manual fallback, free coffee?",
+      "How hard do you push the vendor on liability, and does this end the relationship?",
+      "What's your tolerance for single-vendor dependence in systems that can stop revenue cold?"
+    ]
+  },
+  {
+    "id": "retail-010",
+    "industry": "Retail",
+    "title": "Holiday Hiring in a Tight Labor Market",
+    "setup": "It's September and applications for seasonal roles are down 40% year over year. A competing chain is advertising $3/hour more plus a completion bonus. You need 200 seasonal hires by November 1st.",
+    "questions": [
+      "Do you match on wage, differentiate on schedule flexibility, or lower the hiring bar?",
+      "What does an understaffed December actually cost compared to the wage premium?",
+      "Could year-round part-timers with guaranteed holiday hours replace some of the seasonal scramble?"
+    ]
+  },
+  {
+    "id": "retail-011",
+    "industry": "Retail",
+    "title": "The October Forecast Split",
+    "setup": "Your holiday forecast meeting produces a 12% gap between planning's cautious number and sales' aggressive one. The final buy commits this week. Overbuying means January markdowns; underbuying means stockouts in the two weeks that make your year.",
+    "questions": [
+      "Which error is cheaper in your business — too much inventory or too little?",
+      "Can the assortment be structured so part of the buy is reorderable in-season?",
+      "Whose forecast has been closer historically, and why doesn't that settle it?"
+    ]
+  },
+  {
+    "id": "retail-012",
+    "industry": "Retail",
+    "title": "Black Friday Doorbuster Backfires",
+    "setup": "Your headline Black Friday doorbuster sells out in 40 minutes. Social media fills with angry posts from customers who waited hours, and local news picks it up by noon — with Cyber Monday still ahead.",
+    "questions": [
+      "What do you offer the customers who walked away empty-handed, and how publicly?",
+      "Was the doorbuster quantity a planning failure or a deliberate scarcity play that worked too well?",
+      "How does this change what you promote for Cyber Monday 72 hours from now?"
+    ]
+  },
+  {
+    "id": "retail-013",
+    "industry": "Retail",
+    "title": "December 23rd Delivery Promise at Risk",
+    "setup": "Your carrier notifies you on December 19th that a storm system will break the delivery promise on roughly 8,000 online orders guaranteed by Christmas Eve.",
+    "questions": [
+      "Do you notify customers proactively today or wait for carrier confirmation?",
+      "What compensation is right for a broken Christmas promise — refund shipping, gift cards, or more?",
+      "Should the guaranteed-by-Christmas cutoff have been earlier, even at the cost of a slower final week?"
+    ]
+  },
+  {
+    "id": "retail-014",
+    "industry": "Retail",
+    "title": "Gift Card Liability Comes Due",
+    "setup": "January redemption data shows gift card usage running 30% above last year, and redeemers are skewing toward clearance items — meaning December's 'sales' are converting into January's low-margin transactions.",
+    "questions": [
+      "How should gift card economics change how you value December's topline?",
+      "Can January's redemption traffic be steered toward full-price categories?",
+      "Does the gift card push deserve the same marketing investment next year?"
+    ]
+  },
+  {
+    "id": "retail-015",
+    "industry": "Retail",
+    "title": "The Loyalty Data Breach",
+    "setup": "In February, your loyalty program vendor discloses a breach exposing emails and purchase histories of 400,000 members. Legal says notification is required within 30 days; marketing had a spring campaign built entirely on that program.",
+    "questions": [
+      "How do you notify members in a way that preserves the program's future?",
+      "Does the spring campaign proceed, pause, or get rebuilt around a trust message?",
+      "What vendor security obligations should have been contractual, and what do you change now?"
+    ]
+  },
+  {
+    "id": "retail-016",
+    "industry": "Retail",
+    "title": "Shrink Spikes in Three Stores",
+    "setup": "March inventory counts show shrink at triple the chain average in three urban stores. The options on the table — locked cases, guards, reduced hours — each trade theft against sales and staff morale differently.",
+    "questions": [
+      "Which intervention do you pilot first, and what would success look like in 90 days?",
+      "At what shrink level does a store stop making economic sense?",
+      "How do you address this without making honest customers feel policed?"
+    ]
+  },
+  {
+    "id": "retail-017",
+    "industry": "Retail",
+    "title": "Your Private Label Outsells the National Brand",
+    "setup": "By April, your private-label line outsells the national brand it imitates in 60% of stores — and that brand's rep just hinted they may pull distribution, which would cost you their traffic-driving ad spend.",
+    "questions": [
+      "Do you protect the national-brand relationship or press the private-label advantage?",
+      "What happens to the category if they actually walk?",
+      "How much of private label's success depends on the brand it shadows sitting next to it?"
+    ]
+  },
+  {
+    "id": "retail-018",
+    "industry": "Retail",
+    "title": "The Influencer Spike You Didn't Plan",
+    "setup": "In May, a video featuring one of your mid-tier products goes viral. The SKU sells out chain-wide in four days, resellers are flipping it at 3x, and your supplier needs eight weeks for a meaningful reorder.",
+    "questions": [
+      "Do you place a big reorder betting the demand lasts eight weeks, or ride the moment and move on?",
+      "How do you convert this accidental audience into customers for the rest of the assortment?",
+      "Is there a fast-follow product or bundle you could ship while attention is high?"
+    ]
+  },
+  {
+    "id": "retail-019",
+    "industry": "Retail",
+    "title": "Father's Day Falls Flat",
+    "setup": "Father's Day week in June comes in 15% under plan chain-wide, continuing a three-year slide in the holiday's performance, while the same week's non-gift categories grew.",
+    "questions": [
+      "Is this a merchandising failure or a genuinely fading occasion?",
+      "Should next June's plan shrink the gift set and reallocate the space and spend?",
+      "What occasions are growing that deserve the investment this one is losing?"
+    ]
+  },
+  {
+    "id": "retail-020",
+    "industry": "Retail",
+    "title": "The Sidewalk Construction Summer",
+    "setup": "The city announces in July that the street fronting your flagship will be torn up through October — peak tourist season. The last comparable project cut affected retailers' traffic by a third.",
+    "questions": [
+      "What's the mitigation plan — signage, rear entrance, delivery push, pop-up elsewhere?",
+      "Do you pursue the city's business-interruption relief, and is the paperwork worth it?",
+      "Which flagship functions (revenue, brand, events) can be temporarily moved online or off-site?"
+    ]
+  },
+  {
+    "id": "retail-021",
+    "industry": "Retail",
+    "title": "The Self-Checkout Decision",
+    "setup": "In August, the board asks for a self-checkout rollout plan projected to cut front-end labor 25%. Your two pilot stores show faster throughput, a measurable shrink increase, and mixed customer feedback split sharply by age.",
+    "questions": [
+      "Does the labor saving survive the shrink increase in your actual numbers?",
+      "Is checkout a cost center to automate or a service moment that differentiates you?",
+      "If you proceed, what happens to the displaced hours — cut, or redeployed to the floor?"
+    ]
+  },
+  {
+    "id": "retail-022",
+    "industry": "Retail",
+    "title": "Halloween Category Went Early",
+    "setup": "It's mid-September and your Halloween set has been on the floor two weeks — but a competitor set theirs in mid-August and captured the early-bird spend. Your sell-through is tracking 20% behind last year with the peak weeks still ahead.",
+    "questions": [
+      "Is the early-set arms race worth joining next year, and what does it displace?",
+      "Can the remaining six weeks recover the gap, or should markdowns start now?",
+      "What does 'seasonal creep' do to the categories that lose floor time to it?"
+    ]
+  },
+  {
+    "id": "retail-023",
+    "industry": "Retail",
+    "title": "The November Price-Match Trap",
+    "setup": "Your price-match policy, written for a calmer era, is being systematically exploited during November's promo season — customers matching flash prices from online sellers with no local presence. Store managers are eating the difference or arguing at the register.",
+    "questions": [
+      "Do you honor the policy's letter through the holidays and fix it in January, or change it mid-season?",
+      "What does a register-level pricing argument cost you in December versus the match itself?",
+      "What should the policy's next version actually promise?"
+    ]
+  },
+  {
+    "id": "retail-024",
+    "industry": "Retail",
+    "title": "Christmas Eve Skeleton Crew",
+    "setup": "Christmas Eve is a top-five revenue day for last-minute shoppers, but two-thirds of staff requested it off and corporate guidance says close at 6 p.m. Your busiest competitor stays open until 10.",
+    "questions": [
+      "What's the revenue of hours 6-to-10 worth against what it costs the people working them?",
+      "Could a volunteer premium-pay crew cover the late shift without mandating anyone?",
+      "Does matching the competitor's hours matter, or is that their customer, not yours?"
+    ]
+  },
+  {
+    "id": "retail-025",
+    "industry": "Retail",
+    "title": "The January Store Closure List",
+    "setup": "Year-end P&Ls put four of your 30 stores below the closure threshold. But one anchors your presence in a growing metro, one just got a new manager showing momentum, and closures announced in January hit the press as a 'struggling chain' story.",
+    "questions": [
+      "Which of the four actually close, and what earns an exception?",
+      "How do you sequence announcements to control the narrative?",
+      "What early-warning metrics would have flagged these stores two years sooner?"
+    ]
+  },
+  {
+    "id": "retail-026",
+    "industry": "Retail",
+    "title": "Buy-Online-Pickup-In-Store Is Breaking",
+    "setup": "By February, BOPIS has grown to 20% of online orders, but pickup wait times average nine minutes, staff pull inventory from the same shelves customers shop, and stockout-after-purchase rates are climbing.",
+    "questions": [
+      "Does BOPIS get dedicated staffing and back-room inventory, and what does that cost?",
+      "At what wait time does the channel start destroying more loyalty than it builds?",
+      "Is BOPIS a convenience feature or a fundamentally different operating model you've been running as a side task?"
+    ]
+  },
+  {
+    "id": "retail-027",
+    "industry": "Retail",
+    "title": "The Easter Timing Whiplash",
+    "setup": "Easter lands three weeks earlier than last year, compressing your spring season. Last year's late-Easter comps make this March look great and April look terrible, and the board reads month-over-month numbers literally.",
+    "questions": [
+      "How do you plan and report around a floating holiday so comps stay honest?",
+      "Which buys and promotions actually need to move with Easter, and which just follow the calendar?",
+      "What other floating events distort your comps, and does everyone reading the numbers know it?"
+    ]
+  },
+  {
+    "id": "retail-028",
+    "industry": "Retail",
+    "title": "A Union Drive at the Distribution Center",
+    "setup": "In May, organizers file for a union election at the distribution center that feeds all 30 stores, with a vote set for late June — five weeks before your back-to-school inventory surge.",
+    "questions": [
+      "What can leadership legally say and do, and who needs that briefing today?",
+      "What grievances are driving this, and which are fixable regardless of the vote's outcome?",
+      "What's the contingency if a work action hits during the BTS ramp?"
+    ]
+  },
+  {
+    "id": "retail-029",
+    "industry": "Retail",
+    "title": "The Resale Platform Question",
+    "setup": "In July, your brand's products are trading briskly on resale platforms — sometimes above retail for discontinued items. A platform approaches you about an official certified-resale partnership taking a revenue share.",
+    "questions": [
+      "Does official resale extend your brand or cannibalize new-product sales?",
+      "Who is buying resale — your customer trading down, or a new customer entering the brand?",
+      "What does the discontinued-items premium tell you about your product and reorder decisions?"
+    ]
+  },
+  {
+    "id": "retail-030",
+    "industry": "Retail",
+    "title": "Weather Says Warm, the Buy Says Coats",
+    "setup": "Long-range forecasts in October predict the warmest winter in a decade. Your cold-weather buy — committed in June — is your highest-margin category, and the first markdowns of last year's warm winter started a chain-wide margin slide.",
+    "questions": [
+      "Do you act on a seasonal forecast now — early promotions, inventory transfers south — or wait for actual weather?",
+      "Which stores or regions can absorb reallocated cold-weather stock?",
+      "Should weather risk change how the winter buy is structured — later commitments, more reorder flexibility, less depth?"
     ]
   }
 ]

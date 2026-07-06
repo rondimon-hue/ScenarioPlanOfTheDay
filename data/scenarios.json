@@ -1,0 +1,68 @@
+[
+  {
+    "id": "retail-001",
+    "industry": "Retail",
+    "title": "Your Biggest Supplier Doubles Prices Overnight",
+    "setup": "Your largest supplier — responsible for 40% of your inventory — just informed you that prices are increasing 100% effective next month, citing raw material shortages. You have 30 days before your next order is due.",
+    "questions": [
+      "Do you absorb the cost, pass it to customers, or split the difference?",
+      "What would it take to qualify a backup supplier in 30 days?",
+      "Does this change your pricing strategy for the rest of the year?"
+    ]
+  },
+  {
+    "id": "saas-001",
+    "industry": "SaaS / Tech",
+    "title": "Your #1 Competitor Just Went Free",
+    "setup": "A well-funded competitor announced they're making their core product free, funded by a new round of venture capital. Your product is priced at $99/month and has similar features.",
+    "questions": [
+      "What in your product is defensible against a free competitor?",
+      "Do you compete on price, or double down on a different value prop?",
+      "How do you communicate this to your sales team this week?"
+    ]
+  },
+  {
+    "id": "manufacturing-001",
+    "industry": "Manufacturing",
+    "title": "A Key Machine Fails With No Replacement Parts",
+    "setup": "The machine responsible for 60% of your production output has failed. The manufacturer discontinued the part five years ago, and the earliest custom-fabricated replacement is 8 weeks out.",
+    "questions": [
+      "Can you shift volume to other lines or a subcontractor in the interim?",
+      "Which customer commitments are at risk, and who do you call first?",
+      "Should this failure change your capital equipment strategy going forward?"
+    ]
+  },
+  {
+    "id": "healthcare-001",
+    "industry": "Healthcare",
+    "title": "A New Regulation Bans Your Core Billing Practice",
+    "setup": "A new regulation takes effect in 90 days that prohibits the billing method your practice has relied on for 70% of revenue. Competitors face the same rule.",
+    "questions": [
+      "What alternative revenue models are viable within the compliance window?",
+      "Is this a threat, or an opportunity to differentiate faster than competitors adapt?",
+      "Who internally owns compliance risk, and are they resourced for it?"
+    ]
+  },
+  {
+    "id": "hospitality-001",
+    "industry": "Hospitality",
+    "title": "A Viral Review Tanks Your Booking Rate",
+    "setup": "A widely-shared negative review — factually exaggerated but not entirely false — has cut new bookings by 35% in one week. Local press has picked up the story.",
+    "questions": [
+      "What's your first public response, and who approves it?",
+      "How do you rebuild trust with guests who already have reservations?",
+      "What operational gap did the review expose that's worth fixing regardless of PR impact?"
+    ]
+  },
+  {
+    "id": "professional-services-001",
+    "industry": "Professional Services",
+    "title": "Your Top Biller Gives Two Weeks' Notice",
+    "setup": "Your highest-billing consultant, responsible for 25% of firm revenue and several key client relationships, just resigned with the minimum notice period to join a competitor.",
+    "questions": [
+      "Which clients are at flight risk, and who reaches out first?",
+      "Is this a signal of a deeper retention problem, or an isolated case?",
+      "What should change about how the firm concentrates relationship ownership going forward?"
+    ]
+  }
+]

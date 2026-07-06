@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scenario Plan of the Day</title>
+<meta name="description" content="A daily strategic scenario for business teams, browsable by industry.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="index.html">Scenario Plan <span>of the Day</span></a>
+    <p class="tagline">One strategic exercise. Every business day. Work it through with your team.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="filter-bar">
+    <label for="industry-select">Browse by industry</label>
+    <select id="industry-select">
+      <option value="all">All industries</option>
+    </select>
+    <input id="search-input" type="search" placeholder="Search scenarios…">
+  </section>
+
+  <section id="scenario-list" class="scenario-list">
+    <!-- populated by app.js -->
+  </section>
+</main>
+
+<div id="scenario-modal" class="modal hidden">
+  <div class="modal-content">
+    <button id="modal-close" class="modal-close" aria-label="Close">&times;</button>
+    <p class="modal-industry" id="modal-industry"></p>
+    <h2 id="modal-title"></h2>
+    <p id="modal-setup"></p>
+    <h3>Discuss</h3>
+    <ul id="modal-questions"></ul>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>&copy; <span id="year"></span> Scenario Plan of the Day. A project by MRWD LLC.</p>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

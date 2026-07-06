@@ -3,165 +3,165 @@
     "id": "saas-001",
     "industry": "SaaS",
     "title": "New Fiscal Year, Frozen Budgets",
-    "setup": "It's early January, and half your pipeline of expected renewals has gone quiet. Buyers say their new fiscal-year budgets haven't been approved yet, and nobody can commit to signing until finance finalizes spend.",
+    "setup": "It's the second week of January, and 8 of your 20 expected January renewals have gone quiet — buyers say new budgets aren't approved yet. Two are month-to-month already, burning goodwill and revenue at the same time.",
     "questions": [
-      "Do you offer short-term extensions to bridge the gap, or hold firm on renewal dates?",
-      "How do you keep champions engaged during a budget freeze without seeming pushy?",
-      "Should your sales comp plan account for this seasonal Q1 slowdown?"
+      "Do you offer 60-day bridge extensions, or hold firm on renewal dates and risk a lapse?",
+      "Which of the 8 accounts are genuinely stuck versus quietly shopping competitors?",
+      "Should contract anniversaries be spread off of January specifically to avoid this every year?"
     ]
   },
   {
     "id": "saas-002",
     "industry": "SaaS",
     "title": "A Free Competitor Shows Up in February",
-    "setup": "A well-funded competitor announces a permanently free tier with features matching your $99/month plan. Your support team is already fielding 'why should I keep paying?' tickets.",
+    "setup": "A well-funded rival announces a permanently free tier matching your $99/month plan's core features. Within 48 hours, 30 support tickets ask 'why keep paying?' and one $40k account has already asked for a discount to match.",
     "questions": [
-      "What in your product is genuinely defensible against a free alternative?",
-      "Do you respond with pricing changes, or double down on a different value proposition?",
-      "How do you brief your sales team before this becomes the top objection in every call?"
+      "What in your product is actually defensible against free — and is it in this week's talking points?",
+      "Do you concede the $40k account a discount, or let it test the free tier and come back?",
+      "How do you brief sales before this becomes the top objection in every call this quarter?"
     ]
   },
   {
     "id": "saas-003",
     "industry": "SaaS",
     "title": "The Quarter-Close Discount Spiral",
-    "setup": "It's the last week of Q1. Three deals are stuck on price, and reps are asking for discounts deeper than anything approved this year to hit quota before the quarter closes.",
+    "setup": "It's the last Thursday of Q1. Three deals worth $180k combined are stuck on price, and reps want discounts 10 points deeper than anything approved this year, all to close before Friday's quarter-end.",
     "questions": [
-      "Where's the line between a healthy close-of-quarter push and training customers to wait for discounts?",
-      "Should approval authority for exceptions change for next quarter?",
-      "What does this reveal about how deals are priced earlier in the pipeline?"
+      "Where's the line between a healthy close-of-quarter push and training buyers to always wait for Friday?",
+      "Should approval authority for exceptions tighten for next quarter, given this keeps happening?",
+      "What does this reveal about how these three deals were priced back in week one?"
     ]
   },
   {
     "id": "saas-004",
     "industry": "SaaS",
     "title": "An Enterprise Deal Hinges on a Feature You Don't Have",
-    "setup": "A large prospective account, mid-negotiation in April, says they'll only sign if you support SSO with their specific identity provider — a build you estimated at six weeks, and they want an answer in five days.",
+    "setup": "A $150k prospect, five months into a sales cycle, says in April they'll only sign if you support SSO with their specific identity provider — a six-week build — and want a commitment within five days.",
     "questions": [
-      "Do you commit to the build before the contract is signed?",
-      "How do you decide if this becomes a roadmap priority or a one-off customization?",
-      "What do you tell other prospects who've asked for the same thing but aren't as far along?"
+      "Do you commit engineering time before the contract is signed, risking a wasted sprint if they walk anyway?",
+      "Does this become a roadmap priority, or a one-off custom build billed separately?",
+      "What do you tell the two other prospects who asked for the same integration last quarter but aren't this close to closing?"
     ]
   },
   {
     "id": "saas-005",
     "industry": "SaaS",
     "title": "A Competitor's Breach Puts You on the Spot",
-    "setup": "In May, a direct competitor discloses a data breach affecting thousands of customers. Your own prospects and customers are now asking pointed questions about your security posture, and you don't have a SOC 2 report ready to share.",
+    "setup": "In May, a direct competitor discloses a breach affecting 50,000 customers. Within a day, six of your own prospects ask for your SOC 2 report — which is eight weeks from being ready.",
     "questions": [
-      "How do you respond to security questions today without overpromising?",
-      "Does this change the priority of your compliance roadmap?",
-      "Is there a way to turn this into a trust-building moment rather than a defensive one?"
+      "Do you share draft compliance evidence, or explain the timeline honestly and risk losing deals to a competitor who already has one?",
+      "Does this justify pulling engineers off roadmap work to accelerate the audit?",
+      "Is there a way to turn 'we don't have it yet, here's exactly when we will' into a trust-building answer rather than a weak one?"
     ]
   },
   {
     "id": "saas-006",
     "industry": "SaaS",
     "title": "Your Lead Engineer Leaves Mid-Release",
-    "setup": "In June, the engineer who owns your biggest upcoming release gives two weeks' notice, right as the feature enters final testing before a customer-promised ship date.",
+    "setup": "In June, the engineer who owns 70% of your biggest upcoming release gives two weeks' notice — the feature is in final testing, three customers were promised it by July 1st.",
     "questions": [
-      "Do you slip the release date or ship with reduced confidence?",
-      "How exposed is the team to single points of failure like this one?",
-      "What do you tell the customers who were promised this feature by a specific date?"
+      "Do you slip the July 1st date, or ship with reduced test coverage and confidence?",
+      "How exposed is the team to single points of failure like this one across other features?",
+      "What do you tell the three customers, and does the answer change if the engineer is willing to consult after leaving?"
     ]
   },
   {
     "id": "saas-007",
     "industry": "SaaS",
     "title": "The Summer Usage Dip",
-    "setup": "It's July, and product usage metrics are down 15% as customers' teams take vacation. Meanwhile, annual contracts signed a year ago in July are now up for renewal, and low recent usage is making renewal conversations harder.",
+    "setup": "It's July, product usage is down 18% as customer teams vacation, and 15 annual contracts signed last July are up for renewal right now — with low recent usage making every renewal call harder.",
     "questions": [
-      "How do you separate a seasonal usage dip from a real engagement problem in renewal conversations?",
-      "Should renewal timing be smoothed across the year, or is this just a cost of doing business?",
-      "What proactive outreach could have prevented this renewal risk from being a surprise?"
+      "How do you separate a seasonal usage dip from a real engagement problem in these 15 conversations?",
+      "Should renewal anniversaries be spread more evenly across the year to avoid this collision?",
+      "What proactive June outreach could have made July's renewals a non-event?"
     ]
   },
   {
     "id": "saas-008",
     "industry": "SaaS",
     "title": "The Conference Announcement Falls Flat",
-    "setup": "At your industry's biggest August conference, you unveil the feature you've spent six months building. The audience reaction is lukewarm, and a competitor's booth two aisles down is generating far more buzz with a smaller, simpler feature.",
+    "setup": "At your industry's biggest August conference, you unveil a feature that took six months to build. Audience reaction is a scattering of polite claps; a competitor's booth two aisles down, showing something simpler, has a line 20 deep.",
     "questions": [
-      "Do you take the muted reaction as a signal to change course, or stay the course?",
-      "What does the competitor's simpler feature tell you about what the market actually wants?",
-      "How do you message this internally to a team that spent months on the launch?"
+      "Do you take the muted reaction as a signal to change course, or is this just a bad room on a bad day?",
+      "What does the competitor's simpler, more popular feature say about what the market actually wants?",
+      "How do you tell a team that spent six months on this that the reception was lukewarm?"
     ]
   },
   {
     "id": "saas-009",
     "industry": "SaaS",
     "title": "Enterprise Prospects Start Their Q4 Evaluation",
-    "setup": "September marks the start of enterprise budget planning season, and suddenly five large prospects want technical deep-dives and security reviews simultaneously, all wanting to close before their fiscal year ends in Q4.",
+    "setup": "September marks enterprise budget season, and five prospects worth $400k combined all want technical deep-dives and security reviews the same two weeks, all wanting to close before their fiscal year ends in December.",
     "questions": [
-      "How do you prioritize which deals get the most solutions-engineering attention?",
-      "Is your team resourced to run five parallel enterprise evaluations at once?",
-      "What happens to your other pipeline while the team is focused on these deals?"
+      "How do you prioritize which of the five gets your solutions engineer's limited hours?",
+      "Is your team actually resourced for five parallel enterprise evaluations, or are you about to find out the hard way?",
+      "What happens to the rest of your pipeline while the team is heads-down on these five?"
     ]
   },
   {
     "id": "saas-010",
     "industry": "SaaS",
     "title": "A Critical Vulnerability in a Shared Dependency",
-    "setup": "In October, a critical CVE is disclosed in an open-source library your product depends on. Customers are asking for a patch timeline within hours, and the fix requires touching a core piece of infrastructure.",
+    "setup": "In October, a critical CVE is disclosed in an open-source library your product depends on. Three customers email within the hour asking for a patch timeline; the fix touches a piece of infrastructure nobody has changed in two years.",
     "questions": [
-      "What's your process for triaging and communicating during an active vulnerability disclosure?",
-      "How much detail do you share publicly versus only with affected customers?",
-      "Does this expose a gap in how you track third-party dependencies?"
+      "What's your process for triaging and communicating during hours one through six of an active disclosure?",
+      "How much technical detail do you share publicly versus only with the three affected customers who asked?",
+      "Does this expose a gap in how you're tracking what's actually inside your own dependency tree?"
     ]
   },
   {
     "id": "saas-011",
     "industry": "SaaS",
     "title": "The Q4 Renewal Crunch",
-    "setup": "It's November, and forty annual contracts are up for renewal before year-end. Your customer success team, already stretched thin, is triaging which accounts get proactive outreach and which get a standard renewal email.",
+    "setup": "It's November, and 40 annual contracts worth $1.2M are up for renewal before year-end. Your two-person CS team is triaging which accounts get a phone call and which get a template email.",
     "questions": [
-      "How should renewal risk be scored to prioritize limited CS bandwidth?",
-      "What would it take to smooth renewal dates more evenly across the calendar next year?",
-      "Which of these forty accounts would you personally call first, and why?"
+      "How should renewal risk be scored so limited CS bandwidth goes to the accounts actually at risk?",
+      "What would it take to spread renewal dates more evenly across the calendar starting next year?",
+      "Of these 40, which five would you personally call first — and can you defend that list?"
     ]
   },
   {
     "id": "saas-012",
     "industry": "SaaS",
     "title": "A Multi-Year Deal Wants a Steep Discount",
-    "setup": "In December, a large customer offers to sign a three-year contract if you cut annual pricing by 30%, wanting to lock it in before their own fiscal year-end. Finance is skeptical, but the ARR looks great on paper.",
+    "setup": "In December, a $300k customer offers to sign a three-year deal if you cut annual pricing 30%, wanting it locked before their own fiscal year-end. Finance likes the ARR on paper; the discount undercuts three renewals due in Q1.",
     "questions": [
-      "How do you weigh locked-in revenue against margin erosion over three years?",
-      "What protections would you want in the contract if pricing or product scope changes?",
-      "Does saying yes here set a precedent other large accounts will expect?"
+      "How do you weigh three years of locked-in revenue against the margin given up, and the precedent for the Q1 renewals watching?",
+      "What non-price terms — service credits, faster support, extended trial of new features — could you offer instead?",
+      "Does saying yes here mean the next three big accounts expect the same deal?"
     ]
   },
   {
     "id": "saas-013",
     "industry": "SaaS",
     "title": "A Critical Bug During the Holiday Code Freeze",
-    "setup": "Your engineering team enacted a code freeze for the last two weeks of December, standard practice to avoid holiday deploy risk. Then a customer reports a bug that's blocking their year-end reporting, due in three days.",
+    "setup": "Engineering enacted a two-week December code freeze, standard practice to avoid holiday deploy risk. On day four, a customer reports a bug blocking their year-end financial close, due in 72 hours.",
     "questions": [
-      "Under what conditions is a code freeze worth breaking?",
-      "How do you weigh the risk of a rushed deploy against the risk of an unhappy customer at year-end?",
-      "Should critical-severity exceptions have been defined before the freeze started?"
+      "Under what conditions is this specific freeze worth breaking?",
+      "How do you weigh the risk of a rushed holiday deploy against a customer who can't close their books?",
+      "Should critical-severity exceptions have been defined in writing before the freeze started?"
     ]
   },
   {
     "id": "saas-014",
     "industry": "SaaS",
     "title": "A New Privacy Regulation Lands in January",
-    "setup": "A new data privacy regulation takes effect in a key market on January 1st, and your legal team just flagged that your current data handling doesn't fully comply. Enforcement begins immediately.",
+    "setup": "A new data privacy law takes effect in a key market January 1st, and legal flags that your data handling doesn't fully comply — enforcement starts immediately, with no grace period.",
     "questions": [
-      "How do you triage compliance work against the rest of the roadmap?",
-      "What's the cost of moving slowly versus the cost of rushing a compliance fix?",
-      "Should this change how you evaluate regulatory risk before entering new markets?"
+      "How do you triage this compliance work against everything else already on the roadmap?",
+      "What's the actual cost of moving slowly here versus the cost of a rushed, possibly incomplete fix?",
+      "Should this change how you evaluate regulatory risk before entering the next new market?"
     ]
   },
   {
     "id": "saas-015",
     "industry": "SaaS",
     "title": "An Unsolicited Acquisition Offer",
-    "setup": "Mid-year, a much larger company makes an informal acquisition offer, well above your last valuation, wanting an answer within two weeks.",
+    "setup": "Mid-year, a much larger company offers to acquire you at 40% above your last valuation, wanting an answer within two weeks — before your next funding round would have closed anyway.",
     "questions": [
-      "What would you need to know before taking this seriously?",
-      "How do you keep the team focused if word starts to leak?",
-      "What does 'walking away' cost you if this is the best offer you'll ever get?"
+      "What would you need to see in the fine print before taking this seriously at all?",
+      "How do you keep the team focused and not job-hunting if word starts to leak in the next two weeks?",
+      "What does walking away actually cost if this turns out to be the best offer you'll ever get?"
     ]
   },
   {
@@ -333,165 +333,165 @@
     "id": "manufacturing-001",
     "industry": "Manufacturing",
     "title": "New Tariffs Hit Raw Material Costs",
-    "setup": "New tariffs take effect January 1st on imported steel, raising your input costs 20% overnight. Fixed-price contracts signed last year don't allow for cost pass-through.",
+    "setup": "New tariffs take effect January 1st on imported steel, raising input costs 20% overnight. Three fixed-price contracts covering 35% of Q1 volume don't allow for cost pass-through.",
     "questions": [
-      "Do you absorb the cost, renegotiate existing contracts, or find alternate suppliers?",
-      "How quickly could you qualify a domestic supplier as an alternative?",
-      "Should future contracts include a tariff/commodity price escalation clause?"
+      "Do you absorb the loss on those three contracts, renegotiate them, or find an alternate supplier fast enough to matter?",
+      "How quickly could you actually qualify a domestic supplier, and at what cost premium?",
+      "Should every future contract include a tariff-escalation clause after this?"
     ]
   },
   {
     "id": "manufacturing-002",
     "industry": "Manufacturing",
     "title": "Lunar New Year Shuts Down Your Supplier",
-    "setup": "Your primary overseas component supplier closes for two weeks over Lunar New Year in February, as it does every year — but this year a shipping delay means the closure will push a customer's critical order three weeks late.",
+    "setup": "Your overseas supplier's routine two-week Lunar New Year closure in February lands this year alongside a shipping delay, pushing a customer's order three weeks late instead of the usual one.",
     "questions": [
-      "Should this annual shutdown have been built into your planning calendar already?",
-      "How do you communicate the delay to the affected customer before they find out themselves?",
-      "Is it time to qualify a second-source supplier in a different time zone for exactly this reason?"
+      "Should this predictable annual closure already be built into your planning calendar with more buffer?",
+      "How do you tell the customer before they find out from a tracking number that stopped updating?",
+      "Is it finally time to qualify a second-source supplier in a different time zone?"
     ]
   },
   {
     "id": "manufacturing-003",
     "industry": "Manufacturing",
     "title": "A Surprise Safety Inspection",
-    "setup": "An OSHA inspector arrives unannounced in March and identifies violations serious enough to threaten a partial shutdown of one production line, right in the middle of a big order.",
+    "setup": "An OSHA inspector arrives unannounced in March and finds violations serious enough to threaten shutting down one production line — right in the middle of a $200k order due in ten days.",
     "questions": [
-      "What's your immediate response to minimize both safety risk and production loss?",
-      "How do you communicate this internally without causing panic?",
-      "What does this reveal about your ongoing safety audit cadence?"
+      "What's your immediate response to fix the safety issue and protect as much of the production timeline as possible?",
+      "How do you communicate this internally without triggering panic across the floor?",
+      "What does this reveal about how often you're auditing safety versus waiting to be audited?"
     ]
   },
   {
     "id": "manufacturing-004",
     "industry": "Manufacturing",
     "title": "A Commodity Price Spike Squeezes Margins",
-    "setup": "In April, copper prices spike 25% in a month due to global supply disruptions. You have several fixed-price customer contracts running through the end of the year that didn't anticipate this.",
+    "setup": "In April, copper prices spike 25% in a month. Four fixed-price customer contracts run through December without any provision for this kind of swing.",
     "questions": [
-      "Do you honor the fixed prices at a loss, or attempt to renegotiate mid-contract?",
-      "How exposed are you to commodity swings across your whole contract book?",
-      "Should hedging or shorter contract terms be part of your strategy going forward?"
+      "Do you honor the fixed prices at a real loss, or attempt to renegotiate mid-contract with customers who'll push back?",
+      "How exposed is your entire contract book to commodity swings like this one?",
+      "Should hedging or shorter contract terms replace how you price fixed-rate deals going forward?"
     ]
   },
   {
     "id": "manufacturing-005",
     "industry": "Manufacturing",
     "title": "A Strike Threat Right Before Peak Production",
-    "setup": "Your union contract expires in May, right as you're ramping toward your busiest production months. Negotiations have stalled, and workers are discussing a strike authorization vote.",
+    "setup": "Your union contract expires in May, right as you ramp toward your two busiest months. Negotiations have stalled over healthcare costs, and a strike authorization vote is scheduled for next week.",
     "questions": [
-      "How do you plan for continuity if a strike happens during peak season?",
-      "What's the cost of a short-term concession versus a prolonged work stoppage?",
-      "Should contract renewal timing be renegotiated to avoid this seasonal collision in the future?"
+      "What's the actual cost of a short-term concession versus even a five-day work stoppage during peak season?",
+      "How do you plan production continuity if the vote passes and a strike follows?",
+      "Should contract renewal timing be renegotiated in the next agreement to avoid this seasonal collision?"
     ]
   },
   {
     "id": "manufacturing-006",
     "industry": "Manufacturing",
     "title": "The Summer Retooling Runs Long",
-    "setup": "Your planned June shutdown to retool a production line for a new product was scheduled for one week. It's now day twelve, and customer orders are backing up.",
+    "setup": "Your planned one-week June shutdown to retool a line for a new product is now on day twelve. Customer orders worth $85k are backing up, and the retooling vendor says three more days minimum.",
     "questions": [
-      "At what point do you communicate the delay to affected customers versus hoping to catch up?",
-      "What contingency capacity exists elsewhere in your network to absorb the backlog?",
-      "What went wrong in the retooling estimate, and how do you plan differently next time?"
+      "At what point do you proactively notify affected customers rather than hope to quietly catch up?",
+      "What contingency capacity elsewhere in your network could absorb some of the backlog?",
+      "What went wrong in the original one-week estimate, and how do you plan differently next time?"
     ]
   },
   {
     "id": "manufacturing-007",
     "industry": "Manufacturing",
     "title": "A Hurricane Threatens a Gulf Coast Supplier",
-    "setup": "It's late July, and a hurricane is forecast to hit the region where your key chemical supplier operates within 72 hours. That supplier accounts for a third of your critical input material.",
+    "setup": "It's late July, and a hurricane is forecast to hit within 72 hours near your chemical supplier, who provides a third of your critical input material and has no announced contingency plan.",
     "questions": [
-      "Do you rush an emergency order now, and from where?",
-      "How much buffer inventory should you be carrying for suppliers in hurricane-prone regions?",
-      "What's your communication plan for customers if this supplier goes offline for weeks?"
+      "Do you place an emergency order right now, and from an alternate supplier you haven't fully vetted?",
+      "How much buffer inventory should you be carrying for any supplier in a hurricane-prone region?",
+      "What's your customer communication plan if this supplier is down for weeks, not days?"
     ]
   },
   {
     "id": "manufacturing-008",
     "industry": "Manufacturing",
     "title": "A Rival Undercuts You at the Trade Show",
-    "setup": "At a major August trade show, a competitor unveils a similar product at a significantly lower price point, and two of your longtime distributors are already asking for a price match.",
+    "setup": "At a major August trade show, a competitor unveils a similar product 15% cheaper, and two distributors who together move 20% of your volume are already asking for a price match by end of week.",
     "questions": [
-      "Do you match the price, or defend on quality and reliability?",
-      "What does the competitor's pricing suggest about their cost structure or margins?",
-      "How do you keep distributor relationships steady while you figure out a response?"
+      "Do you match the price, or defend on quality and reliability data you can actually show them?",
+      "What does a 15% gap suggest about the competitor's cost structure — and is it sustainable for them?",
+      "How do you keep both distributor relationships steady while you figure out the real response?"
     ]
   },
   {
     "id": "manufacturing-009",
     "industry": "Manufacturing",
     "title": "The Holiday Retail Rush Order",
-    "setup": "It's September, and a major retail customer places a rush order 40% larger than forecast, needed in time for their holiday shelf-stocking in October — with only six weeks of lead time instead of the usual ten.",
+    "setup": "In September, a major retail customer places a rush order 40% larger than forecast, needed for October holiday shelf-stocking — with six weeks of lead time instead of the usual ten.",
     "questions": [
-      "Can you compress the timeline without sacrificing quality or overtime costs?",
-      "What does this do to your other scheduled production commitments?",
-      "Should large seasonal customers be required to commit to forecasts earlier?"
+      "Can you compress the timeline without overtime costs eating the entire margin on this order?",
+      "What does prioritizing this rush order do to your other scheduled production commitments this month?",
+      "Should large seasonal customers be contractually required to commit to forecasts earlier?"
     ]
   },
   {
     "id": "manufacturing-010",
     "industry": "Manufacturing",
     "title": "A Recall on a Six-Month-Old Component",
-    "setup": "In October, a safety issue is discovered in a component you shipped six months ago, now installed in thousands of units in the field. A recall is likely required.",
+    "setup": "In October, a safety issue surfaces in a component shipped six months ago, now installed in an estimated 12,000 units in the field.",
     "questions": [
-      "What's your immediate containment plan to stop further shipments?",
-      "How do you prioritize which customers or units get remediated first?",
-      "What does this cost in trust, and how do you rebuild it?"
+      "What's your immediate containment plan to stop further shipments today?",
+      "How do you prioritize which customers or units get remediated first given limited replacement stock?",
+      "What does this cost in trust, and what's the concrete plan to rebuild it?"
     ]
   },
   {
     "id": "manufacturing-011",
     "industry": "Manufacturing",
     "title": "A Year-End Order Wants a Steep Discount",
-    "setup": "In November, a major customer wants to finalize a large capital equipment order before their fiscal year closes on December 31st, but is asking for a 15% discount to sign now.",
+    "setup": "In November, a major customer wants to finalize a $500k capital equipment order before their fiscal year closes December 31st, asking for a 15% discount to sign now.",
     "questions": [
-      "Is the certainty of closing this quarter worth the margin given up?",
-      "What else could you offer instead of a straight discount — extended terms, faster delivery, service credits?",
-      "Does this customer's year-end timing pattern repeat, and should you plan for it next year?"
+      "Is the certainty of closing this quarter worth $75k in given-up margin?",
+      "What could you offer instead of a straight discount — extended terms, faster delivery, service credits?",
+      "Does this customer's year-end timing pattern repeat annually, and should you plan pricing around it next year?"
     ]
   },
   {
     "id": "manufacturing-012",
     "industry": "Manufacturing",
     "title": "Holiday Shutdown Collides With an Urgent Order",
-    "setup": "Your plant's traditional two-week December holiday shutdown is set, matching most of your workforce's expectations. Then a key customer requests an urgent order that would require running through part of that window.",
+    "setup": "Your plant's two-week December shutdown is set and most of the workforce has already made holiday plans around it. A key customer then requests an urgent order requiring a partial run through that exact window.",
     "questions": [
-      "Do you ask for volunteer overtime, or hold the line on the shutdown schedule?",
-      "How do you weigh the customer relationship against employee morale and planned time off?",
-      "Should shutdown dates be more flexible or communicated further in advance to customers?"
+      "Do you ask for volunteer overtime at premium pay, or hold the shutdown schedule and risk the customer relationship?",
+      "How do you weigh this one customer's urgency against the morale cost of disrupting planned time off?",
+      "Should shutdown dates be communicated further in advance so this collision can't happen next year?"
     ]
   },
   {
     "id": "manufacturing-013",
     "industry": "Manufacturing",
     "title": "Winter Energy Prices Squeeze the Budget",
-    "setup": "A cold snap in December drives regional energy prices up sharply, and your energy-intensive production lines are running well over the budgeted operating cost for the month.",
+    "setup": "A December cold snap drives regional energy prices up sharply, and your energy-intensive lines are running 30% over the month's budgeted operating cost.",
     "questions": [
-      "Do you pass this cost through, absorb it, or slow production during peak-price hours?",
-      "Would locking in energy contracts earlier in the year have protected you here?",
-      "How much of your cost structure is exposed to this kind of seasonal volatility?"
+      "Do you pass this cost through, absorb it, or shift production to off-peak pricing hours where possible?",
+      "Would locking in an energy contract earlier in the year have protected you from this exact spike?",
+      "How much of your total cost structure is exposed to this kind of seasonal volatility every winter?"
     ]
   },
   {
     "id": "manufacturing-014",
     "industry": "Manufacturing",
     "title": "New ESG Reporting Requirements Arrive",
-    "setup": "A new regulation taking effect this January requires detailed carbon emissions disclosure for your sector, and your current data collection isn't set up to produce it.",
+    "setup": "A new regulation effective this January requires detailed carbon emissions disclosure for your sector, and your current data collection can't produce it — the first filing deadline is 90 days out.",
     "questions": [
-      "How do you prioritize this against ongoing production and cost pressures?",
-      "What's the risk of non-compliance versus the cost of building out this reporting quickly?",
-      "Could better data infrastructure here also reveal cost-saving opportunities?"
+      "How do you prioritize this against ongoing production and cost pressures with only 90 days?",
+      "What's the real risk of non-compliance versus the cost of building this reporting quickly?",
+      "Could the data infrastructure this forces you to build also reveal cost-saving opportunities?"
     ]
   },
   {
     "id": "manufacturing-015",
     "industry": "Manufacturing",
     "title": "A Key Supplier Files for Bankruptcy",
-    "setup": "In March, your sole-source supplier for a critical component announces they've filed for Chapter 11, with an uncertain future for continued operations.",
+    "setup": "In March, your sole-source supplier for a critical component files Chapter 11, with production continuity uncertain for the next 60 days.",
     "questions": [
-      "How quickly can you identify and qualify an alternative supplier?",
-      "Should you have avoided sole-sourcing this component in the first place?",
-      "What's your message to customers if this creates a supply gap in the coming months?"
+      "How quickly can you identify and qualify an alternative supplier at any price?",
+      "Should you have avoided sole-sourcing this component in the first place, and what else is sole-sourced right now?",
+      "What's your message to customers if this creates a supply gap in the coming weeks?"
     ]
   },
   {
@@ -663,98 +663,98 @@
     "id": "healthcare-001",
     "industry": "Healthcare",
     "title": "New Reimbursement Rates Cut Revenue",
-    "setup": "New CMS reimbursement rates take effect January 1st, cutting payment for several of your highest-volume procedures by double digits, with no advance grace period.",
+    "setup": "New CMS reimbursement rates take effect January 1st, cutting payment on your three highest-volume procedures by 12-18%, with no grace period and no advance notice beyond the federal register.",
     "questions": [
-      "Which service lines are now operating at a loss, and what's the plan for them?",
-      "Do you adjust patient volume, staffing, or pricing on non-covered services to compensate?",
-      "How do you communicate this financial pressure to physicians without affecting care quality?"
+      "Which of these three service lines are now operating at a loss, and what's the actual plan for them?",
+      "Do you adjust volume, staffing, or non-covered service pricing to compensate?",
+      "How do you communicate this financial pressure to physicians without it touching care decisions?"
     ]
   },
   {
     "id": "healthcare-002",
     "industry": "Healthcare",
     "title": "Flu Season Overwhelms Capacity",
-    "setup": "A severe flu season in February is filling beds faster than expected, forcing you to consider postponing elective procedures to free up capacity.",
+    "setup": "A severe February flu season has beds at 98% capacity three weeks running, forcing a decision on postponing elective procedures scheduled for the next two weeks.",
     "questions": [
-      "How do you decide which elective procedures get postponed and communicate that to patients?",
-      "What's the financial impact of delayed elective revenue versus emergency capacity needs?",
-      "Should seasonal staffing plans have anticipated this surge better?"
+      "How do you decide which elective procedures get postponed, and who calls the patients?",
+      "What's the financial impact of delayed elective revenue against the emergency capacity you're protecting?",
+      "Should seasonal staffing plans have anticipated a surge this size, given last year's flu season too?"
     ]
   },
   {
     "id": "healthcare-003",
     "industry": "Healthcare",
     "title": "The EHR Migration Falls Behind",
-    "setup": "Your new electronic health records system was supposed to go live in March. Two weeks before cutover, testing reveals data migration errors that could delay the launch by months.",
+    "setup": "Your new EHR system was set to go live in March. Two weeks before cutover, testing reveals data migration errors affecting an estimated 8% of patient records.",
     "questions": [
-      "Do you delay the go-live, or proceed and fix issues in production?",
-      "What's the clinical risk of a rushed transition versus the cost of further delay?",
-      "How do you keep staff confident in a system they've already been trained on once?"
+      "Do you delay the go-live past its already-announced date, or proceed and fix issues live?",
+      "What's the clinical risk of a rushed transition against the cost and morale hit of another delay?",
+      "How do you keep staff confident in a system they've already trained on once, if training has to happen twice?"
     ]
   },
   {
     "id": "healthcare-004",
     "industry": "Healthcare",
     "title": "A Malpractice Claim Before Accreditation Review",
-    "setup": "In April, a malpractice claim is filed against a senior physician just three weeks before your facility's accreditation survey is scheduled.",
+    "setup": "In April, a malpractice claim is filed against a senior physician three weeks before your facility's accreditation survey, which that physician was scheduled to help lead.",
     "questions": [
-      "How do you manage the claim process without it affecting the accreditation review?",
-      "What does this reveal about physician oversight processes that need strengthening now?",
-      "How transparent should you be with surveyors about an active claim?"
+      "How do you manage the claim process without it visibly affecting the accreditation review?",
+      "What does this reveal about physician oversight that needs strengthening before surveyors ask about it?",
+      "How transparent should you be with surveyors about an active claim they may already know about?"
     ]
   },
   {
     "id": "healthcare-005",
     "industry": "Healthcare",
     "title": "A Key Specialist Resigns in Hiring Season",
-    "setup": "In May, your only specialist in a high-demand field resigns with a month's notice, right as recruiting for the year's most competitive hiring season is underway across the industry.",
+    "setup": "In May, your only specialist in a high-demand field resigns with a month's notice, right as the year's most competitive hiring season for that specialty is underway industry-wide.",
     "questions": [
-      "How do you cover patient needs during the gap without a replacement?",
-      "What would make your organization competitive in this tight hiring market?",
-      "Should key specialties have succession or backup coverage plans already?"
+      "How do you cover patient needs for the gap month without a permanent replacement lined up?",
+      "What would actually make your organization competitive in this tight, fast-moving hiring market?",
+      "Should single-specialist coverage gaps like this one have a succession plan already in place?"
     ]
   },
   {
     "id": "healthcare-006",
     "industry": "Healthcare",
     "title": "The Summer Elective Surgery Lull",
-    "setup": "Elective surgery volume drops sharply in June and July as patients delay procedures for summer vacations, leaving your surgical staff overstaffed relative to current demand.",
+    "setup": "Elective surgery volume drops 20% in June and July as patients delay for summer vacations, leaving surgical staff overstaffed relative to current demand for two full months.",
     "questions": [
-      "Do you adjust staffing levels seasonally, or absorb the cost to keep the team ready?",
-      "Could scheduling incentives shift some of this demand into the slower months?",
-      "How predictable is this seasonal pattern, and is it already built into your annual budget?"
+      "Do you adjust staffing levels seasonally, or absorb the cost to keep the team ready for a fall rebound?",
+      "Could scheduling incentives shift some demand into these two slower months instead?",
+      "Is this pattern predictable enough that it's already built into your annual budget, or does it surprise finance every year?"
     ]
   },
   {
     "id": "healthcare-007",
     "industry": "Healthcare",
     "title": "A Price Transparency Deadline Arrives",
-    "setup": "A new price transparency regulation requires you to publicly post rates for common procedures starting in July, and your billing team hasn't finished calculating accurate figures.",
+    "setup": "A new price transparency regulation requires posting rates for common procedures starting in July, and billing hasn't finished calculating accurate figures with three weeks to the deadline.",
     "questions": [
-      "What's the risk of posting estimates versus missing the compliance deadline entirely?",
-      "How might publishing these rates affect competition with nearby providers?",
-      "Does this expose pricing inconsistencies you'll need to address internally first?"
+      "What's the risk of posting rough estimates versus missing the compliance deadline entirely?",
+      "How might publishing these rates change competition with the two other providers in your market?",
+      "Does this process expose pricing inconsistencies across departments that need fixing internally first?"
     ]
   },
   {
     "id": "healthcare-008",
     "industry": "Healthcare",
     "title": "The Back-to-School Vaccination Rush",
-    "setup": "August brings a predictable surge in vaccination and physical exam appointments ahead of the school year, and your scheduling system is already showing a two-week backlog.",
+    "setup": "August brings the predictable surge in vaccination and physical exam appointments, and the scheduling system already shows a two-week backlog with three weeks left before school starts.",
     "questions": [
-      "Could extended hours or a temporary clinic absorb this seasonal surge?",
-      "How do you prioritize urgent versus routine appointments during the crunch?",
-      "Is this predictable enough that next year's staffing should be planned differently?"
+      "Could extended hours or a temporary walk-in clinic absorb this seasonal surge in time?",
+      "How do you prioritize urgent versus routine appointments during the backlog?",
+      "Is this predictable enough that next year's August staffing plan should already be different?"
     ]
   },
   {
     "id": "healthcare-009",
     "industry": "Healthcare",
     "title": "A Data Breach Right Before Flu Season",
-    "setup": "In September, a cybersecurity breach exposes patient records just as your team is gearing up operationally for flu season preparations.",
+    "setup": "In September, a cybersecurity breach exposes 15,000 patient records just as operational planning for flu season is ramping up, with notification obligations due within 60 days.",
     "questions": [
-      "How do you run breach notification and remediation without derailing seasonal readiness?",
-      "What's your communication plan for patients whose data was exposed?",
+      "How do you run breach notification and remediation without derailing flu season readiness?",
+      "What's your communication plan for the 15,000 patients whose data was exposed?",
       "Does this reveal a security gap that needs fixing before more sensitive systems are touched?"
     ]
   },
@@ -762,66 +762,66 @@
     "id": "healthcare-010",
     "industry": "Healthcare",
     "title": "An Insurer Drops You From Network During Open Enrollment",
-    "setup": "In October, right as open enrollment begins, a major insurer notifies you they're dropping your facility from their network next year. Patients are already calling, confused and anxious.",
+    "setup": "In October, right as open enrollment begins, a major insurer notifies you they're dropping your facility from network next year — representing 18% of your patient volume.",
     "questions": [
-      "What's your immediate messaging to patients who now face an in-network decision?",
-      "Is there room to renegotiate before enrollment periods close?",
-      "How dependent is your revenue on this single payer relationship?"
+      "What's your immediate messaging to patients now facing an in-network decision during enrollment?",
+      "Is there still room to renegotiate before enrollment closes in five weeks?",
+      "How dependent is your revenue on this one payer, and does that need to change regardless of this outcome?"
     ]
   },
   {
     "id": "healthcare-011",
     "industry": "Healthcare",
     "title": "Holiday Staffing Shortages Meet Flu Season",
-    "setup": "In November, requested holiday time off leaves you short-staffed just as flu season admissions begin climbing, and current staff are already reporting burnout.",
+    "setup": "In November, approved holiday time-off requests leave the unit 25% short-staffed just as flu admissions begin climbing, with current staff already reporting burnout in exit surveys.",
     "questions": [
-      "How do you balance honoring time-off requests with patient safety needs?",
-      "What temporary or float staffing options could bridge this gap?",
-      "Should holiday staffing policy change to better anticipate this seasonal collision?"
+      "How do you balance already-approved time off against patient safety needs for the next six weeks?",
+      "What temporary or float staffing options could realistically bridge this specific gap?",
+      "Should holiday time-off policy change structurally to prevent this exact collision every year?"
     ]
   },
   {
     "id": "healthcare-012",
     "industry": "Healthcare",
     "title": "A Year-End Budget Cut Mid-Flu-Season",
-    "setup": "In December, the hospital board demands immediate cost cuts to meet year-end financial targets, right in the middle of the flu season admission peak.",
+    "setup": "In December, the board demands a 5% cost cut to hit year-end financial targets, right in the middle of the flu season admission peak.",
     "questions": [
-      "Which costs can be cut without compromising patient care during peak demand?",
-      "How do you push back on timing if the cuts genuinely risk care quality?",
-      "Should budget target deadlines account for known seasonal demand patterns?"
+      "Which costs can actually be cut without compromising patient care during peak demand?",
+      "How do you push back on timing if the cuts genuinely risk care quality this month?",
+      "Should board budget deadlines account for known seasonal demand patterns going forward?"
     ]
   },
   {
     "id": "healthcare-013",
     "industry": "Healthcare",
     "title": "A New Urgent Care Opens Across the Street",
-    "setup": "In January, a well-funded urgent care chain opens a location directly across from your facility, offering shorter wait times and extended hours.",
+    "setup": "In January, a well-funded urgent care chain opens directly across from your facility, advertising 15-minute wait times against your average of 55.",
     "questions": [
-      "What does your patient volume data suggest about who might switch, and why?",
-      "Can you compete on convenience, or is your differentiation elsewhere?",
-      "Should this change how you invest in scheduling and wait-time improvements?"
+      "What does your own wait-time and volume data suggest about who's actually likely to switch?",
+      "Can you compete on convenience, or is your real differentiation somewhere else entirely?",
+      "Should this force investment in scheduling and wait-time fixes that have been deferred for years?"
     ]
   },
   {
     "id": "healthcare-014",
     "industry": "Healthcare",
     "title": "A Telehealth Policy Change Threatens Revenue",
-    "setup": "A policy change in February ends expanded telehealth reimbursement that had become a meaningful revenue stream since it was introduced, with 60 days' notice.",
+    "setup": "A February policy change ends expanded telehealth reimbursement — a revenue stream that grew to 15% of visits since it was introduced — with 60 days' notice.",
     "questions": [
-      "How much of your current revenue and patient access depends on this reimbursement?",
-      "Can telehealth services shift to a different payment model in time?",
-      "What does this teach you about building revenue on policy that can change quickly?"
+      "How much of current revenue and patient access genuinely depends on this reimbursement rule?",
+      "Can telehealth visits shift to a different payment model inside the 60-day window?",
+      "What does this teach about building a revenue line on policy that can change with 60 days' notice?"
     ]
   },
   {
     "id": "healthcare-015",
     "industry": "Healthcare",
     "title": "A Community Screening Event Cuts Both Ways",
-    "setup": "A free community health screening event in May draws far more attendees than expected, generating great local press — but also surfaces several urgent findings your follow-up capacity wasn't sized for.",
+    "setup": "A free May community health screening draws 3x the expected attendees and strong local press — but also surfaces 40 urgent findings your follow-up capacity wasn't sized for.",
     "questions": [
-      "How do you handle the immediate care needs surfaced by the event responsibly?",
+      "How do you responsibly handle 40 urgent findings your clinic wasn't staffed to follow up on this week?",
       "Does the PR value justify the strain on clinical resources it created?",
-      "Should future events be sized differently, or is this a good problem to have?"
+      "Should next year's event be sized down, or is this exactly the demand you should be planning to meet?"
     ]
   },
   {
@@ -993,165 +993,165 @@
     "id": "retail-banking-001",
     "industry": "Retail Banking",
     "title": "Tax Season Refund Surge",
-    "setup": "It's late January, and tax refund season is approaching. Historical data shows a major spike in mobile deposit volume in February, and your systems team hasn't finished this year's capacity testing.",
+    "setup": "It's late January, tax refund season approaches, and last year's mobile deposit volume spiked 3x in February — this year's capacity testing isn't finished with three weeks to go.",
     "questions": [
-      "What's the risk of a system slowdown during the highest-traffic weeks of the year?",
-      "Is capacity testing for this predictable seasonal spike happening early enough each year?",
-      "How do you communicate proactively if any slowdown does occur?"
+      "What's the actual risk of a slowdown during the highest-traffic banking weeks of the year?",
+      "Is capacity testing for this predictable annual spike starting early enough each year, or always this close?",
+      "How do you communicate proactively if a slowdown happens anyway despite testing?"
     ]
   },
   {
     "id": "retail-banking-002",
     "industry": "Retail Banking",
     "title": "The Fed Moves Rates Without Warning",
-    "setup": "The Federal Reserve announces a surprise rate change in February. Your deposit and loan products need repricing, and competitors are already advertising new rates within hours.",
+    "setup": "The Federal Reserve announces a surprise 50-basis-point change in February. Two competitors have already advertised new deposit rates within six hours.",
     "questions": [
-      "How fast can you reprice products without eroding margins or losing depositors?",
-      "What's your communication plan for existing customers with rate-sensitive products?",
-      "Does your rate-change response process need to be faster given how quickly competitors moved?"
+      "How fast can you reprice products without eroding margins or losing rate-sensitive depositors this week?",
+      "What's the communication plan for existing customers holding rate-sensitive products right now?",
+      "Does your rate-response process need a faster playbook given how quickly competitors moved?"
     ]
   },
   {
     "id": "retail-banking-003",
     "industry": "Retail Banking",
     "title": "The Spring Mortgage Rush",
-    "setup": "Spring home-buying season kicks off in March, and mortgage applications have jumped 40% week-over-week, well beyond what your underwriting team can process at normal turnaround times.",
+    "setup": "Spring home-buying season kicks off in March, and mortgage applications jumped 40% week-over-week — well beyond what four underwriters can process at your normal turnaround.",
     "questions": [
-      "Do you bring in temporary underwriting support, or let turnaround times slip?",
-      "How do you prioritize which applications move fastest without appearing unfair?",
-      "Is seasonal staffing for this predictable rush already built into your annual plan?"
+      "Do you bring in temporary underwriting support, or let turnaround times slip and risk losing buyers to faster lenders?",
+      "How do you prioritize applications without appearing to play favorites among current customers?",
+      "Is seasonal underwriting staffing for this predictable rush already budgeted, or built fresh every year?"
     ]
   },
   {
     "id": "retail-banking-004",
     "industry": "Retail Banking",
     "title": "Fraud Spikes Around Tax Refunds",
-    "setup": "In April, fraud attempts targeting tax refund deposits spike sharply, a pattern that recurs every year around this time, and your fraud team is flagging a rise in false positives too.",
+    "setup": "In April, fraud attempts targeting refund deposits spike 60% — a pattern that recurs every year — while the fraud team also reports a rise in false positives blocking legitimate refunds.",
     "questions": [
-      "How do you tune fraud detection for this seasonal spike without frustrating legitimate customers?",
-      "What's the cost of a false positive versus a missed fraud attempt during this window?",
-      "Should this seasonal pattern trigger a temporary staffing or rules change every year?"
+      "How do you tune fraud detection for this known seasonal spike without frustrating legitimate customers?",
+      "What's the real cost of one false positive versus one missed fraud attempt during this specific window?",
+      "Should this recurring seasonal pattern trigger a temporary rules change every year automatically?"
     ]
   },
   {
     "id": "retail-banking-005",
     "industry": "Retail Banking",
     "title": "A Fintech Undercuts Your Savings Rate",
-    "setup": "In May, a well-marketed fintech competitor launches a high-yield savings account offering nearly double your best rate, and you're seeing early signs of deposit outflow.",
+    "setup": "In May, a well-marketed fintech launches a savings account at 4.75% against your best rate of 2.5%, and deposit outflow data shows early signs of a real shift.",
     "questions": [
       "Do you match the rate, or compete on trust, branch access, and service instead?",
-      "How much deposit outflow would justify a rate response versus riding it out?",
-      "What does this reveal about which customer segments are most rate-sensitive?"
+      "What outflow percentage would actually justify a rate response versus riding it out?",
+      "Which customer segments are most rate-sensitive, and are they the ones you most want to keep?"
     ]
   },
   {
     "id": "retail-banking-006",
     "industry": "Retail Banking",
     "title": "A Regulatory Exam With Short Notice",
-    "setup": "In June, regulators announce an exam with only 30 days' notice, and an internal review turns up compliance gaps in a lending process that's been in place for over a year.",
+    "setup": "In June, regulators announce an exam with only 30 days' notice, and an internal review immediately turns up compliance gaps in a lending process that's been live for over a year.",
     "questions": [
-      "How do you prioritize remediation in the time available before the exam?",
-      "Should these gaps be proactively disclosed, or fixed quietly before the exam begins?",
-      "What does this reveal about the cadence of your internal compliance reviews?"
+      "How do you prioritize remediation with only the time available before the exam?",
+      "Should these gaps be proactively disclosed to examiners, or fixed quietly before the exam begins?",
+      "What does finding this now say about the cadence of your internal compliance reviews?"
     ]
   },
   {
     "id": "retail-banking-007",
     "industry": "Retail Banking",
     "title": "Summer Travel Fraud Spike",
-    "setup": "July brings a predictable rise in cross-border card transactions as customers travel, along with a corresponding spike in fraud flags and legitimate transactions getting blocked abroad.",
+    "setup": "July brings a predictable rise in cross-border transactions as customers travel, with fraud flags up 35% — and a corresponding wave of legitimate purchases getting blocked abroad.",
     "questions": [
-      "How do you balance fraud protection against the frustration of blocked legitimate travel purchases?",
-      "Could proactive travel notifications reduce false declines during this season?",
-      "Is your fraud model retrained often enough to reflect this yearly travel pattern?"
+      "How do you balance fraud protection against the real frustration of blocked legitimate travel purchases?",
+      "Could proactive travel notifications from customers meaningfully reduce false declines this season?",
+      "Is the fraud model retrained often enough to reflect this exact yearly travel pattern?"
     ]
   },
   {
     "id": "retail-banking-008",
     "industry": "Retail Banking",
     "title": "Back-to-School Loan Demand",
-    "setup": "In August, personal and student loan applications surge as families prepare for the school year, and underwriting turnaround times are slipping past your service standards.",
+    "setup": "In August, personal and student loan applications surge 45% as families prepare for the school year, and underwriting turnaround has slipped from 2 days to 6.",
     "questions": [
-      "Is this predictable seasonal demand reflected in your annual staffing plan?",
-      "What's the cost of a slow turnaround during this competitive lending season?",
-      "Could a streamlined process for smaller, common loan types free up capacity?"
+      "Is this predictable seasonal demand already reflected in your annual staffing plan?",
+      "What's the cost of a slow 6-day turnaround during this competitive lending season?",
+      "Could a streamlined process for smaller, common loan amounts free up capacity fast?"
     ]
   },
   {
     "id": "retail-banking-009",
     "industry": "Retail Banking",
     "title": "A Peer Bank's Breach Raises Questions",
-    "setup": "In September, a competitor bank discloses a data breach. Your call centers are suddenly fielding a wave of customers asking whether their own accounts are safe.",
+    "setup": "In September, a competitor discloses a data breach, and call centers field 200 calls in one day from customers asking if their own accounts are safe.",
     "questions": [
-      "How do you reassure customers without overstating your own security posture?",
-      "Is this a moment to proactively communicate your security practices, or stay quiet?",
-      "What would you actually do differently if the breach had happened to you?"
+      "How do you reassure customers without overstating your own actual security posture?",
+      "Is this the moment to proactively communicate your security practices, or better to stay quiet?",
+      "What would you honestly do differently if this breach had happened to you instead?"
     ]
   },
   {
     "id": "retail-banking-010",
     "industry": "Retail Banking",
     "title": "Aggressive Student Loan Refinancing Competition",
-    "setup": "In October, a competitor launches an aggressive student loan refinancing campaign timed to fall enrollment decisions, undercutting your rates by a full point.",
+    "setup": "In October, a competitor launches a refinancing campaign undercutting your rates by a full point, timed exactly to fall enrollment and refinancing decisions.",
     "questions": [
-      "Do you match the rate, or emphasize service and flexibility instead?",
-      "How much of your loan book is exposed to refinancing risk from a move like this?",
-      "Should your refinancing offers be more proactive rather than reactive to competitors?"
+      "Do you match the rate, or lean on service and flexibility as the real differentiator?",
+      "How much of your existing loan book is genuinely exposed to a refinancing wave like this?",
+      "Should your own refinancing offers be proactive rather than reactive to a competitor's move?"
     ]
   },
   {
     "id": "retail-banking-011",
     "industry": "Retail Banking",
     "title": "Holiday Fraud Detection Overcorrects",
-    "setup": "In November, holiday shopping season fraud rules trigger a surge of false positives, and customers are complaining loudly on social media about blocked legitimate purchases during peak shopping days.",
+    "setup": "In November, holiday shopping fraud rules trigger a surge of false positives, and social media posts about blocked purchases are gaining traction during the busiest shopping weekend of the year.",
     "questions": [
-      "How quickly can fraud rules be recalibrated without reopening real fraud exposure?",
-      "What's the reputational cost of blocked purchases during the busiest shopping days of the year?",
-      "Should these rules be seasonally adjusted every year in advance rather than reactively?"
+      "How quickly can fraud rules be recalibrated without reopening real fraud exposure mid-weekend?",
+      "What's the reputational cost of blocked purchases during the year's most important shopping days?",
+      "Should these rules be adjusted proactively every November instead of reactively after complaints start?"
     ]
   },
   {
     "id": "retail-banking-012",
     "industry": "Retail Banking",
     "title": "Year-End Wealth Management Rush",
-    "setup": "In December, high-net-worth clients flood your wealth management team with requests for tax-loss harvesting and year-end portfolio moves, all wanting execution before December 31st.",
+    "setup": "In December, high-net-worth clients flood the wealth team with tax-loss harvesting requests, all wanting execution before December 31st, with only two advisors covering 90 client requests.",
     "questions": [
-      "Is your advisory team resourced for this predictable annual crunch?",
-      "How do you prioritize requests fairly when everyone wants same-day execution?",
-      "Could earlier client outreach in November have smoothed this demand?"
+      "Is the advisory team actually resourced for this predictable annual crunch, or always caught short?",
+      "How do you prioritize requests fairly when everyone wants same-day execution on the same three days?",
+      "Could earlier November outreach have smoothed this demand across more of the month?"
     ]
   },
   {
     "id": "retail-banking-013",
     "industry": "Retail Banking",
     "title": "A Branch Closure Decision Before Year-End",
-    "setup": "Budget planning requires a decision on closing an underperforming branch before the fiscal year locks in December, but the branch serves a community with vocal local support and limited alternative access.",
+    "setup": "Budget planning requires a decision on closing an underperforming branch before the fiscal year locks in December — the branch serves a community with vocal local support and no nearby alternative.",
     "questions": [
-      "How do you weigh community impact against the financial case for closure?",
-      "What alternatives (reduced hours, hybrid service) might satisfy both sides?",
-      "How do you communicate this decision if you proceed, to minimize backlash?"
+      "How do you weigh community impact against the branch's clear financial underperformance?",
+      "What alternatives — reduced hours, a hybrid service model — might satisfy both the budget and the community?",
+      "How do you announce this decision, if you proceed, to minimize backlash without hiding the reasoning?"
     ]
   },
   {
     "id": "retail-banking-014",
     "industry": "Retail Banking",
     "title": "A New CD Promotion Draws Away Deposits",
-    "setup": "Right at the start of the year, a competitor launches an aggressive CD rate promotion, and you're seeing early signs of deposit attrition among rate-sensitive customers.",
+    "setup": "Right at the start of the year, a competitor launches an aggressive CD promotion at 5.25%, and early deposit data shows attrition among your most rate-sensitive customers.",
     "questions": [
-      "Do you launch a competing promotion, or accept some deposit attrition as the cost of stable pricing?",
-      "How much of your deposit base is genuinely at risk versus just rate-shopping?",
-      "What non-rate factors could you lean on to retain these customers?"
+      "Do you launch a competing promotion, or accept some deposit attrition as the cost of stable, sustainable pricing?",
+      "How much of your deposit base is genuinely at risk here versus just routine rate-shopping?",
+      "What non-rate factors could you actually lean on to retain these specific customers?"
     ]
   },
   {
     "id": "retail-banking-015",
     "industry": "Retail Banking",
     "title": "A Major Commercial Borrower Fails",
-    "setup": "In March, a significant commercial lending client's business collapses unexpectedly, putting a large loan at risk of default and raising questions about concentration risk in your loan portfolio.",
+    "setup": "In March, a commercial lending client with a $4M outstanding loan collapses unexpectedly, and a portfolio review shows three other loans concentrated in the same industry.",
     "questions": [
-      "What's the immediate exposure, and how do you work the recovery process?",
-      "Does this reveal a concentration risk that needs addressing across other large loans?",
-      "How do you communicate this risk internally and to regulators if required?"
+      "What's the immediate exposure, and how do you begin the recovery process on the failed loan?",
+      "Does this reveal a concentration risk across the other three loans that needs addressing now?",
+      "How do you communicate this risk internally and to regulators if disclosure is required?"
     ]
   },
   {
@@ -1323,76 +1323,76 @@
     "id": "hospitality-001",
     "industry": "Hospitality",
     "title": "The Post-Holiday Slow Season",
-    "setup": "It's mid-January, occupancy has dropped sharply after the holidays, and finance wants cost cuts — but summer's peak season hiring will need to ramp back up in just a few months.",
+    "setup": "It's mid-January, occupancy has dropped from 85% to 40% after the holidays, and finance wants a 15% cost cut — but summer's peak season hiring ramp starts again in just four months.",
     "questions": [
-      "How do you cut costs now without losing staff you'll need to rehire and retrain later?",
-      "What off-season revenue opportunities (events, local packages) could offset the dip?",
-      "Is seasonal staffing structured to flex efficiently, or is this pain avoidable with better planning?"
+      "How do you cut costs now without losing staff you'll need to rehire and retrain by May?",
+      "What off-season revenue could realistically offset this dip — local packages, event rentals?",
+      "Is seasonal staffing structured to flex efficiently, or is this pain avoidable with better year-round planning?"
     ]
   },
   {
     "id": "hospitality-002",
     "industry": "Hospitality",
     "title": "A Winter Storm Cancels a Major Booking",
-    "setup": "A winter storm in February forces a large conference booking to cancel with two days' notice, and your contract's weather cancellation terms are ambiguous about refunds.",
+    "setup": "A February storm forces a $40k conference booking to cancel with two days' notice, and the contract's weather cancellation clause is ambiguous about whether a refund is owed.",
     "questions": [
       "How do you handle the refund conversation while protecting the relationship for future bookings?",
-      "Does this expose a gap in your contract language that needs fixing going forward?",
-      "What can you do with the suddenly open dates on short notice?"
+      "Does this expose a gap in contract language worth fixing before the next weather event?",
+      "What can you realistically do with the suddenly open dates on two days' notice?"
     ]
   },
   {
     "id": "hospitality-003",
     "industry": "Hospitality",
     "title": "The Spring Break Surge",
-    "setup": "Spring break bookings in March have filled the property to capacity, but front desk and housekeeping staffing levels were set based on last year's numbers, which were 20% lower.",
+    "setup": "Spring break bookings in March filled the property to 100% capacity, but front desk and housekeeping staffing was set using last year's numbers, which were 20% lower.",
     "questions": [
-      "Can you bring in temporary staff on short notice without sacrificing service quality?",
-      "How do you keep existing staff from burning out during the surge?",
-      "Should next year's seasonal staffing plan use more conservative or aggressive booking assumptions?"
+      "Can you bring in temporary staff on short notice without sacrificing service quality this week?",
+      "How do you keep existing staff from burning out during a surge nobody staffed for?",
+      "Should next year's seasonal staffing plan use more conservative or more aggressive booking assumptions?"
     ]
   },
   {
     "id": "hospitality-004",
     "industry": "Hospitality",
     "title": "A Minimum Wage Increase Hits Before Peak Hiring",
-    "setup": "A state minimum wage increase takes effect in April, right as you're preparing to hire seasonal staff for the summer peak, raising labor costs beyond what was budgeted.",
+    "setup": "A state minimum wage increase takes effect in April, right as seasonal summer hiring is starting, raising projected labor costs 8% above what was budgeted three months ago.",
     "questions": [
-      "Do you adjust room rates to offset the increased labor cost, or absorb it?",
-      "How does this change the economics of the seasonal staffing plan you'd already built?",
-      "Could efficiency changes elsewhere offset some of the added labor cost?"
+      "Do you adjust room rates to offset the higher labor cost, or absorb it into already-thin margins?",
+      "How does this change the economics of the seasonal staffing plan you'd already finalized?",
+      "Could efficiency changes elsewhere offset some of the added cost before rates have to move?"
     ]
   },
   {
     "id": "hospitality-005",
     "industry": "Hospitality",
     "title": "A Double-Booking on the Biggest Wedding Weekend",
-    "setup": "Peak wedding season begins in May, and a scheduling error surfaces: two clients believe they've booked your venue's only ballroom for the same Saturday, both non-refundable deposits paid months ago.",
+    "setup": "Peak wedding season begins in May, and a scheduling error surfaces: two clients both believe they've booked the venue's only ballroom for the same Saturday, both with non-refundable deposits paid months ago.",
     "questions": [
-      "How do you resolve this fairly without losing both clients' trust?",
-      "What compensation or alternatives could make this right for whichever party can't keep the date?",
-      "What booking system safeguard should have caught this earlier?"
+      "How do you resolve this fairly without losing both clients' trust entirely?",
+      "What compensation or alternative venue could make this right for whichever party loses the date?",
+      "What booking system safeguard should have caught this conflict months ago?"
     ]
   },
   {
     "id": "hospitality-006",
     "industry": "Hospitality",
     "title": "The GM Resigns at Peak Season",
-    "setup": "Your general manager resigns with two weeks' notice in June, right as the property enters its highest-occupancy months of the year.",
+    "setup": "Your general manager resigns with two weeks' notice in June, right as the property enters its highest-occupancy months, with no clear internal successor identified.",
     "questions": [
-      "Who steps in during the search, and are they ready for peak-season pressure?",
-      "How do you keep the team steady through a leadership transition at the worst possible time?",
-      "Should key-role succession planning have been in place before this happened?"
+      "Who steps in during the search, and are they actually ready for peak-season pressure?",
+      "How do you keep the team steady through a leadership gap at the worst possible time of year?",
+      "Should key-role succession planning have been in place well before this happened?"
     ]
   },
   {
     "id": "hospitality-007",
     "industry": "Hospitality",
     "title": "A Viral Review Hits During Peak Season",
-    "setup": "A widely shared negative review — exaggerated but not entirely false — goes viral in July, cutting new bookings by over a third during your busiest month of the year.",
+    "setup": "A widely shared negative review — exaggerated but not entirely false — goes viral in July, cutting new bookings 35% during what's normally your busiest month.",
     "questions": [
-      "What's your first public response, and who approves it?",
-      "How do you rebuild trust with guests who already have upcoming reservations?",
+      "What's your first public response, and who inside the company approves it before it posts?",
+      "How do you rebuild trust with guests who already have reservations for the coming weeks?",
       "What operational gap did the review expose that's worth fixing regardless of the PR angle?"
     ]
   },
@@ -1400,88 +1400,88 @@
     "id": "hospitality-008",
     "industry": "Hospitality",
     "title": "A Hurricane Threatens Peak Summer Bookings",
-    "setup": "A hurricane is forecast to make landfall near your coastal property in August, right during your highest-revenue week of the year, forcing an evacuation decision with guests already checked in.",
+    "setup": "A hurricane is forecast to make landfall near your coastal property in August, during your highest-revenue week of the year, with guests already checked in and a mandatory evacuation order likely within 24 hours.",
     "questions": [
-      "At what point do you initiate evacuation versus wait for more certainty?",
-      "How do you handle refunds and rebooking for a mandatory evacuation?",
-      "Is your severe weather protocol tested and ready, or being figured out in real time?"
+      "At what point do you initiate evacuation versus wait for more forecast certainty?",
+      "How do you handle refunds and rebooking fairly for a mandatory evacuation nobody chose?",
+      "Is your severe weather protocol actually tested, or being figured out in real time right now?"
     ]
   },
   {
     "id": "hospitality-009",
     "industry": "Hospitality",
     "title": "AV Equipment Fails Mid-Conference",
-    "setup": "A major corporate conference booking in September, the largest of the fall season, suffers a complete AV system failure ten minutes before the keynote presentation.",
+    "setup": "A major September corporate conference booking, the largest of the fall season, suffers a complete AV failure ten minutes before the keynote, in front of 300 attendees.",
     "questions": [
-      "What's your emergency backup plan when core equipment fails during a live event?",
-      "How do you make this right with the client after the event, beyond an apology?",
-      "Does this reveal a need for redundant systems for high-value bookings?"
+      "What's the emergency backup plan when core equipment fails during a live, high-visibility event?",
+      "How do you make this right with the client afterward, beyond a standard apology?",
+      "Does this reveal a need for redundant AV systems specifically for your highest-value bookings?"
     ]
   },
   {
     "id": "hospitality-010",
     "industry": "Hospitality",
     "title": "The Off-Season Renovation Dilemma",
-    "setup": "As the slower October season approaches, you must decide whether to close part of the property for a needed renovation now, or wait until after the upcoming holiday season and risk running it during next year's peak.",
+    "setup": "As slower October approaches, you must decide whether to close part of the property now for a needed renovation, or wait until after the holidays and risk running the renovation into next year's peak season.",
     "questions": [
-      "What's the revenue cost of renovating now versus the risk of delaying into peak season?",
-      "How do you communicate a temporary closure to guests with existing reservations?",
-      "Could the renovation be phased to avoid a full closure altogether?"
+      "What's the revenue cost of renovating now versus the risk of the project bleeding into peak season?",
+      "How do you communicate a temporary partial closure to guests who already hold reservations?",
+      "Could the renovation be phased to avoid a full closure of any section at all?"
     ]
   },
   {
     "id": "hospitality-011",
     "industry": "Hospitality",
     "title": "Thanksgiving Travel Strains a Short-Staffed Team",
-    "setup": "Thanksgiving week in November brings a major travel surge right after a slow October led you to trim seasonal staff, leaving the property short-handed for one of the year's busiest travel weeks.",
+    "setup": "Thanksgiving week brings a major travel surge right after a slow October led you to trim seasonal staff by 20% — leaving the property short-handed for one of the year's busiest travel weeks.",
     "questions": [
-      "Can you quickly bring back recently trimmed staff, or is it too late?",
-      "How do you prioritize guest service with a leaner team than the volume demands?",
-      "Should staffing cuts have anticipated this immediate seasonal rebound?"
+      "Can you quickly bring back recently trimmed staff, or has too much time passed already?",
+      "How do you prioritize guest service with a leaner team than this week's volume demands?",
+      "Should staffing cuts have anticipated this immediate seasonal rebound before they were made?"
     ]
   },
   {
     "id": "hospitality-012",
     "industry": "Hospitality",
     "title": "A Vendor Cancels Days Before New Year's Eve",
-    "setup": "Your New Year's Eve event has sold out, but the entertainment vendor cancels four days before the event, citing a scheduling conflict.",
+    "setup": "Your sold-out New Year's Eve event loses its entertainment vendor four days before the date, citing a scheduling conflict, with 300 tickets already sold.",
     "questions": [
-      "Can you find a suitable replacement on such short notice, and at what cost?",
-      "How do you communicate any changes to ticket holders without causing a wave of refund requests?",
-      "Should future high-stakes event contracts include stronger cancellation penalties?"
+      "Can you find a suitable replacement in four days, and at what premium cost?",
+      "How do you communicate any lineup change to ticket holders without triggering a wave of refund requests?",
+      "Should future high-stakes event contracts include stronger cancellation penalties after this?"
     ]
   },
   {
     "id": "hospitality-013",
     "industry": "Hospitality",
     "title": "Staff Request Time Off During the Busiest Week",
-    "setup": "The week between Christmas and New Year's is historically your highest-occupancy week, and this year an unusually high number of staff have requested that exact week off.",
+    "setup": "The week between Christmas and New Year's is historically your highest-occupancy week, and this year 40% of staff requested that exact week off, well above the usual 15%.",
     "questions": [
-      "How do you balance staff wellbeing with the operational needs of your busiest week?",
-      "Should holiday time-off policy be restructured to prevent this collision every year?",
-      "What incentives could encourage voluntary coverage without resentment?"
+      "How do you balance staff wellbeing with the operational needs of the year's busiest week?",
+      "Should holiday time-off policy be restructured to prevent this exact collision every year?",
+      "What incentives could realistically encourage voluntary coverage without breeding resentment?"
     ]
   },
   {
     "id": "hospitality-014",
     "industry": "Hospitality",
     "title": "A Loyalty Program Overhaul Confuses Guests",
-    "setup": "You relaunch your loyalty program in January with new tiers and rules, timed for the new year — but it goes live the same weekend as a large holiday-carryover booking rush, and confused returning guests are flooding the front desk with complaints.",
+    "setup": "You relaunch your loyalty program in January with new tiers, but it goes live the same weekend as a large holiday-carryover booking rush — and confused returning guests are flooding the front desk with complaints about lost benefits.",
     "questions": [
-      "Should the launch have been timed away from a known high-traffic weekend?",
-      "How do you handle guests who feel they lost benefits they were expecting?",
-      "What's the fastest way to clarify the new program without a full re-launch?"
+      "Should the launch have been timed away from this known high-traffic weekend?",
+      "How do you handle guests who feel they lost benefits they were counting on?",
+      "What's the fastest way to clarify the new program without a full, costly re-launch?"
     ]
   },
   {
     "id": "hospitality-015",
     "industry": "Hospitality",
     "title": "The Summer Corporate Travel Dip",
-    "setup": "Your downtown business hotel relies heavily on weekday corporate travel, which drops sharply every July as business trips slow for summer, leaving rooms empty despite leisure travel booming elsewhere.",
+    "setup": "Your downtown business hotel relies on weekday corporate travel, which drops 30% every July as business trips slow for summer, leaving rooms empty while leisure travel booms at properties two miles away.",
     "questions": [
-      "Could you capture some of the leisure travel demand that's currently going to other properties?",
-      "Is this seasonal dip predictable enough to plan promotions around in advance?",
-      "What would it take to diversify away from dependence on corporate travel alone?"
+      "Could you capture some of the nearby leisure demand currently going to other properties?",
+      "Is this seasonal dip predictable enough to plan a specific promotion around each year in advance?",
+      "What would it actually take to diversify away from dependence on corporate travel alone?"
     ]
   },
   {
@@ -1653,109 +1653,109 @@
     "id": "medical-devices-001",
     "industry": "Medical Devices",
     "title": "A Reimbursement Code Change Cuts Payment",
-    "setup": "A new CMS reimbursement code takes effect January 1st, reducing payment for your flagship device by a meaningful margin, with hospital customers immediately pushing back on pricing.",
+    "setup": "A new CMS reimbursement code effective January 1st reduces payment for your flagship device 14%, and three hospital customers are already pushing back on pricing within the first week.",
     "questions": [
-      "Do you adjust your price to hospitals, or help them navigate the new reimbursement reality?",
-      "How does this affect your sales team's pitch for the rest of the year?",
-      "Should future product pricing build in more buffer against reimbursement policy risk?"
+      "Do you adjust your price to hospitals, or help them navigate the new reimbursement reality instead?",
+      "How does this 14% cut change your sales team's pitch for the rest of the year?",
+      "Should future product pricing build in more buffer against this kind of reimbursement policy risk?"
     ]
   },
   {
     "id": "medical-devices-002",
     "industry": "Medical Devices",
     "title": "A Supplier Shutdown Collides With New Tariffs",
-    "setup": "Your key overseas component supplier's annual Lunar New Year shutdown in February coincides this year with new tariffs on the same components, doubling the disruption to your production schedule.",
+    "setup": "Your overseas component supplier's routine Lunar New Year shutdown this February coincides with new 15% tariffs on the same components, doubling the disruption to a production schedule already running tight.",
     "questions": [
-      "How much buffer inventory exists to absorb both disruptions at once?",
-      "Should sourcing strategy change given how these two annual/regulatory risks compounded?",
-      "What do you tell hospital customers awaiting scheduled deliveries?"
+      "How much buffer inventory exists to absorb both disruptions hitting at once?",
+      "Should sourcing strategy change now that these two risks compounded in the same month?",
+      "What do you tell hospital customers awaiting deliveries scheduled for this exact window?"
     ]
   },
   {
     "id": "medical-devices-003",
     "industry": "Medical Devices",
     "title": "An FDA Data Request Delays Launch",
-    "setup": "Your FDA submission for a new device hits an unexpected data request in March, just weeks before a planned launch announcement at a major trade show.",
+    "setup": "Your FDA submission for a new device hits an unexpected data request in March, three weeks before a planned launch announcement at a major trade show already booked and marketed.",
     "questions": [
-      "Do you delay the trade show announcement, or announce with a revised timeline?",
-      "How do you keep the sales pipeline warm during an uncertain approval delay?",
-      "What does this reveal about how launch timelines are set relative to regulatory risk?"
+      "Do you delay the trade show announcement, or announce with a revised, uncertain timeline?",
+      "How do you keep the sales pipeline warm during a delay with no firm new date?",
+      "What does this reveal about how launch timelines get set relative to regulatory risk?"
     ]
   },
   {
     "id": "medical-devices-004",
     "industry": "Medical Devices",
     "title": "A Cybersecurity Flaw in an Implanted Device",
-    "setup": "In April, a security researcher discloses a vulnerability in the wireless connectivity of a device already implanted in thousands of patients.",
+    "setup": "In April, a security researcher discloses a wireless vulnerability in a device already implanted in an estimated 4,000 patients, with technical details set to go public in two weeks.",
     "questions": [
-      "What's the immediate patient safety communication plan?",
-      "How do you coordinate disclosure with regulators and physicians simultaneously?",
-      "Does this change how connectivity features are designed and reviewed going forward?"
+      "What's the immediate patient safety communication plan before the details go public?",
+      "How do you coordinate disclosure with regulators and physicians on the same short timeline?",
+      "Does this change how connectivity features get designed and reviewed on every product going forward?"
     ]
   },
   {
     "id": "medical-devices-005",
     "industry": "Medical Devices",
     "title": "A Distributor Relationship Sours Before Budget Season",
-    "setup": "In May, your regional distributor relationship deteriorates over a pricing dispute, right as hospital systems in that region open their annual capital equipment budget cycle.",
+    "setup": "In May, a regional distributor relationship deteriorates over a pricing dispute right as hospital systems in that region open their annual capital equipment budget cycle.",
     "questions": [
-      "Do you repair the relationship, or move to a direct sales model in that region quickly?",
-      "What's the risk of losing this budget cycle's opportunities during the transition?",
-      "Should distributor contracts include better provisions for disputes like this?"
+      "Do you repair the relationship, or move to a direct sales model in that region despite the transition risk?",
+      "What's the cost of losing this budget cycle's opportunities during a messy transition?",
+      "Should distributor contracts include clearer dispute-resolution terms after this?"
     ]
   },
   {
     "id": "medical-devices-006",
     "industry": "Medical Devices",
     "title": "Mixed Clinical Trial Results",
-    "setup": "In June, clinical trial results for your next-generation device come back mixed — meeting the primary endpoint but missing a secondary one investors and customers were watching closely.",
+    "setup": "In June, trial results for your next-generation device meet the primary endpoint but miss a secondary one that investors and customers were specifically watching.",
     "questions": [
-      "How do you communicate mixed results honestly without derailing the launch?",
-      "Does this change the go-to-market strategy or target patient population?",
-      "What's the right level of transparency with physicians who were awaiting this data?"
+      "How do you communicate mixed results honestly without derailing the planned launch entirely?",
+      "Does this change the go-to-market strategy or the targeted patient population?",
+      "What's the right level of transparency with physicians who were waiting on this exact data?"
     ]
   },
   {
     "id": "medical-devices-007",
     "industry": "Medical Devices",
     "title": "Patent Expiration Brings a Generic Overnight",
-    "setup": "Your core device's patent expires in July, and a generic competitor enters the market within weeks at a third of your price.",
+    "setup": "Your core device's patent expires in July, and a generic enters within three weeks at one-third of your price, right as several hospital contracts come up for renewal.",
     "questions": [
-      "What justifies your price premium against a generic alternative?",
-      "Should you have prepared a next-generation product to launch ahead of this expiration?",
-      "How do you retain hospital contracts that are up for renewal in this same window?"
+      "What justifies your price premium against a generic alternative in these renewal conversations?",
+      "Should you have had a next-generation product ready to launch ahead of this expiration?",
+      "How do you retain the hospital contracts renewing in this exact window?"
     ]
   },
   {
     "id": "medical-devices-008",
     "industry": "Medical Devices",
     "title": "A Rival Outshines You at the Trade Show",
-    "setup": "At the industry's biggest August trade show, a competitor unveils a next-generation device with capabilities beyond your current roadmap, generating major buzz among the hospital buyers you were courting.",
+    "setup": "At the industry's biggest August trade show, a competitor unveils a next-generation device beyond your current roadmap, generating major buzz among the hospital buyers you were actively courting.",
     "questions": [
-      "Does this change your product roadmap priorities immediately?",
-      "How do you respond to customers who ask directly how you compare?",
-      "Is this a signal to accelerate R&D investment or to differentiate on a different axis entirely?"
+      "Does this change your product roadmap priorities immediately, or is it too early to react?",
+      "How do you respond to customers who ask directly how you compare to what they just saw?",
+      "Is this a signal to accelerate R&D, or to differentiate on a completely different axis?"
     ]
   },
   {
     "id": "medical-devices-009",
     "industry": "Medical Devices",
     "title": "Flu Season Demand Outpaces Production",
-    "setup": "As flu season ramps up in September, hospital demand for your respiratory support devices surges well beyond your current production capacity.",
+    "setup": "As flu season ramps in September, hospital demand for your respiratory devices surges 40% beyond current production capacity, with allocation decisions needed this week.",
     "questions": [
-      "How do you prioritize allocation across hospital customers fairly during a shortage?",
-      "Is this seasonal demand pattern predictable enough to plan production capacity around each year?",
-      "What's the cost of under-supplying versus over-investing in capacity for a seasonal peak?"
+      "How do you prioritize allocation across hospital customers fairly during a real shortage?",
+      "Is this seasonal pattern predictable enough to plan capacity around every single year?",
+      "What's the cost of under-supplying this month versus over-investing in capacity for one season?"
     ]
   },
   {
     "id": "medical-devices-010",
     "industry": "Medical Devices",
     "title": "Post-Market Surveillance Flags a Defect",
-    "setup": "In October, post-market surveillance data reveals a defect rate above threshold in a component used across your device line, likely requiring a recall.",
+    "setup": "In October, post-market data reveals a defect rate above threshold in a component used across your device line, likely triggering a recall affecting an estimated 6,000 units.",
     "questions": [
-      "What's your containment plan while the scope of the defect is being assessed?",
-      "How do you prioritize which units or customers get addressed first?",
+      "What's your containment plan while the full scope of the defect is still being assessed?",
+      "How do you prioritize which units or customers get addressed first with limited replacement stock?",
       "What does this mean for trust with hospital customers and regulators going forward?"
     ]
   },
@@ -1763,55 +1763,55 @@
     "id": "medical-devices-011",
     "industry": "Medical Devices",
     "title": "Hospitals Rush Year-End Capital Purchases",
-    "setup": "In November, hospital systems rushing to spend capital budgets before their fiscal year-end flood you with purchase orders your current lead times can't fulfill in time.",
+    "setup": "In November, hospital systems rushing to spend capital budgets before fiscal year-end flood you with orders your 10-week lead times can't fulfill before December 31st.",
     "questions": [
       "How do you prioritize which orders can realistically be fulfilled by year-end?",
-      "What do you tell hospitals who won't get their equipment in time for their budget cycle?",
-      "Should production planning anticipate this predictable year-end demand spike earlier?"
+      "What do you tell hospitals who won't get equipment in time for their own budget cycle?",
+      "Should production planning anticipate this predictable year-end demand spike earlier each year?"
     ]
   },
   {
     "id": "medical-devices-012",
     "industry": "Medical Devices",
     "title": "A Top Sales Rep Leaves Before Year-End Quota",
-    "setup": "In December, your highest-performing sales rep resigns two weeks before year-end quota close, taking deep hospital relationships with them to a competitor.",
+    "setup": "In December, your highest-performing rep, responsible for $2M in annual revenue, resigns two weeks before quota close, moving to a competitor with several key hospital relationships in tow.",
     "questions": [
-      "How do you protect at-risk hospital accounts during this transition?",
-      "Does this expose over-reliance on individual relationships rather than institutional ones?",
-      "What retention signals were missed that could have prevented this departure?"
+      "How do you protect the at-risk hospital accounts during this transition window?",
+      "Does this expose over-reliance on individual relationships instead of institutional ones?",
+      "What retention signals were missed that could have prevented this specific departure?"
     ]
   },
   {
     "id": "medical-devices-013",
     "industry": "Medical Devices",
     "title": "New Tariffs Land After Pricing Is Locked",
-    "setup": "New tariffs on imported device components are announced in January, right after you've locked in annual pricing agreements with hospital systems for the year.",
+    "setup": "New tariffs on imported components are announced in January, immediately after annual pricing agreements were locked in with hospital systems for the full year.",
     "questions": [
-      "Can existing contracts absorb this cost, or is there room to renegotiate mid-year?",
+      "Can existing contracts absorb this new cost, or is there room to renegotiate mid-year?",
       "Should future contracts include cost-escalation clauses for exactly this scenario?",
-      "How exposed is your supply chain to further tariff risk this year?"
+      "How exposed is your supply chain to further tariff risk for the rest of this year?"
     ]
   },
   {
     "id": "medical-devices-014",
     "industry": "Medical Devices",
     "title": "A Spring Screening Season Spike",
-    "setup": "A pediatric-focused device sees a sharp demand spike each March tied to school health screening season, straining a supply chain sized for average monthly volume.",
+    "setup": "A pediatric device sees a sharp demand spike every March tied to school health screening season, and this year's supply chain, sized for average monthly volume, is already 25% short of what's needed.",
     "questions": [
-      "Is this seasonal spike predictable enough to plan inventory buffers around each year?",
-      "How do you prioritize shipments when demand exceeds available stock?",
-      "Could better forecasting turn this into a planned opportunity rather than a scramble?"
+      "Is this predictable enough to plan inventory buffers around every year rather than scrambling in March?",
+      "How do you prioritize shipments fairly when demand exceeds available stock this month?",
+      "Could better forecasting turn this into a planned opportunity instead of an annual scramble?"
     ]
   },
   {
     "id": "medical-devices-015",
     "industry": "Medical Devices",
     "title": "A Patent Lawsuit Mid-Fiscal-Year",
-    "setup": "In June, a competitor files a patent infringement lawsuit against your core product line, threatening an injunction that could halt sales mid-fiscal-year.",
+    "setup": "In June, a competitor files a patent infringement lawsuit against your core product line, seeking an injunction that could halt sales mid-fiscal-year with a hearing date only six weeks out.",
     "questions": [
-      "How do you communicate this risk to customers currently evaluating your product?",
-      "What's the contingency plan if an injunction is actually granted?",
-      "Does this change how aggressively you should have cleared IP risk before launch?"
+      "How do you communicate this legal risk to customers currently evaluating your product?",
+      "What's the contingency plan if the injunction is actually granted at the hearing?",
+      "Does this change how aggressively you should be clearing IP risk before every future launch?"
     ]
   },
   {
@@ -1983,32 +1983,32 @@
     "id": "high-tech-001",
     "industry": "High Tech",
     "title": "A Rival Leapfrogs You at CES",
-    "setup": "At January's biggest consumer tech show, a competitor unveils a product with features that leapfrog what you shipped just weeks earlier, dominating the show's headlines.",
+    "setup": "At January's biggest consumer tech show, a competitor unveils a product with features that leapfrog what you shipped just six weeks earlier, dominating the show's headlines and social feeds.",
     "questions": [
-      "Do you rush a response, or trust your existing roadmap timeline?",
-      "How do you keep customers and retail partners confident in your product while the news cycle favors a competitor?",
-      "What does this reveal about your competitive intelligence process before launches?"
+      "Do you rush a response, or trust the existing roadmap timeline you'd already committed to?",
+      "How do you keep retail partners confident in your product while the news cycle favors a rival?",
+      "What does this reveal about your competitive intelligence process ahead of major launches?"
     ]
   },
   {
     "id": "high-tech-002",
     "industry": "High Tech",
     "title": "A Chip Shortage Delays Your Flagship Launch",
-    "setup": "A global semiconductor shortage in February threatens to delay production of your flagship device just ahead of a heavily marketed launch window.",
+    "setup": "A global semiconductor shortage in February threatens to delay production of your flagship device by six weeks, right ahead of a heavily marketed launch window already announced to retailers.",
     "questions": [
-      "Do you delay the launch, or ship a reduced initial quantity and manage expectations?",
-      "How exposed are you to a single chip supplier, and should that change?",
-      "What do you tell retail partners who have already committed shelf space and marketing?"
+      "Do you delay the launch entirely, or ship a reduced initial quantity and manage expectations publicly?",
+      "How exposed are you to this single chip supplier, and should that change after this?",
+      "What do you tell retail partners who've already committed shelf space and marketing dollars?"
     ]
   },
   {
     "id": "high-tech-003",
     "industry": "High Tech",
     "title": "A Software Update Breaks Your Hardware",
-    "setup": "In March, a third-party operating system update breaks compatibility with your hardware, flooding support lines with complaints you didn't cause but must now fix.",
+    "setup": "In March, a third-party OS update breaks compatibility with your hardware, flooding support lines with 3x normal ticket volume for a problem you didn't cause but must now fix.",
     "questions": [
-      "How fast can you ship a compatibility patch, and what's the interim guidance for customers?",
-      "Should you have a stronger relationship with the OS vendor to get advance notice of changes?",
+      "How fast can you ship a compatibility patch, and what's the interim guidance for affected customers?",
+      "Should you have a stronger relationship with the OS vendor to get advance notice of changes like this?",
       "What does this reveal about testing against pre-release OS builds going forward?"
     ]
   },
@@ -2016,21 +2016,21 @@
     "id": "high-tech-004",
     "industry": "High Tech",
     "title": "Investors Punish a Slower Product Cycle",
-    "setup": "During April earnings season, investors react sharply negative to news that your next major product cycle will take longer than the market expected, and the stock drops double digits.",
+    "setup": "During April earnings, investors react sharply to news that your next major product cycle will take four months longer than the market expected, and the stock drops 14% in a day.",
     "questions": [
-      "How do you communicate a longer roadmap without eroding further confidence?",
-      "Is the slower cycle actually the right call for product quality, regardless of market reaction?",
-      "What expectations were set too aggressively in the first place?"
+      "How do you communicate a longer roadmap without eroding investor confidence further?",
+      "Is the slower cycle actually the right call for product quality, regardless of the market's reaction?",
+      "What expectations were set too aggressively in the first place that led to this drop?"
     ]
   },
   {
     "id": "high-tech-005",
     "industry": "High Tech",
     "title": "A Patent Lawsuit Threatens an Injunction",
-    "setup": "In May, a competitor files a patent lawsuit seeking an injunction against your best-selling product, right as it's ramping toward its highest sales volume of the year.",
+    "setup": "In May, a competitor files a patent lawsuit seeking an injunction against your best-selling product, right as it ramps toward its highest sales volume of the year.",
     "questions": [
-      "What's the contingency plan if an injunction is actually granted?",
-      "How do you communicate this legal risk to retail partners and customers?",
+      "What's the contingency plan if an injunction is actually granted mid-ramp?",
+      "How do you communicate this legal risk to retail partners and customers right now?",
       "Does this change how aggressively you clear IP risk on future products before launch?"
     ]
   },
@@ -2038,110 +2038,110 @@
     "id": "high-tech-006",
     "industry": "High Tech",
     "title": "A Manufacturing Partner Shuts Down for the Season",
-    "setup": "Your key overseas manufacturing partner closes for a week-long national holiday in June, a predictable annual event that this year collides with a tight summer shipment deadline.",
+    "setup": "Your overseas manufacturing partner closes for a week-long national holiday in June, a predictable annual event that this year collides directly with a tight summer shipment deadline.",
     "questions": [
-      "Was this annual closure factored into your production planning far enough in advance?",
-      "What flexibility exists to shift production timing around known annual shutdowns?",
-      "How do you communicate any resulting delay to customers and retail partners?"
+      "Was this annual closure factored into production planning far enough in advance?",
+      "What flexibility exists to shift production timing around a known annual shutdown next year?",
+      "How do you communicate any resulting delay to customers and retail partners today?"
     ]
   },
   {
     "id": "high-tech-007",
     "industry": "High Tech",
     "title": "Back-to-School Demand Meets a Shortage",
-    "setup": "Back-to-school laptop demand surges in July, but ongoing component shortages mean you can't fully meet retailer orders during the season's critical buying window.",
+    "setup": "Back-to-school laptop demand surges in July, but ongoing component shortages mean you can only fulfill 70% of retailer orders during the season's critical buying window.",
     "questions": [
-      "How do you allocate limited supply fairly across retail partners?",
+      "How do you allocate limited supply fairly across competing retail partners?",
       "What's the cost of missed back-to-school sales versus rushing unqualified components into production?",
-      "Should component inventory buffers be built up earlier for this predictable seasonal demand?"
+      "Should component inventory buffers be built up earlier for this predictable seasonal demand next year?"
     ]
   },
   {
     "id": "high-tech-008",
     "industry": "High Tech",
     "title": "A Talent War Breaks Out Before a Fall Launch",
-    "setup": "In August, a rival company launches an aggressive hiring campaign targeting your engineering team with large offers, right as your team is in the critical final push toward a fall product launch.",
+    "setup": "In August, a rival launches an aggressive hiring campaign targeting your engineering team with 25% salary premiums, right as your team is in the critical final push toward a fall product launch.",
     "questions": [
       "How do you retain key engineers through the most critical weeks without overpaying reactively?",
-      "What does this reveal about compensation competitiveness that needs addressing structurally?",
-      "How exposed is the launch timeline if even one or two key engineers leave now?"
+      "What does this reveal about compensation competitiveness that needs structural fixing, not a one-time raise?",
+      "How exposed is the launch timeline if even one or two key engineers leave right now?"
     ]
   },
   {
     "id": "high-tech-009",
     "industry": "High Tech",
     "title": "A Manufacturing Defect Threatens the Launch Event",
-    "setup": "Days before your major September product launch event, a manufacturing defect is discovered in a small percentage of units already produced for day-one availability.",
+    "setup": "Three days before your major September product launch event, a manufacturing defect is discovered in an estimated 5% of units already produced for day-one availability.",
     "questions": [
-      "Do you delay day-one availability, or launch with a subset of confirmed-good units?",
-      "How transparent should the launch messaging be about this defect?",
-      "What does this mean for the retail partners counting on day-one inventory?"
+      "Do you delay day-one availability, or launch with only confirmed-good units and a smaller initial supply?",
+      "How transparent should the launch messaging be about a defect nobody outside the company knows about yet?",
+      "What does this mean for the retail partners counting on full day-one inventory?"
     ]
   },
   {
     "id": "high-tech-010",
     "industry": "High Tech",
     "title": "Holiday Season Demand Strains the Supply Chain",
-    "setup": "In October, early holiday season ordering from retailers is running well above forecast, and your supply chain is being pushed to its limits to keep up before the critical November-December window.",
+    "setup": "In October, early holiday ordering from retailers is running 25% above forecast, pushing your supply chain toward its limits before the critical November-December window even opens.",
     "questions": [
-      "Do you prioritize retail partners by size, by long-term relationship, or by order date?",
-      "What's the risk of stockouts during the year's most important sales weeks?",
-      "Should forecasting models have caught this demand trend earlier in the year?"
+      "Do you prioritize retail partners by size, by long-term relationship, or strictly by order date?",
+      "What's the real risk of stockouts during the year's most important sales weeks?",
+      "Should forecasting models have caught this demand trend earlier in the year, given past patterns?"
     ]
   },
   {
     "id": "high-tech-011",
     "industry": "High Tech",
     "title": "A Black Friday Website Crash",
-    "setup": "Your e-commerce site crashes for two hours during peak Black Friday traffic in November, right as a heavily promoted deal was set to go live.",
+    "setup": "Your e-commerce site crashes for two hours during peak Black Friday traffic in November, right as a heavily promoted flagship deal was set to go live to 500,000 waiting customers.",
     "questions": [
-      "What's the immediate customer communication and recovery plan?",
-      "How much revenue and trust was lost, and how do you make it right for affected customers?",
-      "Was load testing for this predictable annual traffic spike sufficient?"
+      "What's the immediate customer communication and recovery plan for the next two hours?",
+      "How much revenue and trust was actually lost, and how do you make it right for affected customers?",
+      "Was load testing for this predictable annual traffic spike actually sufficient this year?"
     ]
   },
   {
     "id": "high-tech-012",
     "industry": "High Tech",
     "title": "The Post-Holiday Return Surge",
-    "setup": "In December, a wave of post-holiday returns and support requests overwhelms your customer service team, right as they're also managing year-end close processes.",
+    "setup": "In December, post-holiday returns and support requests overwhelm the customer service team at 3x normal volume, right as they're also managing year-end close processes.",
     "questions": [
-      "Is seasonal support staffing sized for this predictable annual surge?",
-      "What's driving the return volume, and is any of it addressable through product or packaging changes?",
-      "How do you keep response times reasonable without burning out the support team?"
+      "Is seasonal support staffing actually sized for this predictable annual surge, or under every year?",
+      "What's driving the return volume, and is any of it fixable through product or packaging changes?",
+      "How do you keep response times reasonable without burning out the support team in the process?"
     ]
   },
   {
     "id": "high-tech-013",
     "industry": "High Tech",
     "title": "A New Sustainability Regulation Requires a Redesign",
-    "setup": "A new e-waste and packaging regulation takes effect in January, requiring design changes to your product line before the next manufacturing cycle can begin.",
+    "setup": "A new e-waste and packaging regulation takes effect in January, requiring design changes before the next manufacturing cycle can begin, with a 90-day compliance window.",
     "questions": [
-      "How do you prioritize this compliance work against other roadmap commitments?",
-      "Could sustainable redesign become a marketing advantage rather than just a compliance cost?",
-      "What's the cost of missing the regulatory deadline versus rushing the redesign?"
+      "How do you prioritize this compliance work against other roadmap commitments already in motion?",
+      "Could a sustainable redesign become a marketing advantage rather than just a compliance cost?",
+      "What's the real cost of missing the regulatory deadline versus rushing the redesign through?"
     ]
   },
   {
     "id": "high-tech-014",
     "industry": "High Tech",
     "title": "A Tariff Hits After Pricing Is Set",
-    "setup": "A new tariff on imported electronics components is announced in February, right after your annual pricing for the year has already been finalized and communicated to retailers.",
+    "setup": "A new tariff on imported electronics components is announced in February, immediately after annual pricing was finalized and communicated to every retail partner.",
     "questions": [
-      "Do you absorb the cost for the rest of the pricing cycle, or attempt a mid-cycle price change?",
-      "How exposed is your supply chain to further tariff changes this year?",
-      "Should future pricing cycles build in more buffer for this kind of policy risk?"
+      "Do you absorb the cost for the rest of the pricing cycle, or attempt a mid-cycle price change with retailers?",
+      "How exposed is your supply chain to further tariff changes for the rest of this year?",
+      "Should future pricing cycles build in more buffer for exactly this kind of policy risk?"
     ]
   },
   {
     "id": "high-tech-015",
     "industry": "High Tech",
     "title": "Pressure to Rush an AI Feature",
-    "setup": "In August, competitors are generating major buzz around new AI features ahead of a major fall conference, and there's internal pressure to rush your own unfinished AI feature to keep pace, even though it's not fully tested.",
+    "setup": "In August, competitors generate major buzz around new AI features ahead of a major fall conference, and there's internal pressure to rush your own unfinished AI feature to keep pace, even though internal testing flagged it as not ready.",
     "questions": [
-      "What's the risk of shipping an unfinished feature versus appearing behind the AI trend?",
-      "How do you decide what 'good enough for launch' actually means here?",
-      "Is chasing this hype cycle the right call, or a distraction from your core roadmap?"
+      "What's the real risk of shipping an unfinished feature versus appearing behind the AI trend at the conference?",
+      "How do you decide what 'good enough for launch' actually means here, given the testing flags?",
+      "Is chasing this specific hype cycle the right call, or a distraction from the core roadmap?"
     ]
   },
   {
@@ -2313,65 +2313,65 @@
     "id": "automotive-001",
     "industry": "Automotive",
     "title": "A New EV Tax Credit Upends Pricing",
-    "setup": "A new federal EV tax credit policy takes effect January 1st, changing which of your models qualify and by how much, overnight shifting the effective price customers see.",
+    "setup": "A new federal EV tax credit takes effect January 1st, changing which of your models qualify and by how much, shifting the effective price customers see by up to $7,500 overnight.",
     "questions": [
-      "How quickly can pricing and marketing materials reflect the new incentive structure?",
-      "Does this change which models you should be pushing dealers to prioritize?",
-      "What do you tell customers mid-negotiation when the incentive changed under them?"
+      "How quickly can pricing and marketing materials reflect the new incentive structure across every model?",
+      "Does this change which models you should be pushing dealers to prioritize this quarter?",
+      "What do you tell customers mid-negotiation when the incentive changed under them this week?"
     ]
   },
   {
     "id": "automotive-002",
     "industry": "Automotive",
     "title": "A Chip Shortage Halts a Production Line",
-    "setup": "In February, a semiconductor shortage forces a temporary shutdown of one production line, threatening delivery timelines for a popular model already backordered.",
+    "setup": "In February, a semiconductor shortage forces a temporary shutdown of one production line, threatening delivery timelines for a popular model already backordered eight weeks.",
     "questions": [
       "Do you idle the line, or shift to producing lower-tech trims that don't need the scarce chip?",
-      "How do you communicate delivery delays to customers who've already ordered?",
-      "Should chip sourcing diversification be a bigger priority after this?"
+      "How do you communicate delivery delays to customers who've already ordered and are already waiting?",
+      "Should chip sourcing diversification finally become a bigger priority after this?"
     ]
   },
   {
     "id": "automotive-003",
     "industry": "Automotive",
     "title": "A Recall Lands Before the Spring Sales Push",
-    "setup": "In March, a safety issue is identified requiring a recall on a widely sold model, right as your spring sales campaign is set to launch.",
+    "setup": "In March, a safety issue requiring a recall is identified on a widely sold model, right as your spring sales campaign is set to launch in two weeks with national advertising already booked.",
     "questions": [
-      "Do you delay the sales campaign, or run it separately from recall communications?",
-      "How do you rebuild trust with customers affected by the recall during a sales push?",
-      "What's the cost of the recall itself versus the reputational cost of poor handling?"
+      "Do you delay the sales campaign, or run it separately from recall communications going out the same week?",
+      "How do you rebuild trust with affected customers during an active sales push?",
+      "What's the cost of the recall itself versus the reputational cost of handling it poorly?"
     ]
   },
   {
     "id": "automotive-004",
     "industry": "Automotive",
     "title": "A Competitor's Incentives Undercut Spring Sales",
-    "setup": "In April, a rival automaker launches an unusually aggressive incentive program right in the middle of the spring sales season, and dealers are asking you to match it.",
+    "setup": "In April, a rival launches an unusually aggressive incentive program right in the middle of spring sales season, and dealers holding 15% of your inventory are asking you to match it.",
     "questions": [
-      "Do you match the incentive, or hold pricing and compete on other value?",
-      "What's the margin cost of matching versus the volume cost of not matching?",
-      "How sustainable is this level of incentive if the competitor keeps it up all season?"
+      "Do you match the incentive, or hold pricing and compete on other value instead?",
+      "What's the margin cost of matching versus the volume cost of not matching this month?",
+      "How sustainable is this incentive level if the competitor keeps it running all season?"
     ]
   },
   {
     "id": "automotive-005",
     "industry": "Automotive",
     "title": "A Key Supplier's Plant Floods",
-    "setup": "In May, severe flooding shuts down a key parts supplier's plant, threatening your summer production schedule with no immediate alternative source identified.",
+    "setup": "In May, severe flooding shuts down a key parts supplier's plant, threatening your summer production schedule with no immediate alternative source identified within the next 30 days.",
     "questions": [
-      "How much buffer inventory exists to absorb this disruption before production is affected?",
-      "How quickly can an alternate supplier be qualified for a critical part like this?",
-      "What does this reveal about single-source risk in your supply chain?"
+      "How much buffer inventory exists to absorb this disruption before production is actually affected?",
+      "How quickly can an alternate supplier be qualified for a critical part like this one?",
+      "What does this reveal about single-source risk elsewhere in your supply chain?"
     ]
   },
   {
     "id": "automotive-006",
     "industry": "Automotive",
     "title": "The Summer Retooling Runs Long",
-    "setup": "Your planned June plant shutdown to retool for the new model year was scheduled for two weeks. It's now day twenty, delaying the launch timeline for the new model year vehicles.",
+    "setup": "Your planned two-week June plant shutdown to retool for the new model year is now on day twenty, delaying the launch timeline for next year's vehicles.",
     "questions": [
-      "Do you push back the model year launch date, or compress the ramp-up timeline?",
-      "What does this delay cost in dealer floor plan financing and marketing timing?",
+      "Do you push back the model year launch date, or compress an already-tight ramp-up timeline?",
+      "What does this delay cost in dealer floor plan financing and marketing timing already locked in?",
       "What went wrong in the retooling estimate that should change next year's planning?"
     ]
   },
@@ -2379,32 +2379,32 @@
     "id": "automotive-007",
     "industry": "Automotive",
     "title": "Rising Gas Prices Shift Demand Suddenly",
-    "setup": "A sharp gas price spike in July shifts customer demand heavily toward your smaller and electric vehicle lineup, straining production capacity on lines that weren't sized for this demand level.",
+    "setup": "A sharp gas price spike in July shifts customer demand heavily toward your smaller and electric lineup, straining production capacity on lines sized for last year's demand mix.",
     "questions": [
-      "Can production be reallocated quickly enough to meet the shifted demand?",
+      "Can production be reallocated quickly enough to actually meet the shifted demand?",
       "How do you manage dealer inventory that's now mismatched with what customers actually want?",
-      "Should production planning build in more flexibility for demand shifts like this?"
+      "Should production planning build in more flexibility for demand shifts like this going forward?"
     ]
   },
   {
     "id": "automotive-008",
     "industry": "Automotive",
     "title": "Union Talks Heat Up Before Fall Ramp",
-    "setup": "Labor union contract negotiations intensify in August, right as fall production is scheduled to ramp up for the new model year, with a strike authorization vote looming.",
+    "setup": "Labor union contract negotiations intensify in August, right as fall production ramps for the new model year, with a strike authorization vote scheduled for next week.",
     "questions": [
-      "How do you plan production continuity if a strike disrupts the fall ramp?",
+      "How do you plan production continuity if a strike disrupts the fall ramp starting next week?",
       "What's the cost of a short-term concession versus a prolonged work stoppage during this critical window?",
-      "Should contract timing be renegotiated to avoid this seasonal collision going forward?"
+      "Should contract timing be renegotiated in the next cycle to avoid this seasonal collision?"
     ]
   },
   {
     "id": "automotive-009",
     "industry": "Automotive",
     "title": "A Software Defect in the New Model Year",
-    "setup": "As model year changeover begins in September, a software defect is discovered in the new infotainment system just as the first vehicles are rolling off the line.",
+    "setup": "As model year changeover begins in September, a software defect is discovered in the new infotainment system just as the first vehicles roll off the line for dealer delivery.",
     "questions": [
-      "Do you halt shipments for a fix, or ship with a planned over-the-air update later?",
-      "How do you communicate this to dealers who are expecting vehicles imminently?",
+      "Do you halt shipments for a fix, or ship now with a planned over-the-air update later?",
+      "How do you communicate this to dealers already expecting vehicles this week?",
       "What does this reveal about software testing timelines relative to hardware production schedules?"
     ]
   },
@@ -2412,54 +2412,54 @@
     "id": "automotive-010",
     "industry": "Automotive",
     "title": "A Rival Unveils Autonomous Features at the Auto Show",
-    "setup": "At October's major auto show, a competitor unveils an autonomous-driving feature well ahead of your current roadmap, generating significant press attention and customer interest.",
+    "setup": "At October's major auto show, a competitor unveils an autonomous-driving feature well ahead of your current roadmap, generating significant press attention and visible customer interest at your own booth.",
     "questions": [
-      "Does this change your R&D investment priorities immediately?",
-      "How do you respond to customers and dealers asking why you don't have this yet?",
-      "Is this the right race to chase, or is your differentiation better placed elsewhere?"
+      "Does this change your R&D investment priorities immediately, or is it too early to react?",
+      "How do you respond to customers and dealers asking directly why you don't have this yet?",
+      "Is this the right race to chase, or is your differentiation better placed somewhere else entirely?"
     ]
   },
   {
     "id": "automotive-011",
     "industry": "Automotive",
     "title": "Holiday Demand Outpaces Dealer Inventory",
-    "setup": "A Black Friday and holiday season sales event in November drives demand for your best-selling trim well beyond what dealers currently have in stock.",
+    "setup": "A Black Friday and holiday sales event in November drives demand for your best-selling trim 30% beyond what dealers currently have in stock.",
     "questions": [
-      "How do you prioritize which dealers get limited inventory during a high-demand event?",
-      "What's the cost of lost sales during peak demand versus the cost of overproducing for future years?",
-      "Should demand forecasting for this trim have been more conservative or aggressive going into the season?"
+      "How do you prioritize which dealers get limited inventory during a high-demand event like this?",
+      "What's the cost of lost sales during peak demand versus the cost of overproducing for a future year?",
+      "Should demand forecasting for this trim have been more aggressive going into the season?"
     ]
   },
   {
     "id": "automotive-012",
     "industry": "Automotive",
     "title": "Rising Rates Squeeze Dealer Financing at Year-End",
-    "setup": "In December, floor-plan financing rates rise just as dealers are pushing hardest for year-end sales volume, squeezing dealer margins right when they need the push the most.",
+    "setup": "In December, floor-plan financing rates rise just as dealers push hardest for year-end volume, squeezing dealer margins right when they need the push the most to hit targets.",
     "questions": [
-      "Do you offer manufacturer incentives to offset the higher financing cost for dealers?",
+      "Do you offer manufacturer incentives to offset the higher financing cost for dealers this month?",
       "How does this affect dealer appetite to carry inventory into the new year?",
-      "Should floor-plan support be built into year-end planning more proactively?"
+      "Should floor-plan support be built into year-end planning more proactively going forward?"
     ]
   },
   {
     "id": "automotive-013",
     "industry": "Automotive",
     "title": "Winter Weather Delays the New Year Sales Push",
-    "setup": "Severe winter weather in January disrupts vehicle logistics right after the new year sales campaign launched, delaying deliveries to dealers who were counting on fresh inventory.",
+    "setup": "Severe winter weather in January disrupts vehicle logistics right after the new year sales campaign launched, delaying deliveries to dealers counting on fresh inventory this week.",
     "questions": [
-      "How do you manage dealer and customer expectations during a weather-driven delay?",
-      "Is winter logistics risk already built into how the new year sales campaign is planned each year?",
-      "What alternative transport or routing options exist when primary logistics are disrupted?"
+      "How do you manage dealer and customer expectations during a weather-driven delay right now?",
+      "Is winter logistics risk already built into how the new year sales campaign is planned every year?",
+      "What alternative transport or routing options exist when primary logistics are disrupted like this?"
     ]
   },
   {
     "id": "automotive-014",
     "industry": "Automotive",
     "title": "An Autonomous Driving Incident Triggers Investigation",
-    "setup": "In March, an incident involving your vehicle's autonomous driving feature triggers a regulatory investigation, drawing significant media attention.",
+    "setup": "In March, an incident involving your vehicle's autonomous driving feature triggers a regulatory investigation, drawing significant media attention within hours.",
     "questions": [
       "What's your immediate communication strategy while facts are still being established?",
-      "How do you balance cooperation with regulators against protecting the company's position?",
+      "How do you balance cooperation with regulators against protecting the company's position publicly?",
       "Does this change how aggressively you market this feature while the investigation is ongoing?"
     ]
   },
@@ -2467,10 +2467,10 @@
     "id": "automotive-015",
     "industry": "Automotive",
     "title": "New Parts Tariffs Hit Fall Production",
-    "setup": "In September, new tariffs on imported parts are announced right as fall production ramps up for the new model year, raising costs on vehicles already priced and marketed to dealers.",
+    "setup": "In September, new tariffs on imported parts are announced right as fall production ramps for the new model year, raising costs on vehicles already priced and marketed to dealers.",
     "questions": [
-      "Do you absorb the cost for this model year, or attempt a pricing adjustment mid-cycle?",
-      "How exposed is your parts sourcing to further tariff changes this year?",
+      "Do you absorb the cost for this model year, or attempt a pricing adjustment mid-cycle with dealers?",
+      "How exposed is your parts sourcing to further tariff changes for the rest of this year?",
       "Should future model year pricing build in more buffer against policy risk like this?"
     ]
   },

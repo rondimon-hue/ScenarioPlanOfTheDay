@@ -27,8 +27,34 @@ h1, h2, h3, .logo {
 }
 
 .site-header {
+  position: relative;
   border-bottom: 1px solid var(--border);
   padding: 40px 0 28px;
+}
+
+.header-pills {
+  position: absolute;
+  top: 0;
+  right: 24px;
+  display: flex;
+  gap: 10px;
+}
+
+.pill {
+  border: 1px solid var(--border);
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 7px 14px;
+  border-radius: 999px;
+  white-space: nowrap;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 .logo {

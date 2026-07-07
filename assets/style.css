@@ -281,6 +281,37 @@ h1, h2, h3, .logo {
   margin-bottom: 6px;
 }
 
+.framework-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 14px;
+  margin: 18px 0;
+}
+
+.framework-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 18px;
+}
+
+.framework-card h3 {
+  margin: 0 0 8px;
+  font-size: 0.95rem;
+  color: var(--accent);
+}
+
+.framework-card p {
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.55;
+  margin: 0;
+}
+
+.framework-card a {
+  color: var(--accent);
+}
+
 .pill-download {
   display: inline-block;
   margin-top: 8px;

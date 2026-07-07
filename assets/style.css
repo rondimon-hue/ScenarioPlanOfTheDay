@@ -68,10 +68,28 @@ h1, h2, h3, .logo {
   color: var(--accent);
 }
 
+.tagline-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 10px;
+}
+
 .tagline {
   color: var(--muted);
-  margin: 10px 0 0;
+  margin: 0;
   font-size: 0.95rem;
+}
+
+.pill-accent {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.pill-accent:hover {
+  background: var(--accent);
+  color: var(--bg);
 }
 
 .filter-bar {
@@ -221,4 +239,49 @@ h1, h2, h3, .logo {
   padding: 24px 0;
   color: var(--muted);
   font-size: 0.8rem;
+}
+
+.how-to {
+  padding-bottom: 60px;
+}
+
+.how-to h1 {
+  margin: 40px 0 8px;
+  font-size: 1.8rem;
+}
+
+.how-block {
+  margin-top: 36px;
+  padding-top: 28px;
+  border-top: 1px solid var(--border);
+}
+
+.how-block:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
+.how-block h2 {
+  font-size: 1.1rem;
+  margin: 0 0 12px;
+}
+
+.how-block p {
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.how-block ul {
+  padding-left: 20px;
+  line-height: 1.7;
+  color: var(--text);
+}
+
+.how-block ul li {
+  margin-bottom: 6px;
+}
+
+.pill-download {
+  display: inline-block;
+  margin-top: 8px;
 }

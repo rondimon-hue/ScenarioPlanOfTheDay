@@ -298,7 +298,7 @@ h1, h2, h3, .logo {
 .framework-card h3 {
   margin: 0 0 8px;
   font-size: 0.95rem;
-  color: var(--accent);
+  color: #E8823C;
 }
 
 .framework-card p {

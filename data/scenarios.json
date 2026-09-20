@@ -2968,5 +2968,71 @@
       "Which stores or regions can absorb reallocated cold-weather stock?",
       "Should weather risk change how the winter buy is structured — later commitments, more reorder flexibility, less depth?"
     ]
+  },
+  {
+    "id": "retail-031",
+    "industry": "Retail",
+    "title": "ELEVATE26UK: Multi-site Retail/Operators — Which Sites Survive the Squeeze?",
+    "setup": "A change in employment costs lands the same quarter as a footfall dip across your 40 UK high-street sites — like-for-like footfall is down 12%, and payroll as a share of site revenue has crept from 24% to 29% at your ten weakest locations. Head office wants a site-closure list by Friday, but three of the 'weakest' sites are also the newest, still building their local customer base.",
+    "questions": [
+      "What does 'worth keeping open' actually mean here — current profitability, trajectory, or strategic footprint — and who decides?",
+      "Which rotas or opening hours could flex before any site closure is even on the table?",
+      "Should new-site ramp-up be measured on a different timeline than mature sites, so this decision doesn't get made on the wrong data next time?"
+    ]
+  },
+  {
+    "id": "public-sector-001",
+    "industry": "Public Sector & Non-profit",
+    "title": "ELEVATE26UK: Mission-driven & Public — The Funding Line That Fell Mid-Year",
+    "setup": "A core funding line falls by roughly 8% mid-year while service demand hasn't moved — much of what remains is restricted to specific programmes, so the shortfall lands hardest on the unrestricted budget that keeps the lights on. The board wants a same-week answer on what stops, and the loudest voices in the room are defending the programmes that are easiest to explain, not necessarily the ones doing the most good.",
+    "questions": [
+      "What do you actually stop, and how do you defend that choice to funders who don't speak in profit margins?",
+      "How do you show value when the outcome you deliver isn't revenue — and who's actually asking to see it?",
+      "What would this year teach you to stress-test before you build next year's funding plan?"
+    ]
+  },
+  {
+    "id": "professional-services-001",
+    "industry": "Professional Services",
+    "title": "ELEVATE26UK: Professional Services — A Client Pause Nobody Saw Coming",
+    "setup": "Your largest client pauses a multi-year programme with two weeks' notice, and utilisation across the practice drops five points overnight. Redundancies would fix the utilisation number by month-end, but the practice has spent eighteen months building a senior bench that's expensive to lose and slow to rebuild — and client budget pressure this year means everyone else is pausing too, not just this one client.",
+    "questions": [
+      "Do you protect headcount through the gap, or right-size now and accept the rebuild cost later if demand returns?",
+      "What does the fee and pricing model need to look like if client pauses like this become the norm rather than the exception?",
+      "How exposed is the practice to any single client, and what should the pipeline mix look like a year from now?"
+    ]
+  },
+  {
+    "id": "manufacturing-031",
+    "industry": "Manufacturing",
+    "title": "ELEVATE26UK: Product & Supply-heavy — Four Shocks, One Quarter",
+    "setup": "A tariff and input-cost shock, sharpened by a swing in sterling, hits the same month a major customer cuts their forecast volume by 20% — and the plan your supply team is working from is already three weeks out of date because nobody's re-run it since the customer's cut. Working capital is tightening fast, with inventory built for the old volume forecast now sitting on the balance sheet instead of moving.",
+    "questions": [
+      "How fast can you actually re-plan from commercial forecast through to supply commitments when a cost shock and a volume shock land in the same month?",
+      "What's the true cost of holding inventory built for a forecast that's already wrong — and who owns catching that sooner next time?",
+      "Should plan-to-supply connectivity be tested against a shock like this before it happens, not after?"
+    ]
+  },
+  {
+    "id": "transport-logistics-001",
+    "industry": "Transport & Logistics",
+    "title": "ELEVATE26UK: Transport & Logistics — Renegotiating While Costs Climb",
+    "setup": "Fuel and driver costs have climbed sharply this quarter, and your largest contract — nearly a third of fleet revenue — comes up for renegotiation in six weeks. The customer's opening position assumes last year's rate card, but three of your highest-utilisation routes are already running close to breakeven at today's cost base.",
+    "questions": [
+      "Which routes and vehicles do you protect if the renegotiation goes badly, and which would you actually walk away from?",
+      "What rate do you defend as the floor, and what evidence would you bring into that conversation?",
+      "How much of the fleet's economics depends on route density that a smaller, renegotiated contract might quietly break?"
+    ]
+  },
+  {
+    "id": "financial-services-001",
+    "industry": "Financial Services",
+    "title": "ELEVATE26UK: Financial Services & Multi-entity — Growth Outruns the Forecast",
+    "setup": "Rapid growth across several entities has met a sharp move in Bank Rate and sterling, and finance has three days to re-forecast and consolidate a group-wide view before the board meets. Two entities are still on spreadsheets, one just changed accounting systems mid-year, and nobody's fully sure which entity's numbers — including the ones feeding regulatory reporting — are already stale.",
+    "questions": [
+      "What actually breaks first when you try to re-forecast and consolidate this fast across entities on different systems and timelines?",
+      "Is the three-day board deadline the real constraint, or is it exposing a planning cadence that was already too slow?",
+      "What would 'fast enough' consolidation actually require — shared systems, a shared cadence, or just better connective tissue between entities?"
+    ]
   }
 ]

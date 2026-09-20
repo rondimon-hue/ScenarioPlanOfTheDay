@@ -2972,34 +2972,34 @@
   {
     "id": "retail-031",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "Which Sites Survive the Squeeze?",
-    "setup": "A change in employment costs lands the same quarter as a footfall dip across your 40 UK high-street sites — like-for-like footfall is down 12%, and payroll as a share of site revenue has crept from 24% to 29% at your ten weakest locations. Head office wants a site-closure list by Friday, but three of the 'weakest' sites are also the newest, still building their local customer base.",
+    "title": "The High Street You Built the Estate Around Is Shrinking",
+    "setup": "Group-wide footfall data confirms a structural decline of roughly 3-4% a year across town-centre locations, while out-of-town and online channels keep growing. A third of the leasehold estate sits on high streets fitting this declining pattern, with average lease terms of six years still remaining.",
     "questions": [
-      "What does 'worth keeping open' actually mean here — current profitability, trajectory, or strategic footprint — and who decides?",
-      "Which rotas or opening hours could flex before any site closure is even on the table?",
-      "Should new-site ramp-up be measured on a different timeline than mature sites, so this decision doesn't get made on the wrong data next time?"
+      "Is this a cyclical dip to ride out, or a structural shift that should reshape the whole estate plan?",
+      "What would a phased exit from declining high-street locations actually cost against holding firm?",
+      "How should new site investment criteria change to avoid repeating this exposure?"
     ]
   },
   {
     "id": "public-sector-001",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "The Funding Line That Fell Mid-Year",
-    "setup": "A core funding line falls by roughly 8% mid-year while service demand hasn't moved — much of what remains is restricted to specific programmes, so the shortfall lands hardest on the unrestricted budget that keeps the lights on. The board wants a same-week answer on what stops, and the loudest voices in the room are defending the programmes that are easiest to explain, not necessarily the ones doing the most good.",
+    "title": "A Government Spending Review Reopens a Multi-Year Settlement",
+    "setup": "A government spending review, triggered by wider fiscal pressure across the economy, reopens the assumptions behind your sector's multi-year funding settlement a year early — with an indicative cut and a formal decision still months away.",
     "questions": [
-      "What do you actually stop, and how do you defend that choice to funders who don't speak in profit margins?",
-      "How do you show value when the outcome you deliver isn't revenue — and who's actually asking to see it?",
-      "What would this year teach you to stress-test before you build next year's funding plan?"
+      "Do you plan now for the indicative cut, or wait for the formal decision and risk being unprepared?",
+      "What would you protect first if the cut is confirmed, and what would you protect last?",
+      "How should the organisation build resilience to funding reviews that can reopen mid-cycle like this?"
     ]
   },
   {
     "id": "professional-services-001",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "A Client Pause Nobody Saw Coming",
-    "setup": "Your largest client pauses a multi-year programme with two weeks' notice, and utilisation across the practice drops five points overnight. Redundancies would fix the utilisation number by month-end, but the practice has spent eighteen months building a senior bench that's expensive to lose and slow to rebuild — and client budget pressure this year means everyone else is pausing too, not just this one client.",
+    "title": "A Downturn in Client Spend Hits the Whole Practice at Once",
+    "setup": "An economic slowdown leads several of your largest clients to pause discretionary advisory work within the same month, and utilisation across the practice drops five points almost overnight — not from one client's decision, but a market-wide pullback.",
     "questions": [
-      "Do you protect headcount through the gap, or right-size now and accept the rebuild cost later if demand returns?",
-      "What does the fee and pricing model need to look like if client pauses like this become the norm rather than the exception?",
-      "How exposed is the practice to any single client, and what should the pipeline mix look like a year from now?"
+      "Do you protect headcount through a downturn you believe is temporary, or resize now and accept the rebuild cost later?",
+      "What does the fee and engagement model need to look like if downturns like this become more frequent?",
+      "How exposed is the practice to a market-wide pullback versus a single client's decision — and did anyone model that difference before now?"
     ]
   },
   {
@@ -3038,727 +3038,727 @@
   {
     "id": "elevate-retail-ops-002",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "The Rota That Doesn't Add Up",
-    "setup": "A rota built around last year's footfall pattern now over-schedules quiet Tuesdays and under-schedules busy Saturdays. Labour cost is running three points over budget at your best-performing site, while two others are chronically understaffed on their peak trading day.",
+    "title": "Customers Browse in Store, Buy Online That Night",
+    "setup": "Group data shows a rising share of in-store visits ending in an online purchase within 48 hours, often at a discount the group's own website offers but the shop floor doesn't. Store teams increasingly feel they're funding the online channel's growth for free.",
     "questions": [
-      "Should rotas be rebuilt around current footfall data rather than last year's pattern, and who owns that refresh?",
-      "Is yield per labour hour a better measure than headcount cost alone here?",
-      "What would it take to standardise rota-building across the estate without losing local manager judgement?"
+      "Should store and online economics be measured together, or does that hide a real problem?",
+      "What would make the in-store visit itself worth paying a premium for?",
+      "How should staff incentives change if a sale increasingly closes somewhere else?"
     ]
   },
   {
     "id": "elevate-retail-ops-003",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "Business Rates Revaluation Hits Three Sites Hardest",
-    "setup": "A rates revaluation lifts the bill unevenly across your estate — three sites see a steep jump worth an estimated £180,000 combined, while others barely move, and none of it tracks with those sites' actual trading performance.",
+    "title": "A Personalisation Platform Promises Growth, at a Governance Cost",
+    "setup": "The board is asked to approve a group-wide AI system that sets personalised pricing and offers per customer, projected to lift margin by several points — but it would mean two customers standing side by side could be quoted different prices for the same product.",
     "questions": [
-      "Do you appeal, absorb the increase, or reconsider those three sites' place in the estate?",
-      "Should local product mix or opening hours flex to offset a fixed-cost hike concentrated in a few locations?",
-      "What would a rolling rates-review process look like so this isn't a surprise next revaluation?"
+      "Where's the line between personalisation and pricing practices customers would see as unfair?",
+      "What governance needs to exist before this goes live across the estate, not after?",
+      "Does the promised margin gain justify the reputational and regulatory exposure?"
     ]
   },
   {
     "id": "elevate-retail-ops-004",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "The Product Mix That Sells in London and Sits in Leeds",
-    "setup": "Your standardised range performs unevenly: a category that's your best seller across three southern sites is your worst-turning stock in the north, tying up working capital in shelves nobody's buying from.",
+    "title": "A Struggling Regional Rival Is Quietly for Sale",
+    "setup": "A regional competitor with 25 sites overlapping your own footprint is in financial difficulty, and its lenders are known to be seeking a quiet sale before a public insolvency process. Acquiring it could add scale and remove a competitor, or import its underlying problems into your own estate.",
     "questions": [
-      "Do you centralise the range for simplicity, or localise it and accept the added complexity?",
-      "What's the cost of dead stock against the cost of running a more complicated supply chain?",
-      "Who should actually own a regional assortment call like this — head office or site managers?"
+      "What would need to be true about the target's leases, stock and staff for this to be worth pursuing?",
+      "How fast could you realistically move, given the seller wants a quiet, quick process?",
+      "What's the strategic cost if a rival simply liquidates instead and someone else buys the sites?"
     ]
   },
   {
     "id": "elevate-retail-ops-005",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "Yield Per Screen Falls While Footfall Holds",
-    "setup": "Footfall across your sites is flat year on year, but yield — revenue per visit — has quietly slipped as customers spend on fewer higher-margin add-ons at the till.",
+    "title": "A New Product Safety Rule Applies Retroactively to Stock on Shelves",
+    "setup": "A change in consumer product regulation requires new labelling and, for some lines, reformulation — and unusually, it applies to stock already on shelves rather than just future orders, with a defined compliance deadline group-wide.",
     "questions": [
-      "Is this a pricing, staffing, or merchandising problem, and how would you tell the difference?",
-      "Which sites have avoided the slide, and what are they actually doing differently?",
-      "Is footfall still the right headline metric if yield is what's actually moving?"
+      "Do you pull affected stock immediately, or sell through while arranging compliant relabelling?",
+      "What's the group-wide cost of compliance versus the risk of enforcement action?",
+      "Should regulatory horizon-scanning be centralised so a change like this is caught earlier next time?"
     ]
   },
   {
     "id": "elevate-retail-ops-006",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "A Change in Employment Costs Meets a Quiet January",
-    "setup": "A change in employment costs takes effect the same month trading enters its quietest period of the year, and the sites already thinnest on margin in January are absorbing the biggest proportional hit.",
+    "title": "A Squeeze on Household Spending Hits Discretionary Categories Hardest",
+    "setup": "A wider economic downturn is compressing household budgets, and group sales data shows discretionary categories falling twice as fast as essentials — a mix shift that changes which parts of the estate are actually profitable.",
     "questions": [
-      "Which sites need short-term relief, and which need a structural fix to their cost base?",
-      "Should rota flexibility be redesigned specifically around this annual collision?",
-      "Is there a way to see this coming next year rather than reacting to it again?"
+      "Does the group lean into a value/essentials positioning, or hold the current mix and wait it out?",
+      "Which sites are most exposed because of what they sell, not just where they're located?",
+      "What would the group do differently if this downturn lasts two years instead of two quarters?"
     ]
   },
   {
     "id": "elevate-retail-ops-007",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "The Flagship That's Losing Money Quietly",
-    "setup": "Your flagship high-street site posts the highest revenue in the estate — over £3m a year — and the worst contribution margin, propped up for years on a brand-visibility argument nobody has actually tested.",
+    "title": "Customs Friction Adds Cost and Delay to a Third of the Range",
+    "setup": "Changes in the UK's trading relationship with the EU have added customs checks and paperwork to goods sourced from European suppliers, lengthening lead times and adding cost to roughly a third of the group's range.",
     "questions": [
-      "What would it take to properly test whether the flagship earns its keep beyond brand value?",
-      "If brand value is real, how would you measure it well enough to justify the subsidy?",
-      "What happens to the rest of the estate's positioning if the flagship closed?"
+      "Do you absorb the added cost and delay, pass it on, or re-source outside the EU?",
+      "How much of the range's margin was quietly dependent on frictionless EU sourcing?",
+      "What would a genuinely resilient, diversified sourcing base look like from here?"
     ]
   },
   {
     "id": "elevate-retail-ops-008",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "Self-Checkout Cuts Labour, Cost Rises Elsewhere",
-    "setup": "A self-service rollout cuts scheduled labour hours 15% across trial sites, but shrink and customer complaints both rise, eating into most of the saving.",
+    "title": "A Reform of the Business Rates System Changes Who Wins and Loses",
+    "setup": "A reform of how business rates are calculated is under consultation, shifting the burden between physical retail and online-only operators in ways that could materially change the estate's total occupancy cost, in either direction, depending on the final design.",
     "questions": [
-      "Does the labour saving survive once the shrink increase is properly counted?",
-      "Is checkout a pure cost centre to automate, or a service moment that's worth protecting?",
-      "What's the honest net position once all the true costs are on the table?"
+      "How do you plan an estate strategy when the tax basis underneath it might change?",
+      "Should the group engage in the consultation, and what would it actually ask for?",
+      "What's the estate strategy under each plausible version of the reform?"
     ]
   },
   {
     "id": "elevate-retail-ops-009",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "High-Street Footfall Migrates to the Retail Park",
-    "setup": "A new retail park three miles away is quietly pulling footfall from your two nearest high-street sites, and the leases on both still have years left to run.",
+    "title": "A Change in Immigration Rules Shrinks the Seasonal Labour Pool",
+    "setup": "A change in immigration policy has reduced the pool of workers the group has relied on for seasonal peak staffing, and early recruitment data for the coming peak shows applications down sharply against last year.",
     "questions": [
-      "Do you fight to hold the high-street position, or follow the footfall to the retail park?",
-      "What does the remaining lease commitment actually cost you if relocation isn't an option?",
-      "Could delivery or click-and-collect capture footfall wherever it moves, without a physical move at all?"
+      "What would it take to fill peak staffing from a domestic labour pool instead?",
+      "Should pay, hours, or contract flexibility change to compete for a smaller pool of workers?",
+      "Is peak trading itself over-reliant on a staffing model that's no longer reliable?"
     ]
   },
   {
     "id": "elevate-retail-ops-010",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "The Weekend Rota Nobody Wants",
-    "setup": "Recruiting and retaining weekend staff has become the hardest scheduling problem in the estate, and short-staffed Saturdays are now your worst-performing trading days by service score.",
+    "title": "Unit Economics Say Close a Fifth of the Estate",
+    "setup": "A group-wide unit economics review, run consistently across all sites for the first time, shows a fifth of the estate failing to cover its full cost of occupancy, labour and overhead allocation — including several sites long assumed to be solid performers.",
     "questions": [
-      "Is a pay premium, more flexible contracts, or automation the right lever to fix Saturday staffing?",
-      "What's the true cost of a consistently bad Saturday across the estate?",
-      "Should weekend staffing be planned as a genuinely different problem from weekday staffing, not a scaled-up version of it?"
+      "What does 'solid performer' actually mean if the full-cost view says otherwise?",
+      "How fast should underperforming sites be exited, and what's the cost of exiting too fast versus too slow?",
+      "Should this full-cost view become the standing method for every future site decision?"
     ]
   },
   {
     "id": "elevate-retail-ops-011",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "Product Range Cut Backfires at Three Sites",
-    "setup": "Head office trims the national range 20% to simplify the supply chain and cut cost, but three sites see a disproportionate sales drop because the cut items were locally popular, not nationally significant.",
+    "title": "One Format Outperforms Two Others Combined",
+    "setup": "A group-wide review of yield per site across three store formats shows one format generating more profit per square foot than the other two combined, despite fewer locations and less capital invested.",
     "questions": [
-      "How much local variation should a 'simplified' national range actually allow?",
-      "What data would have flagged this risk before the range cut went ahead?",
-      "Is the centralised efficiency gain worth the site-level revenue that's now been lost?"
+      "Does the group commit capital to converting more sites to the winning format, and how fast?",
+      "What's actually driving the difference — format, location, or something else being missed?",
+      "Should underperforming formats be phased out entirely, or is diversity of format itself valuable?"
     ]
   },
   {
     "id": "elevate-retail-ops-012",
     "industry": "ELEVATE26UK: Multi-site Retail/Operators",
-    "title": "A Business Rates Appeal Window Closes in Three Weeks",
-    "setup": "You've identified grounds to appeal the rates bill on four sites, worth an estimated £180,000 in potential relief, but the appeal window closes in three weeks and the supporting data isn't readily assembled.",
+    "title": "A Private Equity Approach Lands on the Board's Desk",
+    "setup": "A private equity firm makes an unsolicited approach to acquire the group, at a valuation the board considers full but not exceptional, right as the group's own multi-year estate transformation plan is midway through execution.",
     "questions": [
-      "Is the potential saving worth the scramble to pull the case together in time?",
-      "What process gap does this expose for the next rates cycle?",
-      "Should site-level cost data be maintained continuously rather than assembled only when a deadline forces it?"
+      "Does the board engage seriously, and what would change its mind either way?",
+      "How does a live approach like this affect the credibility of the current transformation plan with staff and lenders?",
+      "What's the board's real alternative to selling — and is it credible enough to walk away?"
     ]
   },
   {
     "id": "elevate-public-002",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "Outcome Per Pound, Proven Two Different Ways",
-    "setup": "Two programmes cost roughly the same to run. One shows a clean unit-cost-per-outcome figure that funders love; the other's impact is real but far harder to quantify, and the funding committee is favouring the metric they can actually see.",
+    "title": "Smaller Organisations Are Merging Around You",
+    "setup": "Funders and regulators are quietly encouraging consolidation across the sector, and three smaller organisations in your area have merged in the past year, each citing funding pressure as the reason. Your own funders have started asking about your 'sustainability strategy.'",
     "questions": [
-      "Does the measurable programme genuinely create more value, or just better paperwork?",
-      "How do you make the harder-to-measure work legible to funders without distorting what it actually does?",
-      "What's lost across the sector if funding consistently follows only what's easiest to count?"
+      "Is merging with another organisation something to actively pursue, or a sign of weakness to resist?",
+      "What would you actually gain or lose by merging with a similar organisation nearby?",
+      "How do you answer a funder's sustainability question if the honest answer is still being worked out?"
     ]
   },
   {
     "id": "elevate-public-003",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "A Multi-Year Settlement Locks In the Wrong Assumptions",
-    "setup": "A funding settlement agreed three years ago assumed a level of demand that's since risen sharply, and there's no mechanism to revisit the figure until the settlement's own renewal date, still two years away.",
+    "title": "The Population You Serve Has Changed Faster Than Your Services Have",
+    "setup": "Demographic data for your service area shows a significant shift in the population's age and needs profile over five years, but service design and staffing haven't materially changed in that time.",
     "questions": [
-      "What can flex within a fixed settlement even without renegotiating the headline figure?",
-      "Is there a credible case for renegotiation ahead of the scheduled date?",
-      "Should future settlements build in a demand-review clause from the outset?"
+      "What would it cost to redesign services around who actually needs them now?",
+      "Is underinvestment in adapting services a funding problem or a planning problem?",
+      "How do you build in ongoing demographic monitoring so this gap doesn't reopen?"
     ]
   },
   {
     "id": "elevate-public-004",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "The Ring-Fenced Grant That Can't Pay for What's Needed",
-    "setup": "A £150,000 grant restricted to a specific programme sits largely unspent at year-end, while the unrestricted budget that pays for staff, premises and governance runs a deficit of a similar size.",
+    "title": "An AI Tool Could Prove Your Impact, If Funders Trust It",
+    "setup": "A new AI-based outcomes-measurement tool could let you demonstrate impact more cheaply and consistently than your current manual process, but early conversations suggest some funders are sceptical of AI-generated evidence and may discount it.",
     "questions": [
-      "What's technically and ethically possible to do within the grant's restrictions?",
-      "How do you explain a simultaneous surplus and deficit to a board that only sees the total position?",
-      "Should future grant applications be structured to avoid this kind of mismatch?"
+      "Is the tool worth adopting if some funders won't fully trust its output yet?",
+      "How do you validate the tool's outputs well enough to build funder confidence over time?",
+      "What does this signal about how the whole sector will need to evolve its evidence standards?"
     ]
   },
   {
     "id": "elevate-public-005",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "Workforce Planning Around a Grant That Might Not Renew",
-    "setup": "A grant funding six posts is up for renewal in four months with no indication either way, and two of those staff have already been offered roles elsewhere.",
+    "title": "A Funder Suggests You Merge With a Rival Charity",
+    "setup": "A major funder, reviewing renewal applications from both your organisation and a similar charity working the same geography, suggests informally that funding both indefinitely isn't sustainable and a merger would be looked on favourably.",
     "questions": [
-      "Do you let people go early to plan responsibly, or hold on and risk losing them regardless?",
-      "What does honest communication with affected staff actually look like right now?",
-      "How exposed is service delivery if the grant lapses and those posts are still unfilled?"
+      "How much weight should a funder's informal suggestion carry in a decision this significant?",
+      "What would actually be gained or lost for beneficiaries if the two organisations merged?",
+      "Is there a partnership short of a full merger that addresses the funder's underlying concern?"
     ]
   },
   {
     "id": "elevate-public-006",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "Stress-Testing a Funding Cut That Hasn't Happened Yet",
-    "setup": "Finance proposes modelling a funding cut before the next settlement is even announced. Some trustees see this as prudent; others worry that planning for the cut somehow invites it.",
+    "title": "New Reporting Requirements Land With a Short Compliance Window",
+    "setup": "A regulatory change increases reporting requirements around governance and outcomes, with a compliance deadline that gives the organisation only a few months to build data collection it doesn't currently have.",
     "questions": [
-      "Is stress-testing for a cut a responsible discipline, or does it risk becoming a self-fulfilling signal?",
-      "What would the organisation genuinely do differently having run this model?",
-      "How often should a test like this happen as a matter of course?"
+      "What's realistically achievable in the time available, and what has to be flagged as a gap?",
+      "Does this expose a wider need for better data infrastructure regardless of this specific deadline?",
+      "How do you resource this without pulling capacity from frontline delivery?"
     ]
   },
   {
     "id": "elevate-public-007",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "International Fee Income Wobbles",
-    "setup": "International fee income comes in 12% below forecast for the year, and that income line has quietly been cross-subsidising two domestic programmes that don't otherwise break even.",
+    "title": "A European Funding Stream Quietly Disappears",
+    "setup": "A funding stream that was accessible through European partnerships has become unavailable following changes in the UK's relationship with EU institutions, and it funded a programme with no obvious domestic replacement.",
     "questions": [
-      "How exposed is the wider mission to this one volatile income line?",
-      "Do the subsidised programmes get cut, shrunk, or refinanced from elsewhere?",
-      "Should cross-subsidy dependencies like this be visible to the board well before they become urgent?"
+      "Is there a viable domestic funder for this programme, and how long would securing one take?",
+      "Does the programme get paused, shrunk, or wound down while a replacement is sought?",
+      "How exposed is the rest of the funding portfolio to similarly EU-linked sources?"
     ]
   },
   {
     "id": "elevate-public-008",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "Two Services, One Shrinking Pot, No Clear Winner",
-    "setup": "Asked to fund only one of two equally mission-aligned services from a shrinking pot, the board has no shared framework for comparing outcomes across two genuinely different kinds of impact.",
+    "title": "A Change to Charitable Tax Relief Is Under Review",
+    "setup": "A government review of tax relief available to organisations like yours is under way, and an unfavourable outcome could materially increase costs on premises and purchases the organisation currently benefits from relief on.",
     "questions": [
-      "What would a fair comparison framework across different kinds of impact actually look like?",
-      "Who should build that framework, and does it need to exist before or after this specific decision?",
-      "Is refusing to choose between the two itself a choice, and what does delay cost either service?"
+      "How exposed is the budget to a change in this relief, and has that been modelled?",
+      "Should the organisation engage in the review process, and with what argument?",
+      "What would the operating model need to look like if the relief were reduced or removed?"
     ]
   },
   {
     "id": "elevate-public-009",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "The Regulator Wants Assurance You Don't Have Ready",
-    "setup": "A regulator's routine assurance request lands with a two-week turnaround, and the outcome data it wants has always been collected inconsistently across delivery sites.",
+    "title": "A Change in Immigration Rules Deepens a Frontline Staffing Gap",
+    "setup": "A change in immigration policy has reduced the pool of workers available for frontline roles the sector has long relied on internationally, and vacancy rates in those roles have risen sharply over the past year.",
     "questions": [
-      "What's the honest, defensible answer this cycle, given the data you actually have?",
-      "Does inconsistent data collection undermine trust in outcomes you're otherwise confident are real?",
-      "Who should own data quality consistency across sites going forward?"
+      "What would it take to recruit and retain domestically for these roles at the pace needed?",
+      "Does service delivery need to change if the staffing model it was built on is no longer available?",
+      "Should this be raised as a sector-wide advocacy issue rather than solved organisation by organisation?"
     ]
   },
   {
     "id": "elevate-public-010",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "A Multi-Year Settlement Ends Just as a New Need Emerges",
-    "setup": "Your current funding settlement runs out the same year a clearly urgent new community need has emerged, and the case for funding it doesn't fit neatly into the settlement's existing categories.",
+    "title": "Restricted Funding Now Covers Most of the Balance Sheet",
+    "setup": "A strategic review finds that restricted, purpose-specific funding now makes up the large majority of total income, leaving very little unrestricted funding to cover core costs, governance, and anything not explicitly funded by a grant.",
     "questions": [
-      "Do you divert existing restricted resource informally, wait for the next funding cycle, or build the case for a mid-cycle exception?",
-      "What's the risk of responding too slowly to something real and urgent?",
-      "What's the risk of moving before the case for funding it is fully proven?"
+      "Is this funding mix sustainable, or does it need to actively change over the coming years?",
+      "What would it take to grow unrestricted income, and is that realistic for this organisation?",
+      "How do you make this structural risk visible to a board that sees healthy total income?"
     ]
   },
   {
     "id": "elevate-public-011",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "Restricted Funds, Unrestricted Emergency",
-    "setup": "An emergency requiring immediate spend arises. The only readily available funds are restricted to a different purpose, while the unrestricted reserve is technically sufficient but was already earmarked for something promised to the board.",
+    "title": "A Stress Test Says One Income Line Is Doing Too Much Work",
+    "setup": "A stress-testing exercise across income sources finds that one line — reliant on international fee income sensitive to visa policy — is now propping up several other activities that don't independently break even.",
     "questions": [
-      "What's actually permissible here, and how quickly can you find out for certain?",
-      "How should reserves policy and existing promises to the board be reconciled against a genuine emergency?",
-      "Should reserves policy build in more flexibility for exactly this kind of situation?"
+      "Should those cross-subsidised activities be protected, restructured, or wound down?",
+      "How much visa-policy risk is the organisation carrying without it being clearly visible to the board?",
+      "What would genuine income diversification look like, and how long would it realistically take?"
     ]
   },
   {
     "id": "elevate-public-012",
     "industry": "ELEVATE26UK: Mission-driven & Public",
-    "title": "Proving Value to a Funder Who Wants a Different Story",
-    "setup": "A funder renewing a major grant wants to hear about scale and reach. Your strongest evidence is about depth and quality for a smaller number of people, and the two stories pull the programme in different directions.",
+    "title": "Workforce Planning for a Future Nobody Can Confidently Forecast",
+    "setup": "Asked to produce a three-year workforce plan, the leadership team faces genuine uncertainty on funding, demand and policy that makes any single forecast likely to be wrong — yet a plan is still required for the board and funders.",
     "questions": [
-      "Do you reshape the programme to fit the story the funder wants to hear, or make the case for a different measure of success?",
-      "What's lost either way — in the programme itself, or in the funding relationship?",
-      "How much should funder preference be allowed to shape delivery design?"
+      "What would a workforce plan that's honest about uncertainty actually look like, versus a single confident number?",
+      "How do you build workforce flexibility without undermining the job security a mission-driven organisation wants to offer?",
+      "What would need to be true for this year's uncertainty to become next year's normal way of planning?"
     ]
   },
   {
     "id": "elevate-prof-services-002",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "Realisation Is Slipping and Nobody Agreed to It",
-    "setup": "Billed hours look healthy, but realised revenue against those hours has drifted down three points over two quarters as write-offs and informal discounts accumulate case by case.",
+    "title": "A New Entrant Undercuts the Traditional Fee Model Entirely",
+    "setup": "A well-funded new entrant, structured differently from a traditional partnership, is winning work in your core practice area with a fixed-fee, technology-led model priced well below your typical engagement.",
     "questions": [
-      "Who's actually authorising these write-offs, and is that visible anywhere?",
-      "Is the rate card wrong, or is realisation discipline the real problem?",
-      "What would it take to see realisation slipping in real time instead of discovering it at quarter-end?"
+      "Is the new entrant a genuine long-term threat, or under-pricing to buy market share it can't sustain?",
+      "What about your model would actually be hard for a disruptor like this to replicate?",
+      "Should the firm respond with its own alternative pricing model, or double down on what differentiates the traditional approach?"
     ]
   },
   {
     "id": "elevate-prof-services-003",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "Two Partners, Two Utilisation Targets, One Team",
-    "setup": "Two practice leads are both drawing on the same pool of mid-level fee-earners to hit their own utilisation targets, and the team is quietly over capacity while both partners' dashboards look fine.",
+    "title": "Clients Increasingly Buy Advice Through Procurement, Not Relationships",
+    "setup": "A growing share of new engagements now route through formal procurement processes and RFPs rather than partner relationships, commoditising work that used to be won on trust and track record alone.",
     "questions": [
-      "Whose utilisation number is actually true here?",
-      "How should shared resource be planned across practice areas instead of claimed twice?",
-      "What does this reveal about how individual utilisation targets get set in the first place?"
+      "How does the firm compete effectively once relationships alone no longer win the work?",
+      "What's lost, for both the firm and the client, when advisory work is bought this way?",
+      "Should the firm change how it invests in relationships if procurement increasingly decides the outcome anyway?"
     ]
   },
   {
     "id": "elevate-prof-services-004",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "A Client Wants a Fixed Fee for Unpredictable Work",
-    "setup": "Your largest prospective client, worth an estimated £2m over three years, wants a fixed annual fee for work that has historically varied 40% in scope year to year. Losing the pitch to a competitor willing to fix the price feels almost as costly as winning it at the wrong price.",
+    "title": "AI Can Do in an Hour What Used to Bill for a Week",
+    "setup": "Generative AI tools now let junior teams complete certain research and drafting work in a fraction of the time it used to take, and several clients have started asking why they're still being billed at the old hourly rate for work that's visibly faster.",
     "questions": [
-      "What would make a fixed fee genuinely safe to offer on work this variable?",
-      "Is there a hybrid structure that shares the scope risk rather than you absorbing all of it?",
-      "What does saying no actually cost against a competitor willing to say yes?"
+      "Does the billable hour model survive this, or does pricing need to move to value or outcome instead?",
+      "What happens to junior career development if the tasks that used to train them are now automated?",
+      "How much of the firm's fee income is actually exposed to this shift, and how fast?"
     ]
   },
   {
     "id": "elevate-prof-services-005",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "The Bench That's Too Expensive to Keep, Too Slow to Rebuild",
-    "setup": "A senior specialist practice is running at 60% utilisation for the second quarter running. Letting people go would fix the cost line immediately, but the expertise took years to build.",
+    "title": "Private Equity Wants to Buy a Stake in the Partnership",
+    "setup": "A private equity firm approaches with an offer to acquire a significant minority stake in the partnership, offering capital for growth and an exit path for older partners, in exchange for a structure that looks very different from the traditional partnership model.",
     "questions": [
-      "What's the real cost of carrying this bench through a slow patch, versus rebuilding it later from scratch?",
-      "Is 60% utilisation a temporary dip or the new normal for this practice area?",
-      "Who decides how long 'temporary' is allowed to run before a decision has to be made?"
+      "What would the partnership actually gain and give up by accepting outside capital like this?",
+      "How do you reconcile competing interests between partners near retirement and those with decades still ahead?",
+      "Is this the direction the whole sector is heading, and does staying independent become harder over time?"
     ]
   },
   {
     "id": "elevate-prof-services-006",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "Client Budget Pause Hits Three Accounts at Once",
-    "setup": "Three separate clients pause discretionary spend in the same month, apparently unrelated to each other, and together they account for a third of the quarter's forecast fee income.",
+    "title": "A Regulatory Reform Changes Who Can Do This Work",
+    "setup": "A reform of professional regulation in your field lowers barriers for new types of providers to offer services that were previously restricted to regulated firms like yours, opening the market to more competition.",
     "questions": [
-      "Is this coincidence, or a market signal worth acting on immediately?",
-      "How concentrated is the practice's income across clients generally, and was that visible before now?",
-      "What pipeline diversification should already have been under way?"
+      "Does increased competition from newly-permitted providers change how the firm should price or package its services?",
+      "What does the firm's regulated status actually protect now that others can enter more easily?",
+      "How should the firm respond in the public conversation around this reform?"
     ]
   },
   {
     "id": "elevate-prof-services-007",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "Fee Pressure From a Client Who's Also a Referral Source",
-    "setup": "A long-standing client who also refers significant new business asks for a fee reduction that would make the engagement barely profitable standing alone.",
+    "title": "Higher Interest Rates Freeze the Deal Pipeline",
+    "setup": "A sustained period of higher interest rates has sharply slowed M&A and transaction activity across the market, and the practice area built around deal advisory work has seen its pipeline shrink to a fraction of two years ago.",
     "questions": [
-      "How do you value the referral relationship against this engagement's standalone economics?",
-      "Is there a non-price way to meet what the client is actually asking for?",
-      "What happens to your pricing credibility with other clients if this concession becomes known?"
+      "Do you hold the deal-advisory team's capacity through the freeze, or redeploy them into other practice areas?",
+      "How cyclical has this practice area always been, and was that risk properly understood before now?",
+      "What would make the firm less exposed to interest-rate cycles in future?"
     ]
   },
   {
     "id": "elevate-prof-services-008",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "Realisation Looks Fine in Aggregate, Terrible on One Matter Type",
-    "setup": "Firm-wide realisation is healthy, but one specific type of engagement has quietly run at 70% realisation for a full year, hidden inside the overall average.",
+    "title": "Cross-Border Work Gets Harder After a Change in UK-EU Arrangements",
+    "setup": "Changes in the UK's regulatory relationship with the EU have made it harder for the firm's professionals to advise clients or appear before regulators in EU member states without additional local qualification or partnership arrangements.",
     "questions": [
-      "Should pricing or delivery change specifically for this engagement type?",
-      "How did this stay hidden inside an aggregate number for an entire year?",
-      "What other averages across the firm might be hiding a similar problem right now?"
+      "Is it worth investing in EU-side qualifications or a local partnership to maintain that capability?",
+      "How much revenue and client relationship value is actually tied to cross-border EU work?",
+      "What would the firm's footprint look like if it simply ceded EU-facing work to EU-based competitors?"
     ]
   },
   {
     "id": "elevate-prof-services-009",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "A Junior Cohort Costs More Than Planned to Get Billable",
-    "setup": "This year's graduate intake is taking longer than budgeted to reach billable utilisation, and the training cost is running roughly £120,000 over the business case that justified the headcount.",
+    "title": "A Change in Employer Costs Lands on a People-Heavy Cost Base",
+    "setup": "A change in employer tax and National Insurance-style costs increases the cost of employment across the firm's largely people-based cost base, with no equivalent change in client fee rates yet agreed.",
     "questions": [
-      "Is the training investment still worth it, and what evidence would confirm that?",
-      "Should intake size flex against realistic ramp-up time rather than a fixed annual headcount number?",
-      "What would genuinely faster time-to-billable actually require from the firm?"
+      "Do you absorb the increase, build it into fee renewals, or slow hiring to offset it?",
+      "How much margin cushion does the firm actually have against a cost change like this?",
+      "Should client contracts routinely include a mechanism for cost-base changes like this going forward?"
     ]
   },
   {
     "id": "elevate-prof-services-010",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "Pricing a New Service Line With No Track Record",
-    "setup": "The firm wants to launch a new advisory service line with no internal cost or realisation data to price against, only a competitor's public rate card as a benchmark.",
+    "title": "Visa Costs and Rules Make Specialist Hiring Harder",
+    "setup": "A change in immigration rules and rising visa sponsorship costs make it materially more expensive and slower to hire specialist talent from overseas, in a practice area where the right expertise is scarce domestically.",
     "questions": [
-      "Do you price to the competitor, to your own cost base, or to perceived value — and how would you know which is right?",
-      "What's the risk of underpricing just to win the first few clients?",
-      "How soon would real engagement data let you correct course if the initial pricing is wrong?"
+      "Is it worth absorbing the higher cost and delay to secure the right specialist, or does the search stay domestic?",
+      "How dependent has this practice area quietly become on overseas talent pipelines?",
+      "What would a genuine domestic talent pipeline for this specialism take to build?"
     ]
   },
   {
     "id": "elevate-prof-services-011",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "The Client Who Pauses Every Q4",
-    "setup": "A major client predictably pauses new work every Q4 as their own budget year closes, and your fee-earner utilisation dips in the same window every year without anyone planning around it.",
+    "title": "Firm-Wide Realisation Has Been Declining for Three Years, Quietly",
+    "setup": "A multi-year review shows firm-wide realisation has declined steadily for three years even as billed hours have grown, meaning growth in activity hasn't translated into growth in collected revenue.",
     "questions": [
-      "Should staffing or pipeline be actively planned around this known, recurring pattern?",
-      "What kind of work could fill the gap without competing with the client relationship itself?",
-      "Why has this predictable pattern been tolerated rather than solved before now?"
+      "Is this a pricing problem, a discounting culture problem, or a client mix problem?",
+      "What would it take to reverse a three-year trend rather than patch it quarter by quarter?",
+      "Why did this take three years to surface as a strategic issue rather than one?"
     ]
   },
   {
     "id": "elevate-prof-services-012",
     "industry": "ELEVATE26UK: Professional Services",
-    "title": "Two Fee-Earners, Same Client, Different Realisation",
-    "setup": "Two fee-earners working the same client at similar rates show a 20-point realisation gap between them, and nobody has been able to say definitively why.",
+    "title": "Build the AI Capability In-House, or Buy Access to Someone Else's?",
+    "setup": "The firm must decide whether to build proprietary AI tools trained on its own methodology and data, or license third-party AI platforms that competitors can access on the same terms.",
     "questions": [
-      "What's actually driving the gap — scope discipline, the client relationship, or something else entirely?",
-      "How do you investigate this without it feeling like a performance audit of one person?",
-      "What, if anything, should be standardised across both fee-earners as a result?"
+      "What's genuinely defensible about proprietary AI built on the firm's own data and experience?",
+      "What's the cost and risk of building versus the speed and lower cost of buying access?",
+      "Does this decision change what kind of firm you are five years from now?"
     ]
   },
   {
     "id": "elevate-supply-002",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "A Volume Forecast That's Already Wrong by Week Two",
-    "setup": "A customer's order pattern shifts sharply in the first two weeks of the quarter, and the production plan built from the original forecast doesn't get revisited until the next monthly planning cycle.",
+    "title": "Reshoring Pressure Reshapes Where the Group Manufactures",
+    "setup": "A broader market trend toward reshoring and near-shoring, driven by customers wanting shorter, more resilient supply chains, is prompting several key accounts to ask whether the group can shift production closer to the UK from its current lower-cost overseas base.",
     "questions": [
-      "How often should plan-to-supply actually refresh when volume is this volatile?",
-      "What's the cost of running three more weeks on a plan you already know is wrong?",
-      "Who should have the authority to trigger an off-cycle replan when this happens?"
+      "What would it actually cost to reshore a meaningful share of production, and over what timeframe?",
+      "Is this customer preference a passing trend or a lasting shift in how supply chains are valued?",
+      "Could the group win business specifically by being early to reshore, rather than reacting last?"
     ]
   },
   {
     "id": "elevate-supply-003",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "Energy Costs Eat the Margin on Your Best-Selling Line",
-    "setup": "A sharp rise in energy costs hits hardest on the production line that runs the longest hours — which happens to make your highest-volume, lowest-margin product, adding an estimated £40,000 a month to its running cost.",
+    "title": "Your Biggest Customer Wants to Cut Out the Distributor — You",
+    "setup": "A major brand customer is exploring a direct-to-consumer model that would bypass the distribution layer your group operates in, threatening a relationship that represents a significant share of group revenue.",
     "questions": [
-      "Do you reprice this line, shift production to cheaper hours, or accept the margin hit?",
-      "How exposed is the whole product mix to energy cost, and had anyone modelled that before now?",
-      "Should energy-intensive lines carry a fundamentally different pricing logic?"
+      "Is there a role for the group in a direct model, or does this relationship simply end?",
+      "How concentrated is group revenue on customers who could plausibly do the same thing?",
+      "What would the group's business model need to become to stay relevant if disintermediation spreads?"
     ]
   },
   {
     "id": "elevate-supply-004",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "Sterling Moves Against You Mid-Contract",
-    "setup": "A swing in sterling against the currency you buy raw materials in erodes margin on contracts already priced and signed for the rest of the year.",
+    "title": "AI Forecasting Promises Fewer Shocks, at the Cost of Trusting a Black Box",
+    "setup": "A proposed group-wide AI forecasting and predictive maintenance system promises to reduce the kind of volume and equipment-failure surprises that have hit the business before, but several senior operations leaders are uneasy relying on a model they don't fully understand.",
     "questions": [
-      "Is there room to renegotiate, or do you absorb the hit for the full contract term?",
-      "Should future contracts hedge currency exposure as standard practice rather than an afterthought?",
-      "How much of the wider cost base is quietly exposed to currency moves nobody's tracking centrally?"
+      "What would it take to trust the AI system's recommendations enough to act on them?",
+      "How do you validate the system before betting group-wide planning on it?",
+      "What's the cost of continuing to rely on the current, more manual approach instead?"
     ]
   },
   {
     "id": "elevate-supply-005",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "Capacity Is Full, But Not on the Right Line",
-    "setup": "Overall factory utilisation looks healthy at 85%, but the specific line making your fastest-growing product is maxed out while two other lines run under capacity.",
+    "title": "Two of Your Suppliers Just Merged Into One",
+    "setup": "Two suppliers the group has historically played off against each other for better terms have merged, and the combined entity now controls a much larger share of a critical input, with far more pricing power than either had alone.",
     "questions": [
-      "Do you invest in the constrained line, shift product allocation, or turn away the growth?",
-      "How do you decide fast enough not to lose the customer asking for more volume?",
-      "What does 'full capacity' actually mean if the headline number hides an imbalance like this?"
+      "How exposed is the group now that a key input has fewer independent sources?",
+      "Is there time to qualify an alternative supplier before the new terms are set?",
+      "Should supplier concentration risk be actively monitored and managed going forward, not just discovered?"
     ]
   },
   {
     "id": "elevate-supply-006",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "Working Capital Locked in Inventory Nobody's Buying",
-    "setup": "Finished-goods inventory has grown 30% over two quarters because production kept running to plan even as actual sell-through slowed, and cash is now tied up on the warehouse floor.",
+    "title": "A New Carbon Reporting Mandate Reaches Deep Into the Supply Chain",
+    "setup": "A new regulatory requirement extends carbon reporting obligations beyond the group's own operations into its supply chain, requiring data from suppliers who have never been asked for it and may not have it readily available.",
     "questions": [
-      "Should production have throttled back sooner, and what signal was missed?",
-      "What's the cost of the cash tied up versus the cost of idling the line earlier?",
-      "How tightly should plan-to-supply be linked to actual sell-through data rather than the original forecast?"
+      "How do you get suppliers who've never tracked this data to start providing it credibly?",
+      "What's the compliance risk if some suppliers simply can't or won't provide it in time?",
+      "Could better supply chain visibility here become a competitive advantage beyond compliance?"
     ]
   },
   {
     "id": "elevate-supply-007",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "A Tariff Change Lands on Half Your Bill of Materials",
-    "setup": "A change in tariffs affects roughly half the components in your core product's bill of materials, all sourced from a single overseas region, while the other half is unaffected.",
+    "title": "Industrial Demand Slows Across the Whole Customer Base at Once",
+    "setup": "A broader economic slowdown is reducing industrial demand across the group's customer base simultaneously, rather than in the usual pattern of a few customers pulling back while others hold steady.",
     "questions": [
-      "Is re-sourcing the affected components worth the disruption, or do you absorb the added cost?",
-      "How concentrated is sourcing risk across the rest of the product range?",
-      "What would a genuinely diversified supply base actually cost to build?"
+      "Does a broad-based slowdown call for a different response than a customer-specific dip would?",
+      "Which parts of the cost base can flex quickly, and which are effectively fixed regardless of volume?",
+      "What would the group do differently if this slowdown turns out to last several years?"
     ]
   },
   {
     "id": "elevate-supply-008",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "The Supplier Who's Also Feeling the Squeeze",
-    "setup": "Your key supplier requests a price increase citing their own rising input costs, and your own data suggests they're telling the truth — but agreeing sets a precedent with three other suppliers watching how this negotiation goes.",
+    "title": "New Customs Checks Slow Exports to the Group's Largest Market",
+    "setup": "Changes in the UK's trading arrangements with the EU have introduced new customs checks on exports to what remains the group's largest overseas market, adding days to delivery times and new paperwork costs per shipment.",
     "questions": [
-      "What's the fair number here, and how do you independently verify their cost claim?",
-      "Does agreeing now protect or worsen your negotiating position with the other three suppliers?",
-      "Is there a way to share the cost pressure rather than simply absorbing it or rejecting it outright?"
+      "Do you absorb the added cost and delay, pass it to customers, or restructure how goods move to reduce friction?",
+      "How much of the group's competitiveness in this market depended on frictionless, fast delivery?",
+      "Should the group consider local production or warehousing in the EU to route around this friction entirely?"
     ]
   },
   {
     "id": "elevate-supply-009",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "Working Capital Stress Meets a Growth Opportunity",
-    "setup": "A large new customer wants a volume commitment that would require investing in inventory ahead of payment, right when working capital is already stretched from a slow quarter.",
+    "title": "A Change to Capital Allowances Reshapes the Investment Case",
+    "setup": "A change in the tax treatment of capital investment alters the financial case for a major planned equipment upgrade, making a project that looked clearly worthwhile under the old rules considerably less attractive under the new ones.",
     "questions": [
-      "Can payment terms be structured to make this growth affordable without overextending the business?",
-      "What's the real risk of stretching working capital further to chase this opportunity?",
-      "Is there a smaller initial commitment that proves the relationship without the full exposure?"
+      "Does the investment case still hold up, or should the project be delayed or resized?",
+      "How much of the group's investment planning has been quietly dependent on tax treatment that can change?",
+      "Should major capital decisions build in more resilience to policy changes like this?"
     ]
   },
   {
     "id": "elevate-supply-010",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "Plan-to-Supply Breaks When Two Systems Disagree",
-    "setup": "Sales forecasts sit in one system and production planning in another, and the two have quietly drifted out of sync for a month before anyone noticed the gap.",
+    "title": "A Skilled Trades Shortage Slows the Group's Own Expansion Plans",
+    "setup": "A change in immigration rules, combined with an ageing domestic skilled-trades workforce, has made it significantly harder to recruit the technical roles a planned capacity expansion depends on.",
     "questions": [
-      "How did this go unnoticed for an entire month, and what would catch it faster next time?",
-      "Is the fix here technical, procedural, or genuinely both?",
-      "What's the cost of the drift itself versus the cost of properly fixing the connectivity between the two systems?"
+      "Does the expansion plan slow down, or does the group invest heavily in training its own pipeline?",
+      "How much of the group's growth ambitions were quietly dependent on labour availability nobody stress-tested?",
+      "Should workforce availability be a formal gating factor in future capital planning, not an assumption?"
     ]
   },
   {
     "id": "elevate-supply-011",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "A Commodity Price Spike Nobody Hedged",
-    "setup": "A key input commodity spikes 25% in a month with no hedging in place, and fixed-price contracts signed against the old cost base now run at a loss for the rest of the year.",
+    "title": "Group Capacity Utilisation Looks Healthy, Plant by Plant It Doesn't",
+    "setup": "Group-wide capacity utilisation sits at a comfortable 78%, but a plant-by-plant breakdown shows two sites running well over capacity and absorbing overtime costs while a third runs well under, with product lines that could technically move between them.",
     "questions": [
-      "Do you renegotiate the contracts, absorb the loss, or seek substitute materials?",
-      "Should hedging become standard practice for this particular input going forward?",
-      "How exposed is the rest of the contract book to this exact same risk?"
+      "What would it actually take to rebalance production across sites rather than manage each in isolation?",
+      "Why has this imbalance persisted if the fix seems straightforward on paper?",
+      "Should capacity planning be managed at group level going forward, rather than by individual plant?"
     ]
   },
   {
     "id": "elevate-supply-012",
     "industry": "ELEVATE26UK: Product & Supply-heavy",
-    "title": "Capacity Investment Decision With a Volume Forecast You Don't Trust",
-    "setup": "A capital case for new capacity assumes volume growth continuing at last year's rate, but the last two quarters have already come in below that trend.",
+    "title": "The Net Zero Transition Requires Capital the Group Hasn't Budgeted",
+    "setup": "Meeting the group's own public net zero commitments, and increasingly customer expectations around supply chain emissions, requires a level of capital investment in cleaner production that hasn't yet been built into the group's medium-term financial plan.",
     "questions": [
-      "Do you commit to the capacity case anyway, delay it, or resize it to a more conservative forecast?",
-      "What would make the volume forecast trustworthy enough to commit real capital against it?",
-      "What's the cost of being wrong in either direction — underbuilding capacity, or overbuilding it?"
+      "Is this investment a competitive necessity, a compliance cost, or genuinely both?",
+      "What gets deprioritised in the capital plan to fund this, and who decides?",
+      "What's the cost of moving slowly on this if customers start making it a condition of doing business?"
     ]
   },
   {
     "id": "elevate-transport-002",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "Three Routes Running Below Breakeven Density",
-    "setup": "Route density analysis shows three regional routes carrying enough volume to justify a van each, but not enough to justify the driver hours currently scheduled against them.",
+    "title": "E-Commerce Growth Is Quietly Breaking Your Route Economics",
+    "setup": "Sustained growth in e-commerce delivery volumes has shifted parcel patterns toward more frequent, lower-volume drops spread across a wider area, eroding the route density the group's cost model was originally built around.",
     "questions": [
-      "Do you consolidate the routes, adjust driver hours, or accept the inefficiency for service-level reasons?",
-      "What would customers on those routes actually notice if density were optimised properly?",
-      "How often should route density be reviewed, rather than left running on historic assumptions?"
+      "Does the group's pricing model still reflect the actual cost of serving this new delivery pattern?",
+      "What would a network genuinely redesigned around today's density look like, rather than yesterday's?",
+      "Is chasing e-commerce volume worth it if the density economics keep getting worse as it grows?"
     ]
   },
   {
     "id": "elevate-transport-003",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "Driver Costs Rise Faster Than the Rate Card",
-    "setup": "Driver pay has risen faster than your customer rate card has been updated, and the gap has quietly turned several long-standing contracts into break-even or loss-making work.",
+    "title": "Same-Day Delivery Is Now the Price of Entry, Not a Premium Service",
+    "setup": "Customer expectations have shifted so that same-day delivery, once a premium option customers paid extra for, is now assumed as standard by several major accounts without a corresponding change in what they're willing to pay.",
     "questions": [
-      "Which contracts get repriced first, and on what basis do you decide?",
-      "How do you catch a cost-price gap like this before it's been running for months unnoticed?",
-      "What would trigger an automatic rate review going forward, rather than relying on someone to notice?"
+      "Can the cost of same-day service actually be recovered in current contract pricing?",
+      "Which accounts would genuinely walk if same-day were no longer offered as standard?",
+      "Should the group compete on a different basis than speed if speed no longer commands a premium?"
     ]
   },
   {
     "id": "elevate-transport-004",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "A Franchise Renewal Comes With New Terms",
-    "setup": "A franchise agreement up for renewal wants tighter service-level terms for the same fee, and meeting them would require additional vehicles costing upward of £300,000 that you hadn't budgeted for.",
+    "title": "Route Optimisation Software Finds Savings the Union Doesn't Like",
+    "setup": "A new AI-driven route optimisation system identifies changes to shift patterns and route allocation that would meaningfully cut costs, but the changes would alter working patterns in ways the workforce and its representatives are likely to resist strongly.",
     "questions": [
-      "Is the franchise worth the additional investment, and what does the payback actually look like?",
-      "Can the new terms be negotiated rather than simply accepted as offered?",
-      "What's the real cost of walking away from this franchise relationship altogether?"
+      "Do you implement the AI-recommended changes as designed, phase them in, or negotiate a different path to some of the savings?",
+      "What's the cost of workforce disruption and potential industrial action against the savings on offer?",
+      "How should the group weigh algorithmic efficiency against the people who have to live with the schedule it produces?"
     ]
   },
   {
     "id": "elevate-transport-005",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "Fuel Costs Spike During Peak Season",
-    "setup": "A fuel cost spike lands during your busiest delivery season, when route volume is already at its annual peak and there's no slack to absorb the extra cost through fewer miles.",
+    "title": "A Roll-Up Strategy Is Buying Up Every Competitor Nearby",
+    "setup": "A private equity-backed logistics group has acquired three regional competitors in eighteen months and has approached your group informally about a potential sale, at a moment when standing independent means competing against a much larger, better-funded combined rival.",
     "questions": [
-      "Do you pass the cost through with a temporary surcharge, absorb it, or find efficiency elsewhere under pressure?",
-      "How predictable was this seasonal collision, and should a surcharge mechanism already exist for it?",
-      "What does peak-season margin actually look like once fuel cost is properly accounted for?"
+      "What's the real strategic position of staying independent against a rapidly consolidating market?",
+      "What would the group actually be worth to a roll-up buyer, and does that number change the calculus?",
+      "Is there a partnership or alliance short of a sale that achieves some of the same scale benefits?"
     ]
   },
   {
     "id": "elevate-transport-006",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "Vehicle Utilisation Looks Fine, Driver Utilisation Doesn't",
-    "setup": "Vehicle utilisation across the fleet sits at a healthy 80%, but driver hours show significant idle time between routes that vehicle metrics simply don't capture.",
+    "title": "Expanding Clean Air Zones Make Half the Fleet Non-Compliant",
+    "setup": "Expanding low-emission and clean air zone regulations across more UK cities mean a significant share of the group's existing fleet will incur charges or be barred from key delivery areas within a defined timeframe.",
     "questions": [
-      "Which metric should actually drive scheduling decisions — vehicle or driver utilisation?",
-      "What's causing the driver idle time, and is it fixable through routing or is it structural?",
-      "How much hidden annual cost does this idle time actually represent?"
+      "Do you accelerate fleet replacement, pay the charges as a cost of doing business, or restructure routes to avoid affected zones?",
+      "How does the timeline for compliance compare to the group's normal fleet replacement cycle?",
+      "Could early compliance become a commercial advantage with environmentally conscious customers?"
     ]
   },
   {
     "id": "elevate-transport-007",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "A Contract Renewal Where the Customer Wants More for Less",
-    "setup": "A major contract renewal opens with the customer asking for expanded service coverage at the same total rate, citing a competitor's quote.",
+    "title": "Freight Volumes Fall Across the Board as the Economy Slows",
+    "setup": "A broader economic slowdown has reduced freight volumes across most of the group's customer base at once, leaving fleet and driver capacity built for a higher-volume environment sitting partly idle.",
     "questions": [
-      "Is the competitor's quote credible, and how would you actually find out?",
-      "What would the expanded coverage genuinely cost you to deliver?",
-      "What's your walk-away position, and are you prepared to use it if it comes to that?"
+      "Do you shrink capacity to match lower volume, or hold capacity and absorb the cost, betting on recovery?",
+      "How quickly and cheaply could capacity be brought back if volumes recover faster than expected?",
+      "What would the group do differently if this downturn turns out to be the new normal rather than a dip?"
     ]
   },
   {
     "id": "elevate-transport-008",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "Route Density Drops When a Major Customer Downsizes",
-    "setup": "A major customer on one of your densest routes cuts order volume by a third, and the route's economics no longer work at the current delivery frequency.",
+    "title": "Cross-Channel Delays Are Now a Permanent Planning Assumption",
+    "setup": "Post-Brexit customs arrangements have made border-crossing times for cross-Channel freight longer and less predictable than before, and what started as a temporary disruption now looks like a permanent feature of the route.",
     "questions": [
-      "Do you reduce frequency, consolidate with another route, or hold frequency and absorb the cost to protect service reputation?",
-      "How concentrated is this route's profitability on the one customer that just downsized?",
-      "What would a more diversified route structure look like if you rebuilt it today?"
+      "Should scheduling and customer promises be rebuilt around this as a permanent reality rather than a temporary problem?",
+      "What's the cost of holding buffer capacity against unpredictable delays versus the cost of missed delivery windows?",
+      "Is there a case for restructuring cross-Channel operations entirely given how much has changed?"
     ]
   },
   {
     "id": "elevate-transport-009",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "Driver Recruitment Can't Keep Pace With Route Growth",
-    "setup": "New contract wins have grown route commitments faster than driver recruitment can keep up, and overtime is now covering the gap at a steadily growing cost.",
+    "title": "A Change in Fuel Duty Policy Moves the Cost Base Overnight",
+    "setup": "A change in fuel duty policy alters the group's single largest variable cost overnight, and existing customer contracts have varying degrees of ability to pass that cost through, from fully indexed to fixed for the year.",
     "questions": [
-      "Is overtime a temporary bridge here, or has it become a structural cost?",
-      "What would it actually take to recruit at the pace growth currently requires?",
-      "Should new contract commitments be paced against realistic hiring capacity rather than ambition?"
+      "Which contracts absorb the change, and which can pass it through — and how fast?",
+      "Should future contracts be structured more consistently around fuel cost pass-through?",
+      "How exposed is the group's margin to fuel policy risk generally, and is that visible to the board?"
     ]
   },
   {
     "id": "elevate-transport-010",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "A Fuel Hedge Expires at the Wrong Moment",
-    "setup": "A fuel price hedge that protected margins for the past year expires just as prices are climbing again, and the renewal hedge on offer is markedly more expensive than the one expiring.",
+    "title": "A Driver Shortage Becomes a Structural Constraint on Growth",
+    "setup": "A combination of immigration rule changes and licensing requirements has deepened an existing driver shortage, and the group has had to turn down new contract opportunities simply because it cannot staff them.",
     "questions": [
-      "Do you re-hedge at the higher cost, go unhedged and absorb volatility, or hedge only partially?",
-      "What did the expiring hedge actually save you, and is that evidence enough to justify renewing?",
-      "How should hedging strategy account for renewal timing risk going forward?"
+      "Is this a pay and conditions problem, a training pipeline problem, or a genuine structural labour shortage?",
+      "Should growth plans be paced to realistic driver availability rather than contract-winning ambition?",
+      "What would a long-term fix to the driver pipeline actually require, and is the group positioned to build it?"
     ]
   },
   {
     "id": "elevate-transport-011",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "Two Franchisees, Same Territory Overlap, One Conflict",
-    "setup": "Two franchise operators discover their territories overlap on a lucrative route, and both have been quietly serving it — splitting density that could support one operator well but not two.",
+    "title": "Electrifying the Fleet Is a Bigger Bet Than the Business Case Assumes",
+    "setup": "A board-level plan to electrify a significant share of the fleet over five years assumes charging infrastructure, vehicle costs and route ranges that are still evolving quickly, making the underlying business case considerably more uncertain than a typical capital plan.",
     "questions": [
-      "How do you resolve the overlap fairly between two franchisees who both invested in good faith?",
-      "What does this reveal about how territory boundaries were originally drawn?",
-      "Should franchise agreements be revisited now to prevent similar overlap disputes elsewhere?"
+      "Should the group commit to the full five-year plan now, or phase commitments as the technology and infrastructure mature?",
+      "What happens to route planning and depot infrastructure if range and charging assumptions turn out to be wrong?",
+      "Is moving early a competitive advantage here, or an unnecessary risk compared to moving with the market?"
     ]
   },
   {
     "id": "elevate-transport-012",
     "industry": "ELEVATE26UK: Transport & Logistics",
-    "title": "Renegotiation Timeline Collides With Fleet Renewal",
-    "setup": "Your largest contract renegotiation and a scheduled fleet vehicle renewal both land in the same quarter, and the outcome of one materially affects how many vehicles the other should commit to.",
+    "title": "Should the Group Even Own Its Own Fleet Anymore?",
+    "setup": "A strategic review questions the group's traditional owned-fleet-and-employed-driver model against a franchise or contracted-owner-driver model that several competitors have shifted toward, offering lower fixed cost but less direct control over service quality.",
     "questions": [
-      "Which decision should wait for the other, and can you actually afford the delay?",
-      "What's the cost of committing to fleet renewal before the contract outcome is known?",
-      "Should major contract and capital cycles be deliberately staggered in future to avoid this collision?"
+      "What's actually worth protecting about direct control that a franchise model would give up?",
+      "How much of the group's cost disadvantage against competitors is explained by this structural choice?",
+      "Is a hybrid model — some owned, some franchised — a genuine option or just complexity for its own sake?"
     ]
   },
   {
     "id": "elevate-finserv-002",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "Consolidation Takes Nine Days, the Board Wants Three",
-    "setup": "Group consolidation across entities currently takes nine working days end to end, and the board has asked for a three-day close starting next quarter, with no new investment on the table to make it possible.",
+    "title": "A Fintech Challenger Unbundles Your Core Product",
+    "setup": "A fast-growing fintech challenger has unbundled one of the group's core, historically bundled products into a cheaper standalone offering, and early data shows customers picking off just that piece rather than buying the full bundle from you.",
     "questions": [
-      "What would actually need to change to get from nine days to three?",
-      "Is three days realistic without investment, or is that expectation itself the real problem?",
-      "What does the current nine-day cadence already cost in slower decision-making?"
+      "Does the group unbundle its own product before the market forces the decision anyway?",
+      "How much of group profitability depends on customers buying the bundle rather than individual pieces?",
+      "What would a genuinely competitive standalone version of this product look like, and is the group positioned to build it?"
     ]
   },
   {
     "id": "elevate-finserv-003",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "Margin Sensitivity Nobody Modelled",
-    "setup": "A single basis-point move in the fee structure turns out to swing group margin by more than £5m annually — more than any other single variable in the model — and nobody had flagged this sensitivity before it moved.",
+    "title": "A Rival's Scandal Shifts Customer Trust, Not Necessarily Your Way",
+    "setup": "A high-profile scandal at a competitor has shaken customer trust across the sector broadly, and while your group hasn't been implicated, customer research shows scepticism rising toward all providers, including yours, not just the one involved.",
     "questions": [
-      "What other sensitivities might be hiding in the model, unflagged, right now?",
-      "How should fee structure decisions change now that this sensitivity is visible?",
-      "Who should own identifying risks like this before they move, rather than after?"
+      "Is there an opportunity to actively differentiate on trust right now, or does that risk looking opportunistic?",
+      "What would genuinely rebuild sector-wide trust rather than just your own brand's messaging?",
+      "How do you measure whether trust is actually recovering, rather than assuming it will over time?"
     ]
   },
   {
     "id": "elevate-finserv-004",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "One Entity's Numbers Are Never Ready on Time",
-    "setup": "Five of six entities close and submit numbers on schedule every month. The sixth is consistently late, and the group close now waits on it every single cycle.",
+    "title": "An AI Underwriting Model Is Faster, and Nobody Can Fully Explain Its Decisions",
+    "setup": "A new AI-driven underwriting model materially speeds up decisions and improves accuracy on historical data, but its decision logic is difficult to fully explain in individual cases — a problem when a regulator or a declined customer asks why.",
     "questions": [
-      "Is this a systems problem, a resourcing problem, or a discipline problem at that specific entity?",
-      "What does the group actually lose by waiting on one entity every single month?",
-      "Should the group close proceed without the late entity and true up afterwards instead?"
+      "Is faster and more accurate on average worth less explainability in individual cases?",
+      "What governance and explainability standard should be in place before this goes live across the group?",
+      "How do you build customer and regulator trust in a system even its own team can't fully explain?"
     ]
   },
   {
     "id": "elevate-finserv-005",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "A Rate Move Changes the Economics of Two Products Overnight",
-    "setup": "A move in Bank Rate shifts the margin on two of your product lines in opposite directions at once — one becomes markedly more profitable, the other much less so.",
+    "title": "An Acquisition Doubles the Entity Count Overnight",
+    "setup": "The group completes an acquisition that adds several new legal entities at once, each with its own systems, controls and regulatory permissions, and the integration timeline the deal team promised the board looks increasingly unrealistic once due diligence detail lands.",
     "questions": [
-      "Does pricing on either product need to move, and how quickly can that happen?",
-      "How exposed is the wider product book to Bank Rate moves generally?",
-      "Should rate sensitivity be modelled per product before launch, rather than discovered after the fact?"
+      "Do you hold the board to the original integration timeline, or reset expectations now that more is known?",
+      "What's the risk of running the acquired entities on their existing systems for longer than planned?",
+      "What should the group's next deal do differently in how it plans integration before signing, not after?"
     ]
   },
   {
     "id": "elevate-finserv-006",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "Regulatory Reporting and the Board Pack Tell Different Stories",
-    "setup": "The numbers going into regulatory capital reporting and the numbers in the board's management pack are compiled through different processes and don't fully reconcile, though both are technically accurate.",
+    "title": "A New Prudential Regime Requires Capital the Group Hadn't Planned For",
+    "setup": "A change in the prudential regulatory regime increases the capital the group is required to hold against certain activities, with a phased implementation timeline that still meaningfully constrains growth plans already communicated to investors.",
     "questions": [
-      "How big a problem is this if both sets of numbers are individually correct?",
-      "What would it take to have one number that genuinely serves both purposes?",
-      "Who should be uncomfortable that this gap exists and wasn't visible until someone went looking?"
+      "Does the group scale back growth plans, raise additional capital, or reallocate capital away from other activities?",
+      "How was this regulatory change tracked in advance, and was the impact modelled early enough?",
+      "What would a more resilient approach to regulatory change look like across the group's planning cycle?"
     ]
   },
   {
     "id": "elevate-finserv-007",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "Scaling Into a New Entity Without a Template",
-    "setup": "The group is standing up a new entity in a new jurisdiction, and the planning and reporting template built for the existing entities doesn't map cleanly onto the new one's regulatory requirements.",
+    "title": "Customer Arrears Rise Across Every Entity at Once",
+    "setup": "A broader economic squeeze on household finances is pushing arrears rates up simultaneously across several of the group's lending entities, not concentrated in any one business line or region.",
     "questions": [
-      "Do you adapt the existing template, or build a fresh one specifically for this entity?",
-      "What does inconsistency across entities cost in consolidation effort down the line?",
-      "Should a more flexible template have been designed for exactly this situation from the start?"
+      "Does group-wide arrears data change risk appetite immediately, or is more time needed to see if this is a genuine trend?",
+      "How consistently are the different entities actually managing arrears, and is that visible at group level?",
+      "What would a coordinated group-wide response look like versus each entity managing its own book independently?"
     ]
   },
   {
     "id": "elevate-finserv-008",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "Fee Sensitivity Meets a Client Concentration Risk",
-    "setup": "Margin analysis reveals that a fee change affecting your largest client type would move group profitability more than any product decision currently on the table.",
+    "title": "Lost Equivalence Access Shuts a Profitable EU Line of Business",
+    "setup": "A change in the UK's regulatory equivalence status with the EU removes the group's ability to passport a profitable line of business into European markets without establishing a locally authorised EU entity.",
     "questions": [
-      "How much influence should one client segment have over group-wide fee strategy?",
-      "What's the concentration risk if that segment's preferences shift again in future?",
-      "Should the fee structure be redesigned to reduce this single point of sensitivity?"
+      "Is establishing a new EU entity worth the cost and time to preserve this business line?",
+      "How much of group profitability was quietly dependent on this single regulatory arrangement?",
+      "What would the group's European strategy look like if it simply exited rather than re-established access?"
     ]
   },
   {
     "id": "elevate-finserv-009",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "Currency Exposure Discovered After the Fact",
-    "setup": "A post-quarter review finds that three entities independently took on sterling exposure through separate transactions, none of which were visible to group treasury until consolidation.",
+    "title": "A Sector-Specific Tax Change Targets the Group Directly",
+    "setup": "A change in tax policy specifically targeting the financial services sector increases the group's effective tax rate, with the political rationale explicitly citing the sector's profitability during a period of wider economic difficulty.",
     "questions": [
-      "How did this exposure accumulate without group-level visibility, and what does that reveal about the process?",
-      "What's the actual net exposure once you can see all three positions together?",
-      "Should entity-level treasury decisions require group sign-off above a certain threshold?"
+      "How does the group respond publicly to a tax change framed around sector profitability during hardship?",
+      "What's the actual financial impact once modelled properly, versus the headline reaction?",
+      "Should tax policy risk specific to the sector be a standing item in group strategic planning?"
     ]
   },
   {
     "id": "elevate-finserv-010",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "The Consolidation Model Breaks When an Entity Changes Systems",
-    "setup": "One entity migrates to a new accounting system mid-year, and the group consolidation model — built around its old system's export format — stops working the same month as the year-end close.",
+    "title": "A Compliance Talent Shortage Slows the Group's Own Growth Plans",
+    "setup": "Growth across entities has increased the group's need for skilled compliance and risk professionals faster than the market can supply them, and a change in immigration rules has made overseas hiring for these roles slower and more expensive too.",
     "questions": [
-      "What's the immediate workaround to get through this particular close?",
-      "Whose responsibility was it to flag the downstream impact of the systems migration before it happened?",
-      "Should the consolidation model be rebuilt to be system-agnostic going forward?"
+      "Does the group's growth pace need to slow to match realistic compliance hiring capacity?",
+      "What would building this capability internally, rather than hiring it externally, actually require?",
+      "Is under-resourcing compliance during a growth phase a risk the group can quantify, or one it's just hoping doesn't materialise?"
     ]
   },
   {
     "id": "elevate-finserv-011",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "Regulatory Capital Headroom Shrinks as Growth Accelerates",
-    "setup": "Rapid growth across entities is consuming regulatory capital headroom faster than the annual planning cycle anticipated, and the next scheduled capital review is still months away.",
+    "title": "The Group Structure Has Outgrown the Reporting It's Built On",
+    "setup": "A strategic review finds the group's current reporting and consolidation architecture, designed for a handful of entities, is now straining to serve a much larger and more complex multi-entity structure built through several years of growth and acquisition.",
     "questions": [
-      "Does growth need to slow, or does capital need to be raised or reallocated sooner than planned?",
-      "How did the annual planning cycle miss this trajectory in the first place?",
-      "Should capital headroom be monitored on a different, faster cadence than once a year?"
+      "Is this a technology problem, a governance problem, or both — and which gets fixed first?",
+      "What's the cost of continuing to run on outgrown infrastructure versus the cost and disruption of rebuilding it?",
+      "Should future growth be paced against reporting capability, rather than treating reporting as something that catches up afterward?"
     ]
   },
   {
     "id": "elevate-finserv-012",
     "industry": "ELEVATE26UK: Financial Services & Multi-entity",
-    "title": "Two Entities, Two Definitions of the Same Metric",
-    "setup": "During a group-wide review, two entities turn out to have been calculating the same core performance metric differently for years, and consolidated trend data has quietly been wrong the whole time.",
+    "title": "Build, Buy, or Partner for the Digital Capability Every Competitor Now Has",
+    "setup": "A digital capability that's become table stakes across the sector doesn't yet exist within the group, and the board must choose between a multi-year internal build, acquiring a smaller firm that already has it, or partnering with an external platform provider.",
     "questions": [
-      "How far back does this need to be corrected, and how do you communicate that internally?",
-      "What does this reveal about how metrics get standardised — or don't — across a multi-entity group?",
-      "What other metrics might be hiding the same kind of inconsistency right now?"
+      "What does each path actually cost in time, money, and control over the group's own data and customer relationship?",
+      "How much competitive ground is lost for every year this capability doesn't exist?",
+      "Which choice is easiest to reverse if it turns out to be wrong, and does that matter more than which is theoretically best?"
     ]
   }
 ]

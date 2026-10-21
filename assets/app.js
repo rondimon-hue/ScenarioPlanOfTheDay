@@ -25,6 +25,7 @@ const FACTORS = [
 
 const scenarios = window.SPOD_SCENARIOS || [];
 const perspectiveData = window.SPOD_PERSPECTIVES || {};
+const driverData = window.SPOD_DRIVERS || { scenarios: {}, perspectives: {} };
 const perspective = { random: false, factors: [] };
 
 function populateIndustries(data) {
@@ -251,6 +252,16 @@ function withStop(text) {
   return text.endsWith('…') ? text : text + '.';
 }
 
+function quadrantDrivers(industry, f1, f2, q) {
+  const byFactor = (driverData.perspectives || {})[industry] || {};
+  const pick = (factor, state) => ((byFactor[factor.id] || {})[state]) || [];
+  const merged = new Map();
+  pick(f1, q.s1).concat(pick(f2, q.s2)).forEach(([name, pct]) => {
+    merged.set(name, (merged.get(name) || 0) + pct);
+  });
+  return [...merged].filter(([, pct]) => pct !== 0);
+}
+
 function buildQuadrants(industry, f1, f2) {
   const statements = perspectiveData[industry];
   return QUADRANTS.map(q => {
@@ -269,7 +280,11 @@ function buildQuadrants(industry, f1, f2) {
       title: quadrantTitle(q, f1, f2),
       preview: `${withStop(headline(first))} ${withStop(headline(second))}`,
       setup: `Picture the world a few years from now. ${first} ${second} ${closing}`,
-      questions: quadrantQuestions(q, f1, f2)
+      questions: quadrantQuestions(q, f1, f2),
+      baseIndustry: industry,
+      versionName: `${cleanIndustry(industry)} - ${tag}`,
+      context: `This is one quadrant of a 2x2 on ${f1.label} x ${f2.label} for the ${cleanIndustry(industry)} industry. If you build all four, use the same naming pattern so I can compare them side by side.`,
+      drivers: quadrantDrivers(industry, f1, f2, q)
     };
   });
 }
@@ -355,6 +370,116 @@ function refreshView() {
 selectEl.addEventListener('change', refreshView);
 searchEl.addEventListener('input', applyFilters);
 
+// ---- Claude prompt for a planning tool ------------------------------------
+
+const promptBlockEl = document.getElementById('prompt-block');
+const copyBtn = document.getElementById('copy-prompt-btn');
+const previewBtn = document.getElementById('toggle-prompt-btn');
+const previewEl = document.getElementById('prompt-preview');
+const COPY_LABEL = 'Copy Claude prompt';
+let currentPrompt = '';
+let copyResetTimer = null;
+
+function cleanIndustry(industry) {
+  return industry.replace(/^ELEVATE26UK:\s*/, '');
+}
+
+function formatPct(pct) {
+  return (pct > 0 ? '+' : '') + pct + '%';
+}
+
+function buildPrompt(s) {
+  const items = s.drivers || driverData.scenarios[s.id] || [];
+  const industry = cleanIndustry(s.baseIndustry || s.industry);
+  const name = s.versionName || s.title;
+  const lines = [
+    'I want to build a what-if scenario in my planning model. Use the MCP server connected to my planning tool (for example Jedox) to do the work, and check with me before you write any data.',
+    '',
+    `SCENARIO: ${s.title}`,
+    `Industry: ${industry}`
+  ];
+  if (s.context) lines.push(s.context);
+  lines.push(
+    '',
+    'The story:',
+    s.setup,
+    '',
+    'Questions my team will discuss:'
+  );
+  s.questions.forEach((q, i) => lines.push(`${i + 1}. ${q}`));
+  lines.push(
+    '',
+    'STARTING ASSUMPTIONS',
+    'These are illustrative changes, relative to the base forecast, suggested by the story. The line item names are generic, so map each one to the closest account or measure in my model.'
+  );
+  items.forEach(([item, pct]) => lines.push(`- ${item}: ${formatPct(pct)}`));
+  lines.push(
+    '',
+    'HOW TO BUILD IT',
+    '1. Look at the model first. List the cubes and dimensions that matter, find the version or scenario dimension, and identify the current base forecast or plan version.',
+    '2. Show me your proposed mapping from each line item above to an account or measure in my model, and flag any with no sensible match. Wait for my OK.',
+    `3. Create a new version named "SPOD - ${name}" as a copy of the base. Never change the base version or actuals.`,
+    '4. Apply each percentage change to its line item in the new version. Use the timing in the story to phase the changes in; if the timing is unclear, start from the next open period and ramp over a few periods.',
+    '5. Recalculate, then compare the new version with the base on the headline results (revenue or income, margin or surplus, and cash). Show a short table of the biggest differences.',
+    '6. Tell me which assumption moves the result most, which ones you would challenge, and which early signals to watch.',
+    '7. Finish with a three-sentence summary I can read to my team, then ask whether I want to adjust any percentage and re-run.',
+    '',
+    'Keep every change visible and reversible.'
+  );
+  return lines.join('\n');
+}
+
+async function copyText(text) {
+  if (navigator.clipboard && window.isSecureContext) {
+    try {
+      await navigator.clipboard.writeText(text);
+      return true;
+    } catch (err) { /* fall through to the legacy method */ }
+  }
+  const box = document.createElement('textarea');
+  box.value = text;
+  box.setAttribute('readonly', '');
+  box.style.position = 'fixed';
+  box.style.opacity = '0';
+  document.body.appendChild(box);
+  box.select();
+  let ok = false;
+  try { ok = document.execCommand('copy'); } catch (err) { ok = false; }
+  document.body.removeChild(box);
+  return ok;
+}
+
+function setPreviewOpen(open) {
+  previewEl.classList.toggle('hidden', !open);
+  previewBtn.textContent = open ? 'Hide prompt' : 'Preview prompt';
+}
+
+function selectPreviewText() {
+  const range = document.createRange();
+  range.selectNodeContents(previewEl);
+  const selection = window.getSelection();
+  selection.removeAllRanges();
+  selection.addRange(range);
+}
+
+function flashCopyLabel(text) {
+  copyBtn.textContent = text;
+  clearTimeout(copyResetTimer);
+  copyResetTimer = setTimeout(() => { copyBtn.textContent = COPY_LABEL; }, 2200);
+}
+
+copyBtn.addEventListener('click', async () => {
+  if (await copyText(currentPrompt)) {
+    flashCopyLabel('Copied to clipboard');
+  } else {
+    setPreviewOpen(true);
+    selectPreviewText();
+    flashCopyLabel('Press Cmd/Ctrl+C to copy');
+  }
+});
+
+previewBtn.addEventListener('click', () => setPreviewOpen(previewEl.classList.contains('hidden')));
+
 // ---- Scenario modal -----------------------------------------------------
 
 function openModal(s) {
@@ -368,6 +493,12 @@ function openModal(s) {
     li.textContent = q;
     qList.appendChild(li);
   });
+  currentPrompt = buildPrompt(s);
+  previewEl.textContent = currentPrompt;
+  setPreviewOpen(false);
+  clearTimeout(copyResetTimer);
+  copyBtn.textContent = COPY_LABEL;
+  promptBlockEl.classList.toggle('hidden', !(s.drivers || driverData.scenarios[s.id]));
   modalEl.classList.remove('hidden');
 }
 

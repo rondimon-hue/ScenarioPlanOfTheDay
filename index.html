@@ -65,6 +65,15 @@
     <p id="modal-setup"></p>
     <h3>Discuss</h3>
     <ul id="modal-questions"></ul>
+    <div id="prompt-block" class="prompt-block">
+      <h3>Take it into your plan</h3>
+      <p class="prompt-help">Copy a ready-made prompt for Claude, with suggested line items and % changes, to build this scenario in your planning tool through its MCP server.</p>
+      <div class="prompt-actions">
+        <button type="button" id="copy-prompt-btn" class="pill pill-accent">Copy Claude prompt</button>
+        <button type="button" id="toggle-prompt-btn" class="link-btn">Preview prompt</button>
+      </div>
+      <pre id="prompt-preview" class="prompt-preview hidden"></pre>
+    </div>
   </div>
 </div>
 
@@ -76,6 +85,7 @@
 
 <script src="data/scenarios.js"></script>
 <script src="data/perspectives.js"></script>
+<script src="data/drivers.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>

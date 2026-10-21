@@ -1,4 +1,4 @@
-[
+window.SPOD_SCENARIOS = [
   {
     "id": "saas-001",
     "industry": "SaaS",
@@ -3761,4 +3761,4 @@
       "Which choice is easiest to reverse if it turns out to be wrong, and does that matter more than which is theoretically best?"
     ]
   }
-]
+];

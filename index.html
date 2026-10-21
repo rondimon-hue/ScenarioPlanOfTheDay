@@ -31,8 +31,26 @@
     <select id="industry-select">
       <option value="all">All industries</option>
     </select>
+    <div class="perspective" id="perspective">
+      <button type="button" id="perspective-btn" class="perspective-btn" aria-haspopup="true" aria-expanded="false" aria-controls="perspective-panel">
+        <span class="perspective-btn-label">Perspective</span>
+        <span class="perspective-btn-value" id="perspective-summary">Pick 2</span>
+      </button>
+      <div id="perspective-panel" class="perspective-panel hidden" role="group" aria-label="Perspective: pick 2">
+        <p class="perspective-help">Pick <strong>2</strong> forces. We'll build a 2&times;2 of futures for your industry, where each force either gets better or worse.</p>
+        <div id="perspective-options" class="perspective-options"></div>
+        <div class="perspective-footer">
+          <button type="button" id="perspective-reroll" class="link-btn hidden">Re-roll Random</button>
+          <button type="button" id="perspective-clear" class="link-btn">Clear</button>
+        </div>
+      </div>
+    </div>
     <input id="search-input" type="search" placeholder="Search scenarios…">
   </section>
+
+  <p id="perspective-hint" class="perspective-hint hidden"></p>
+
+  <section id="matrix-view" class="matrix-view hidden"></section>
 
   <section id="scenario-list" class="scenario-list">
     <!-- populated by app.js -->
@@ -56,6 +74,8 @@
   </div>
 </footer>
 
+<script src="data/scenarios.js"></script>
+<script src="data/perspectives.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>

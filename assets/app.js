@@ -38,22 +38,29 @@ function populateIndustries(data) {
   });
 }
 
+function shorten(text, max) {
+  if (text.length <= max) return text;
+  return text.slice(0, text.lastIndexOf(' ', max)) + '…';
+}
+
 function render(data) {
   listEl.innerHTML = '';
   if (data.length === 0) {
-    listEl.innerHTML = '<p style="color:var(--muted)">No scenarios match your filters.</p>';
+    listEl.appendChild(el('p', 'empty-note', 'No scenarios match your filters.'));
     return;
   }
   data.forEach(s => {
-    const card = document.createElement('article');
-    card.className = 'scenario-card';
-    card.innerHTML = `
-      <span class="industry-tag">${s.industry}</span>
-      <h3>${s.title}</h3>
-      <p>${s.setup.slice(0, 110)}${s.setup.length > 110 ? '…' : ''}</p>
-    `;
-    card.addEventListener('click', () => openModal(s));
-    listEl.appendChild(card);
+    const entry = el('div', 'entry');
+    const title = el('h3', 'entry-title');
+    const link = el('a', '', s.title);
+    link.href = '#';
+    link.addEventListener('click', (e) => e.preventDefault());
+    title.appendChild(link);
+    entry.appendChild(el('span', 'entry-tag', s.industry));
+    entry.appendChild(title);
+    entry.appendChild(el('p', 'entry-preview', shorten(s.setup, 170)));
+    entry.addEventListener('click', () => openModal(s));
+    listEl.appendChild(entry);
   });
 }
 
@@ -290,8 +297,8 @@ function buildQuadrants(industry, f1, f2) {
 }
 
 function matrixCard(s) {
-  const card = el('article', 'scenario-card matrix-card matrix-' + s.key);
-  card.appendChild(el('span', 'industry-tag', s.tag));
+  const card = el('div', 'matrix-card matrix-' + s.key);
+  card.appendChild(el('span', 'quad-tag', s.tag));
   card.appendChild(el('h3', '', s.title));
   card.appendChild(el('p', '', s.preview));
   card.addEventListener('click', () => openModal(s));

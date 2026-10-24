@@ -3,29 +3,31 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
 <title>Scenario Plan of the Day</title>
 <meta name="description" content="A daily strategic scenario for business teams, browsable by industry.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/tufte/tufte.css">
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 
+<nav class="site-links" aria-label="Elsewhere">
+  <a href="https://sparklabs.studio" target="_blank" rel="noopener">Learn more about Spark Labs Studios</a>
+  <a href="https://rondimon.com" target="_blank" rel="noopener">Contact the author</a>
+</nav>
+
 <header class="site-header">
-  <div class="wrap">
-    <nav class="header-pills">
-      <a class="pill" href="https://sparklabs.studio" target="_blank" rel="noopener">Learn more about Spark Labs Studios</a>
-      <a class="pill" href="https://rondimon.com" target="_blank" rel="noopener">Contact the author</a>
-    </nav>
-    <a class="logo" href="index.html">Scenario Plan <span>of the Day</span></a>
-    <div class="tagline-row">
-      <p class="tagline">One strategic exercise every business day. Work it through with your team. MCP it into your EPM platform.</p>
-      <a class="pill pill-accent" href="how-to-use.html">How to use SPOD</a>
-    </div>
+  <div class="brand">
+    <a class="brand-icon" href="index.html" aria-label="Scenario Plan of the Day home"><img src="assets/spod-icon.png" alt="SPOD" width="64" height="64"></a>
+    <h1 class="site-title"><a href="index.html">Scenario Plan of the Day</a></h1>
   </div>
+  <p class="subtitle">
+    <a class="subtitle-link" href="how-to-use.html">How to use SPOD &rarr;</a>
+    One strategic exercise every business day. Work it through with your team. MCP it into your EPM platform.
+  </p>
 </header>
 
-<main class="wrap">
+<main>
   <section class="filter-bar">
     <label for="industry-select">Browse by industry</label>
     <select id="industry-select">
@@ -69,7 +71,7 @@
       <h3>Take it into your plan</h3>
       <p class="prompt-help">Copy a ready-made prompt for Claude, with suggested line items and % changes, to build this scenario in your planning tool through its MCP server.</p>
       <div class="prompt-actions">
-        <button type="button" id="copy-prompt-btn" class="pill pill-accent">Copy Claude prompt</button>
+        <button type="button" id="copy-prompt-btn" class="btn">Copy Claude prompt</button>
         <button type="button" id="toggle-prompt-btn" class="link-btn">Preview prompt</button>
       </div>
       <pre id="prompt-preview" class="prompt-preview hidden"></pre>
@@ -78,9 +80,7 @@
 </div>
 
 <footer class="site-footer">
-  <div class="wrap">
-    <p>&copy; <span id="year"></span> Scenario Plan of the Day. A project by MRWD LLC.</p>
-  </div>
+  <p>&copy; <span id="year"></span> Scenario Plan of the Day. A project by MRWD LLC.</p>
 </footer>
 
 <script src="data/scenarios.js"></script>

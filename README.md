@@ -6,10 +6,13 @@ Static site, no backend. Domain: `scenarioplanoftheday.com` (Cloudflare DNS → 
 
 ## Structure
 
-- `index.html` — single page app shell
-- `assets/style.css`, `assets/app.js` — styling and filter/search/modal logic
+- `index.html` — single page app shell; `how-to-use.html` — the guide
+- `assets/tufte/` — [Tufte CSS](https://github.com/edwardtufte/tufte-css) (MIT, see `assets/tufte/LICENSE`) and its ET Book fonts, vendored unmodified. It supplies the typography, page layout and dark mode (it follows the visitor's system setting).
+- `assets/style.css` — the site's own components (controls, entries, 2x2, scenario sheet), written in Tufte's idiom and loaded after `tufte.css`. Tufte CSS assumes the default box model, so don't add a global `box-sizing: border-box`.
+- `assets/app.js` — filter, search, Perspective and modal logic
 - `data/scenarios.js` — all scenario content (the `window.SPOD_SCENARIOS` array)
 - `data/perspectives.js` — per-industry "better / worse" statements for each PESTLE force, used to build the Perspective 2x2 (`window.SPOD_PERSPECTIVES`)
+- `data/drivers.js` — suggested line items and % changes behind the Copy Claude prompt button (`window.SPOD_DRIVERS`)
 
 ## Adding scenarios
 
